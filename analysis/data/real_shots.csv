@@ -1,0 +1,3682 @@
+movie_title,shot_number,start_time,shot_length_sec
+Mad Max: Fury Road,57,02:10.1,2.3
+Mad Max: Fury Road,54,01:54.9,2.1
+Mad Max: Fury Road,31,02:26.5,4.7
+Mad Max: Fury Road,4,00:13.6,3.4
+Mad Max: Fury Road,107,03:55.5,2.2
+Mad Max: Fury Road,51,01:41.8,2.0
+Mad Max: Fury Road,265,12:57.4,2.9
+Mad Max: Fury Road,96,03:47.2,2.4
+Mad Max: Fury Road,1,00:00.0,15.7
+Mad Max: Fury Road,2,00:15.7,19.4
+Mad Max: Fury Road,3,00:35.1,4.8
+Mad Max: Fury Road,4,00:39.9,1.0
+Mad Max: Fury Road,5,00:40.9,2.8
+Mad Max: Fury Road,6,00:43.7,1.0
+Mad Max: Fury Road,7,00:44.7,0.7
+Mad Max: Fury Road,8,00:45.4,3.2
+Mad Max: Fury Road,9,00:48.6,2.3
+Mad Max: Fury Road,10,00:50.9,1.6
+Mad Max: Fury Road,11,00:52.5,8.7
+Mad Max: Fury Road,12,01:01.2,6.0
+Mad Max: Fury Road,13,01:07.2,6.7
+Mad Max: Fury Road,14,01:13.9,15.4
+Mad Max: Fury Road,15,01:29.3,15.5
+Mad Max: Fury Road,16,01:44.8,0.9
+Mad Max: Fury Road,17,01:45.7,4.9
+Mad Max: Fury Road,18,01:50.6,0.3
+Mad Max: Fury Road,19,01:50.9,6.4
+Mad Max: Fury Road,20,01:57.3,13.5
+Mad Max: Fury Road,21,02:10.8,4.3
+Mad Max: Fury Road,22,02:15.1,1.6
+Mad Max: Fury Road,23,02:16.7,3.4
+Mad Max: Fury Road,24,02:20.1,2.7
+Mad Max: Fury Road,25,02:22.8,3.1
+Mad Max: Fury Road,26,02:25.9,4.4
+Mad Max: Fury Road,27,02:30.3,6.1
+Mad Max: Fury Road,28,02:36.4,3.0
+Mad Max: Fury Road,29,02:39.4,0.7
+Mad Max: Fury Road,30,02:40.1,0.9
+Mad Max: Fury Road,31,02:41.0,1.2
+Mad Max: Fury Road,32,02:42.2,0.4
+Mad Max: Fury Road,33,02:42.6,1.3
+Mad Max: Fury Road,34,02:43.9,0.9
+Mad Max: Fury Road,35,02:44.8,0.9
+Mad Max: Fury Road,36,02:45.7,1.1
+Mad Max: Fury Road,37,02:46.8,0.9
+Mad Max: Fury Road,38,02:47.7,1.9
+Mad Max: Fury Road,39,02:49.6,1.3
+Mad Max: Fury Road,40,02:50.9,1.7
+Mad Max: Fury Road,41,02:52.6,1.9
+Mad Max: Fury Road,42,02:54.5,1.8
+Mad Max: Fury Road,43,02:56.3,1.2
+Mad Max: Fury Road,44,02:57.5,2.3
+Mad Max: Fury Road,45,02:59.8,4.1
+Mad Max: Fury Road,46,03:03.9,5.0
+Mad Max: Fury Road,47,03:08.9,3.3
+Mad Max: Fury Road,48,03:12.2,2.4
+Mad Max: Fury Road,49,03:14.6,4.5
+Mad Max: Fury Road,50,03:19.1,3.0
+Mad Max: Fury Road,51,03:22.1,1.4
+Mad Max: Fury Road,52,03:23.5,0.5
+Mad Max: Fury Road,53,03:24.0,0.9
+Mad Max: Fury Road,54,03:24.9,0.3
+Mad Max: Fury Road,55,03:25.2,0.8
+Mad Max: Fury Road,56,03:26.0,1.2
+Mad Max: Fury Road,57,03:27.2,1.2
+Mad Max: Fury Road,58,03:28.4,0.6
+Mad Max: Fury Road,59,03:29.0,0.9
+Mad Max: Fury Road,60,03:29.9,1.5
+Mad Max: Fury Road,61,03:31.4,1.5
+Mad Max: Fury Road,62,03:32.9,0.6
+Mad Max: Fury Road,63,03:33.5,1.2
+Mad Max: Fury Road,64,03:34.7,0.8
+Mad Max: Fury Road,65,03:35.5,0.7
+Mad Max: Fury Road,66,03:36.2,1.4
+Mad Max: Fury Road,67,03:37.6,0.9
+Mad Max: Fury Road,68,03:38.5,0.8
+Mad Max: Fury Road,69,03:39.3,0.7
+Mad Max: Fury Road,70,03:40.0,4.4
+Mad Max: Fury Road,71,03:44.4,4.6
+Mad Max: Fury Road,72,03:49.0,2.1
+Mad Max: Fury Road,73,03:51.1,1.8
+Mad Max: Fury Road,74,03:52.9,1.9
+Mad Max: Fury Road,75,03:54.8,2.0
+Mad Max: Fury Road,76,03:56.8,1.3
+Mad Max: Fury Road,77,03:58.1,1.3
+Mad Max: Fury Road,78,03:59.4,1.3
+Mad Max: Fury Road,79,04:00.7,0.7
+Mad Max: Fury Road,80,04:01.4,1.1
+Mad Max: Fury Road,81,04:02.5,0.8
+Mad Max: Fury Road,82,04:03.3,0.6
+Mad Max: Fury Road,83,04:03.9,0.9
+Mad Max: Fury Road,84,04:04.8,0.7
+Mad Max: Fury Road,85,04:05.5,1.0
+Mad Max: Fury Road,86,04:06.5,1.0
+Mad Max: Fury Road,87,04:07.5,1.7
+Mad Max: Fury Road,88,04:09.2,2.3
+Mad Max: Fury Road,89,04:11.5,1.5
+Mad Max: Fury Road,90,04:13.0,1.3
+Mad Max: Fury Road,91,04:14.3,1.1
+Mad Max: Fury Road,92,04:15.4,1.1
+Mad Max: Fury Road,93,04:16.5,1.5
+Mad Max: Fury Road,94,04:18.0,1.1
+Mad Max: Fury Road,95,04:19.1,1.1
+Mad Max: Fury Road,96,04:20.2,4.4
+Mad Max: Fury Road,97,04:24.6,2.9
+Mad Max: Fury Road,98,04:27.5,2.1
+Mad Max: Fury Road,99,04:29.6,2.2
+Mad Max: Fury Road,100,04:31.8,2.0
+Mad Max: Fury Road,101,04:33.8,2.2
+Mad Max: Fury Road,102,04:36.0,3.3
+Mad Max: Fury Road,103,04:39.3,7.7
+Mad Max: Fury Road,104,04:47.0,14.5
+Mad Max: Fury Road,105,05:01.5,3.3
+Mad Max: Fury Road,106,05:04.8,4.1
+Mad Max: Fury Road,107,05:08.9,1.7
+Mad Max: Fury Road,108,05:10.6,3.1
+Mad Max: Fury Road,109,05:13.7,3.1
+Mad Max: Fury Road,110,05:16.8,3.2
+Mad Max: Fury Road,111,05:20.0,4.9
+Mad Max: Fury Road,112,05:24.9,5.0
+Mad Max: Fury Road,113,05:29.9,2.9
+Mad Max: Fury Road,114,05:32.8,2.5
+Mad Max: Fury Road,115,05:35.3,1.4
+Mad Max: Fury Road,116,05:36.7,2.9
+Mad Max: Fury Road,117,05:39.6,1.5
+Mad Max: Fury Road,118,05:41.1,1.4
+Mad Max: Fury Road,119,05:42.5,2.6
+Mad Max: Fury Road,120,05:45.1,4.2
+Mad Max: Fury Road,121,05:49.3,5.8
+Mad Max: Fury Road,122,05:55.1,6.7
+Mad Max: Fury Road,123,06:01.8,3.1
+Mad Max: Fury Road,124,06:04.9,2.4
+Mad Max: Fury Road,125,06:07.3,3.7
+Mad Max: Fury Road,126,06:11.0,1.9
+Mad Max: Fury Road,127,06:12.9,3.9
+Mad Max: Fury Road,128,06:16.8,6.1
+Mad Max: Fury Road,129,06:22.9,6.6
+Mad Max: Fury Road,130,06:29.5,2.8
+Mad Max: Fury Road,131,06:32.3,6.2
+Mad Max: Fury Road,132,06:38.5,7.0
+Mad Max: Fury Road,133,06:45.5,2.3
+Mad Max: Fury Road,134,06:47.8,2.5
+Mad Max: Fury Road,135,06:50.3,6.6
+Mad Max: Fury Road,136,06:56.9,4.9
+Mad Max: Fury Road,137,07:01.8,4.8
+Mad Max: Fury Road,138,07:06.6,3.0
+Mad Max: Fury Road,139,07:09.6,6.8
+Mad Max: Fury Road,140,07:16.4,5.9
+Mad Max: Fury Road,141,07:22.3,3.2
+Mad Max: Fury Road,142,07:25.5,11.3
+Mad Max: Fury Road,143,07:36.8,2.0
+Mad Max: Fury Road,144,07:38.8,6.3
+Mad Max: Fury Road,145,07:45.1,7.7
+Mad Max: Fury Road,146,07:52.8,8.1
+Mad Max: Fury Road,147,08:00.9,4.7
+Mad Max: Fury Road,148,08:05.6,4.6
+Mad Max: Fury Road,149,08:10.2,2.5
+Mad Max: Fury Road,150,08:12.7,2.3
+Mad Max: Fury Road,151,08:15.0,1.5
+Mad Max: Fury Road,152,08:16.5,3.3
+Mad Max: Fury Road,153,08:19.8,6.9
+Mad Max: Fury Road,154,08:26.7,4.0
+Mad Max: Fury Road,155,08:30.7,4.0
+Mad Max: Fury Road,156,08:34.7,4.6
+Mad Max: Fury Road,157,08:39.3,3.2
+Mad Max: Fury Road,158,08:42.5,3.2
+Mad Max: Fury Road,159,08:45.7,2.5
+Mad Max: Fury Road,160,08:48.2,3.6
+Mad Max: Fury Road,161,08:51.8,7.1
+Mad Max: Fury Road,162,08:58.9,4.9
+Mad Max: Fury Road,163,09:03.8,3.9
+Mad Max: Fury Road,164,09:07.7,6.1
+Mad Max: Fury Road,165,09:13.8,7.6
+Mad Max: Fury Road,166,09:21.4,1.9
+Mad Max: Fury Road,167,09:23.3,4.4
+Mad Max: Fury Road,168,09:27.7,6.4
+Mad Max: Fury Road,169,09:34.1,1.8
+Mad Max: Fury Road,170,09:35.9,4.9
+Mad Max: Fury Road,171,09:40.8,5.9
+Mad Max: Fury Road,172,09:46.7,6.3
+Mad Max: Fury Road,173,09:53.0,7.8
+Mad Max: Fury Road,174,10:00.8,4.4
+Mad Max: Fury Road,175,10:05.2,6.5
+Mad Max: Fury Road,176,10:11.7,3.9
+Mad Max: Fury Road,177,10:15.6,4.5
+Mad Max: Fury Road,178,10:20.1,1.7
+Mad Max: Fury Road,179,10:21.8,2.0
+Mad Max: Fury Road,180,10:23.8,4.4
+Mad Max: Fury Road,181,10:28.2,4.7
+Mad Max: Fury Road,182,10:32.9,2.8
+Mad Max: Fury Road,183,10:35.7,1.1
+Mad Max: Fury Road,184,10:36.8,2.0
+Mad Max: Fury Road,185,10:38.8,1.3
+Mad Max: Fury Road,186,10:40.1,2.4
+Mad Max: Fury Road,187,10:42.5,1.3
+Mad Max: Fury Road,188,10:43.8,2.0
+Mad Max: Fury Road,189,10:45.8,5.0
+Mad Max: Fury Road,190,10:50.8,3.1
+Mad Max: Fury Road,191,10:53.9,3.1
+Mad Max: Fury Road,192,10:57.0,4.6
+Mad Max: Fury Road,193,11:01.6,11.1
+Mad Max: Fury Road,194,11:12.7,1.7
+Mad Max: Fury Road,195,11:14.4,2.0
+Mad Max: Fury Road,196,11:16.4,4.5
+Mad Max: Fury Road,197,11:20.9,2.3
+Mad Max: Fury Road,198,11:23.2,8.0
+Mad Max: Fury Road,199,11:31.2,12.7
+Mad Max: Fury Road,200,11:43.9,8.9
+Mad Max: Fury Road,201,11:52.8,7.1
+Mad Max: Fury Road,202,11:59.9,2.9
+Mad Max: Fury Road,203,12:02.8,2.7
+Mad Max: Fury Road,204,12:05.5,2.6
+Mad Max: Fury Road,205,12:08.1,3.2
+Mad Max: Fury Road,206,12:11.3,3.3
+Mad Max: Fury Road,207,12:14.6,7.5
+Mad Max: Fury Road,208,12:22.1,4.4
+Mad Max: Fury Road,209,12:26.5,4.1
+Mad Max: Fury Road,210,12:30.6,12.5
+Mad Max: Fury Road,211,12:43.1,4.0
+Mad Max: Fury Road,212,12:47.1,8.4
+Mad Max: Fury Road,213,12:55.5,2.3
+Mad Max: Fury Road,214,12:57.8,3.2
+Mad Max: Fury Road,215,13:01.0,2.2
+Mad Max: Fury Road,216,13:03.2,2.6
+Mad Max: Fury Road,217,13:05.8,5.7
+Mad Max: Fury Road,218,13:11.5,1.1
+Mad Max: Fury Road,219,13:12.6,6.8
+Mad Max: Fury Road,220,13:19.4,1.7
+Mad Max: Fury Road,221,13:21.1,4.2
+Mad Max: Fury Road,222,13:25.3,1.0
+Mad Max: Fury Road,223,13:26.3,10.7
+Mad Max: Fury Road,224,13:37.0,5.8
+Mad Max: Fury Road,225,13:42.8,5.5
+Mad Max: Fury Road,226,13:48.3,0.3
+Mad Max: Fury Road,227,13:48.6,3.1
+Mad Max: Fury Road,228,13:51.7,0.9
+Mad Max: Fury Road,229,13:52.6,2.8
+Mad Max: Fury Road,230,13:55.4,2.5
+Mad Max: Fury Road,231,13:57.9,3.9
+Mad Max: Fury Road,232,14:01.8,5.6
+Mad Max: Fury Road,233,14:07.4,3.0
+Mad Max: Fury Road,234,14:10.4,2.2
+Mad Max: Fury Road,235,14:12.6,1.7
+Mad Max: Fury Road,236,14:14.3,4.3
+Mad Max: Fury Road,237,14:18.6,0.9
+Mad Max: Fury Road,238,14:19.5,0.7
+Mad Max: Fury Road,239,14:20.2,1.4
+Mad Max: Fury Road,240,14:21.6,2.2
+Mad Max: Fury Road,241,14:23.8,2.8
+Mad Max: Fury Road,242,14:26.6,2.1
+Mad Max: Fury Road,243,14:28.7,8.8
+Mad Max: Fury Road,244,14:37.5,1.6
+Mad Max: Fury Road,245,14:39.1,5.1
+Mad Max: Fury Road,246,14:44.2,1.9
+Mad Max: Fury Road,247,14:46.1,2.0
+Mad Max: Fury Road,248,14:48.1,1.2
+Mad Max: Fury Road,249,14:49.3,3.3
+Mad Max: Fury Road,250,14:52.6,0.8
+Mad Max: Fury Road,251,14:53.4,2.2
+Mad Max: Fury Road,252,14:55.6,5.1
+Mad Max: Fury Road,253,15:00.7,6.3
+Mad Max: Fury Road,254,15:07.0,1.3
+Mad Max: Fury Road,255,15:08.3,1.4
+Mad Max: Fury Road,256,15:09.7,6.9
+Mad Max: Fury Road,257,15:16.6,32.9
+Mad Max: Fury Road,258,15:49.5,2.0
+Mad Max: Fury Road,259,15:51.5,6.2
+Mad Max: Fury Road,260,15:57.7,1.8
+Mad Max: Fury Road,261,15:59.5,1.1
+Mad Max: Fury Road,262,16:00.6,1.7
+Mad Max: Fury Road,263,16:02.3,0.8
+Mad Max: Fury Road,264,16:03.1,1.3
+Mad Max: Fury Road,265,16:04.4,2.0
+Mad Max: Fury Road,266,16:06.4,3.6
+Mad Max: Fury Road,267,16:10.0,2.1
+Mad Max: Fury Road,268,16:12.1,2.1
+Mad Max: Fury Road,269,16:14.2,2.0
+Mad Max: Fury Road,270,16:16.2,1.0
+Mad Max: Fury Road,271,16:17.2,2.8
+Mad Max: Fury Road,272,16:20.0,0.9
+Mad Max: Fury Road,273,16:20.9,1.0
+Mad Max: Fury Road,274,16:21.9,2.3
+Mad Max: Fury Road,275,16:24.2,1.4
+Mad Max: Fury Road,276,16:25.6,1.3
+Mad Max: Fury Road,277,16:26.9,1.0
+Mad Max: Fury Road,278,16:27.9,3.3
+Mad Max: Fury Road,279,16:31.2,2.0
+Mad Max: Fury Road,280,16:33.2,9.3
+Mad Max: Fury Road,281,16:42.5,8.8
+Mad Max: Fury Road,282,16:51.3,4.1
+Mad Max: Fury Road,283,16:55.4,3.3
+Mad Max: Fury Road,284,16:58.7,1.1
+Mad Max: Fury Road,285,16:59.8,2.0
+Mad Max: Fury Road,286,17:01.8,2.6
+Mad Max: Fury Road,287,17:04.4,1.0
+Mad Max: Fury Road,288,17:05.4,3.1
+Mad Max: Fury Road,289,17:08.5,2.2
+Mad Max: Fury Road,290,17:10.7,4.2
+Mad Max: Fury Road,291,17:14.9,2.3
+Mad Max: Fury Road,292,17:17.2,15.6
+Mad Max: Fury Road,293,17:32.8,3.8
+Mad Max: Fury Road,294,17:36.6,4.1
+Mad Max: Fury Road,295,17:40.7,1.4
+Mad Max: Fury Road,296,17:42.1,3.0
+Mad Max: Fury Road,297,17:45.1,2.8
+Mad Max: Fury Road,298,17:47.9,1.6
+Mad Max: Fury Road,299,17:49.5,1.0
+Mad Max: Fury Road,300,17:50.5,5.0
+Mad Max: Fury Road,301,17:55.5,2.4
+Mad Max: Fury Road,302,17:57.9,3.1
+Mad Max: Fury Road,303,18:01.0,6.9
+Mad Max: Fury Road,304,18:07.9,3.3
+Mad Max: Fury Road,305,18:11.2,1.2
+Mad Max: Fury Road,306,18:12.4,1.4
+Mad Max: Fury Road,307,18:13.8,2.0
+Mad Max: Fury Road,308,18:15.8,0.8
+Mad Max: Fury Road,309,18:16.6,1.1
+Mad Max: Fury Road,310,18:17.7,1.2
+Mad Max: Fury Road,311,18:18.9,1.7
+Mad Max: Fury Road,312,18:20.6,1.0
+Mad Max: Fury Road,313,18:21.6,1.2
+Mad Max: Fury Road,314,18:22.8,0.7
+Mad Max: Fury Road,315,18:23.5,0.7
+Mad Max: Fury Road,316,18:24.2,1.7
+Mad Max: Fury Road,317,18:25.9,2.9
+Mad Max: Fury Road,318,18:28.8,8.1
+Mad Max: Fury Road,319,18:36.9,0.8
+Mad Max: Fury Road,320,18:37.7,1.9
+Mad Max: Fury Road,321,18:39.6,0.6
+Mad Max: Fury Road,322,18:40.2,1.0
+Mad Max: Fury Road,323,18:41.2,1.3
+Mad Max: Fury Road,324,18:42.5,0.5
+Mad Max: Fury Road,325,18:43.0,1.6
+Mad Max: Fury Road,326,18:44.6,1.3
+Mad Max: Fury Road,327,18:45.9,1.6
+Mad Max: Fury Road,328,18:47.5,0.7
+Mad Max: Fury Road,329,18:48.2,1.4
+Mad Max: Fury Road,330,18:49.6,1.3
+Mad Max: Fury Road,331,18:50.9,1.5
+Mad Max: Fury Road,332,18:52.4,3.5
+Mad Max: Fury Road,333,18:55.9,3.7
+Mad Max: Fury Road,334,18:59.6,1.4
+Mad Max: Fury Road,335,19:01.0,2.1
+Mad Max: Fury Road,336,19:03.1,3.9
+Mad Max: Fury Road,337,19:07.0,3.1
+Mad Max: Fury Road,338,19:10.1,2.2
+Mad Max: Fury Road,339,19:12.3,1.6
+Mad Max: Fury Road,340,19:13.9,1.9
+Mad Max: Fury Road,341,19:15.8,0.6
+Mad Max: Fury Road,342,19:16.4,0.8
+Mad Max: Fury Road,343,19:17.2,2.7
+Mad Max: Fury Road,344,19:19.9,0.4
+Mad Max: Fury Road,345,19:20.3,3.1
+Mad Max: Fury Road,346,19:23.4,5.8
+Mad Max: Fury Road,347,19:29.2,4.4
+Mad Max: Fury Road,348,19:33.6,2.4
+Mad Max: Fury Road,349,19:36.0,1.4
+Mad Max: Fury Road,350,19:37.4,10.5
+Mad Max: Fury Road,351,19:47.9,1.8
+Mad Max: Fury Road,352,19:49.7,5.4
+Mad Max: Fury Road,353,19:55.1,5.1
+Mad Max: Fury Road,354,20:00.2,1.8
+Mad Max: Fury Road,355,20:02.0,1.7
+Mad Max: Fury Road,356,20:03.7,3.5
+Mad Max: Fury Road,357,20:07.2,1.0
+Mad Max: Fury Road,358,20:08.2,1.4
+Mad Max: Fury Road,359,20:09.6,1.5
+Mad Max: Fury Road,360,20:11.1,1.0
+Mad Max: Fury Road,361,20:12.1,1.3
+Mad Max: Fury Road,362,20:13.4,1.5
+Mad Max: Fury Road,363,20:14.9,0.9
+Mad Max: Fury Road,364,20:15.8,2.7
+Mad Max: Fury Road,365,20:18.5,1.5
+Mad Max: Fury Road,366,20:20.0,1.7
+Mad Max: Fury Road,367,20:21.7,1.3
+Mad Max: Fury Road,368,20:23.0,2.1
+Mad Max: Fury Road,369,20:25.1,1.6
+Mad Max: Fury Road,370,20:26.7,2.8
+Mad Max: Fury Road,371,20:29.5,3.3
+Mad Max: Fury Road,372,20:32.8,1.7
+Mad Max: Fury Road,373,20:34.5,1.1
+Mad Max: Fury Road,374,20:35.6,0.5
+Mad Max: Fury Road,375,20:36.1,1.5
+Mad Max: Fury Road,376,20:37.6,0.9
+Mad Max: Fury Road,377,20:38.5,0.5
+Mad Max: Fury Road,378,20:39.0,1.4
+Mad Max: Fury Road,379,20:40.4,0.9
+Mad Max: Fury Road,380,20:41.3,0.8
+Mad Max: Fury Road,381,20:42.1,1.6
+Mad Max: Fury Road,382,20:43.7,1.0
+Mad Max: Fury Road,383,20:44.7,1.4
+Mad Max: Fury Road,384,20:46.1,0.1
+Mad Max: Fury Road,385,20:46.2,2.0
+Mad Max: Fury Road,386,20:48.2,2.1
+Mad Max: Fury Road,387,20:50.3,4.6
+Mad Max: Fury Road,388,20:54.9,0.9
+Mad Max: Fury Road,389,20:55.8,5.9
+Mad Max: Fury Road,390,21:01.7,1.0
+Mad Max: Fury Road,391,21:02.7,1.4
+Mad Max: Fury Road,392,21:04.1,1.8
+Mad Max: Fury Road,393,21:05.9,1.7
+Mad Max: Fury Road,394,21:07.6,0.5
+Mad Max: Fury Road,395,21:08.1,1.2
+Mad Max: Fury Road,396,21:09.3,0.6
+Mad Max: Fury Road,397,21:09.9,1.0
+Mad Max: Fury Road,398,21:10.9,0.9
+Mad Max: Fury Road,399,21:11.8,0.7
+Mad Max: Fury Road,400,21:12.5,1.2
+Mad Max: Fury Road,401,21:13.7,0.7
+Mad Max: Fury Road,402,21:14.4,0.9
+Mad Max: Fury Road,403,21:15.3,1.0
+Mad Max: Fury Road,404,21:16.3,1.1
+Mad Max: Fury Road,405,21:17.4,2.8
+Mad Max: Fury Road,406,21:20.2,1.9
+Mad Max: Fury Road,407,21:22.1,1.1
+Mad Max: Fury Road,408,21:23.2,1.0
+Mad Max: Fury Road,409,21:24.2,1.5
+Mad Max: Fury Road,410,21:25.7,0.7
+Mad Max: Fury Road,411,21:26.4,3.6
+Mad Max: Fury Road,412,21:30.0,7.9
+Mad Max: Fury Road,413,21:37.9,1.0
+Mad Max: Fury Road,414,21:38.9,0.9
+Mad Max: Fury Road,415,21:39.8,1.0
+Mad Max: Fury Road,416,21:40.8,2.0
+Mad Max: Fury Road,417,21:42.8,1.1
+Mad Max: Fury Road,418,21:43.9,0.6
+Mad Max: Fury Road,419,21:44.5,0.5
+Mad Max: Fury Road,420,21:45.0,0.4
+Mad Max: Fury Road,421,21:45.4,1.6
+Mad Max: Fury Road,422,21:47.0,0.7
+Mad Max: Fury Road,423,21:47.7,0.9
+Mad Max: Fury Road,424,21:48.6,3.4
+Mad Max: Fury Road,425,21:52.0,1.2
+Mad Max: Fury Road,426,21:53.2,1.1
+Mad Max: Fury Road,427,21:54.3,3.1
+Mad Max: Fury Road,428,21:57.4,0.8
+Mad Max: Fury Road,429,21:58.2,1.9
+Mad Max: Fury Road,430,22:00.1,1.3
+Mad Max: Fury Road,431,22:01.4,1.3
+Mad Max: Fury Road,432,22:02.7,2.2
+Mad Max: Fury Road,433,22:04.9,0.8
+Mad Max: Fury Road,434,22:05.7,1.1
+Mad Max: Fury Road,435,22:06.8,1.3
+Mad Max: Fury Road,436,22:08.1,1.1
+Mad Max: Fury Road,437,22:09.2,1.7
+Mad Max: Fury Road,438,22:10.9,0.5
+Mad Max: Fury Road,439,22:11.4,0.8
+Mad Max: Fury Road,440,22:12.2,1.0
+Mad Max: Fury Road,441,22:13.2,1.3
+Mad Max: Fury Road,442,22:14.5,1.9
+Mad Max: Fury Road,443,22:16.4,1.7
+Mad Max: Fury Road,444,22:18.1,1.3
+Mad Max: Fury Road,445,22:19.4,5.2
+Mad Max: Fury Road,446,22:24.6,0.9
+Mad Max: Fury Road,447,22:25.5,1.1
+Mad Max: Fury Road,448,22:26.6,0.8
+Mad Max: Fury Road,449,22:27.4,0.5
+Mad Max: Fury Road,450,22:27.9,0.8
+Mad Max: Fury Road,451,22:28.7,1.0
+Mad Max: Fury Road,452,22:29.7,1.3
+Mad Max: Fury Road,453,22:31.0,1.7
+Mad Max: Fury Road,454,22:32.7,0.5
+Mad Max: Fury Road,455,22:33.2,0.8
+Mad Max: Fury Road,456,22:34.0,0.6
+Mad Max: Fury Road,457,22:34.6,1.2
+Mad Max: Fury Road,458,22:35.8,1.2
+Mad Max: Fury Road,459,22:37.0,1.6
+Mad Max: Fury Road,460,22:38.6,0.9
+Mad Max: Fury Road,461,22:39.5,1.7
+Mad Max: Fury Road,462,22:41.2,0.6
+Mad Max: Fury Road,463,22:41.8,1.4
+Mad Max: Fury Road,464,22:43.2,1.0
+Mad Max: Fury Road,465,22:44.2,1.3
+Mad Max: Fury Road,466,22:45.5,1.5
+Mad Max: Fury Road,467,22:47.0,1.1
+Mad Max: Fury Road,468,22:48.1,1.0
+Mad Max: Fury Road,469,22:49.1,1.1
+Mad Max: Fury Road,470,22:50.2,1.7
+Mad Max: Fury Road,471,22:51.9,0.7
+Mad Max: Fury Road,472,22:52.6,2.5
+Mad Max: Fury Road,473,22:55.1,0.5
+Mad Max: Fury Road,474,22:55.6,0.4
+Mad Max: Fury Road,475,22:56.0,0.7
+Mad Max: Fury Road,476,22:56.7,0.8
+Mad Max: Fury Road,477,22:57.5,0.6
+Mad Max: Fury Road,478,22:58.1,3.2
+Mad Max: Fury Road,479,23:01.3,0.7
+Mad Max: Fury Road,480,23:02.0,0.6
+Mad Max: Fury Road,481,23:02.6,1.3
+Mad Max: Fury Road,482,23:03.9,1.6
+Mad Max: Fury Road,483,23:05.5,2.8
+Mad Max: Fury Road,484,23:08.3,2.0
+Mad Max: Fury Road,485,23:10.3,2.5
+Mad Max: Fury Road,486,23:12.8,6.5
+Mad Max: Fury Road,487,23:19.3,1.8
+Mad Max: Fury Road,488,23:21.1,1.5
+Mad Max: Fury Road,489,23:22.6,1.8
+Mad Max: Fury Road,490,23:24.4,1.1
+Mad Max: Fury Road,491,23:25.5,1.7
+Mad Max: Fury Road,492,23:27.2,1.4
+Mad Max: Fury Road,493,23:28.6,2.0
+Mad Max: Fury Road,494,23:30.6,1.5
+Mad Max: Fury Road,495,23:32.1,6.1
+Mad Max: Fury Road,496,23:38.2,4.1
+Mad Max: Fury Road,497,23:42.3,2.4
+Mad Max: Fury Road,498,23:44.7,4.8
+Mad Max: Fury Road,499,23:49.5,14.1
+Mad Max: Fury Road,500,24:03.6,4.2
+Mad Max: Fury Road,501,24:07.8,1.8
+Mad Max: Fury Road,502,24:09.6,1.5
+Mad Max: Fury Road,503,24:11.1,2.8
+Mad Max: Fury Road,504,24:13.9,2.6
+Mad Max: Fury Road,505,24:16.5,1.3
+Mad Max: Fury Road,506,24:17.8,1.5
+Mad Max: Fury Road,507,24:19.3,0.9
+Mad Max: Fury Road,508,24:20.2,1.5
+Mad Max: Fury Road,509,24:21.7,1.1
+Mad Max: Fury Road,510,24:22.8,1.3
+Mad Max: Fury Road,511,24:24.1,0.8
+Mad Max: Fury Road,512,24:24.9,1.0
+Mad Max: Fury Road,513,24:25.9,0.4
+Mad Max: Fury Road,514,24:26.3,0.8
+Mad Max: Fury Road,515,24:27.1,0.8
+Mad Max: Fury Road,516,24:27.9,0.5
+Mad Max: Fury Road,517,24:28.4,1.8
+Mad Max: Fury Road,518,24:30.2,1.2
+Mad Max: Fury Road,519,24:31.4,0.8
+Mad Max: Fury Road,520,24:32.2,1.9
+Mad Max: Fury Road,521,24:34.1,1.1
+Mad Max: Fury Road,522,24:35.2,1.3
+Mad Max: Fury Road,523,24:36.5,2.5
+Mad Max: Fury Road,524,24:39.0,1.3
+Mad Max: Fury Road,525,24:40.3,0.7
+Mad Max: Fury Road,526,24:41.0,0.8
+Mad Max: Fury Road,527,24:41.8,1.1
+Mad Max: Fury Road,528,24:42.9,2.2
+Mad Max: Fury Road,529,24:45.1,1.9
+Mad Max: Fury Road,530,24:47.0,0.9
+Mad Max: Fury Road,531,24:47.9,2.4
+Mad Max: Fury Road,532,24:50.3,2.0
+Mad Max: Fury Road,533,24:52.3,1.1
+Mad Max: Fury Road,534,24:53.4,0.6
+Mad Max: Fury Road,535,24:54.0,2.2
+Mad Max: Fury Road,536,24:56.2,5.7
+Mad Max: Fury Road,537,25:01.9,1.1
+Mad Max: Fury Road,538,25:03.0,1.1
+Mad Max: Fury Road,539,25:04.1,2.1
+Mad Max: Fury Road,540,25:06.2,2.0
+Mad Max: Fury Road,541,25:08.2,2.8
+Mad Max: Fury Road,542,25:11.0,0.5
+Mad Max: Fury Road,543,25:11.5,1.5
+Mad Max: Fury Road,544,25:13.0,0.7
+Mad Max: Fury Road,545,25:13.7,1.3
+Mad Max: Fury Road,546,25:15.0,1.1
+Mad Max: Fury Road,547,25:16.1,1.1
+Mad Max: Fury Road,548,25:17.2,1.8
+Mad Max: Fury Road,549,25:19.0,2.6
+Mad Max: Fury Road,550,25:21.6,2.1
+Mad Max: Fury Road,551,25:23.7,1.5
+Mad Max: Fury Road,552,25:25.2,1.3
+Mad Max: Fury Road,553,25:26.5,1.4
+Mad Max: Fury Road,554,25:27.9,1.3
+Mad Max: Fury Road,555,25:29.2,0.5
+Mad Max: Fury Road,556,25:29.7,0.6
+Mad Max: Fury Road,557,25:30.3,1.3
+Mad Max: Fury Road,558,25:31.6,0.5
+Mad Max: Fury Road,559,25:32.1,0.7
+Mad Max: Fury Road,560,25:32.8,0.9
+Mad Max: Fury Road,561,25:33.7,1.6
+Mad Max: Fury Road,562,25:35.3,0.7
+Mad Max: Fury Road,563,25:36.0,0.7
+Mad Max: Fury Road,564,25:36.7,1.0
+Mad Max: Fury Road,565,25:37.7,1.5
+Mad Max: Fury Road,566,25:39.2,0.8
+Mad Max: Fury Road,567,25:40.0,1.2
+Mad Max: Fury Road,568,25:41.2,1.7
+Mad Max: Fury Road,569,25:42.9,2.4
+Mad Max: Fury Road,570,25:45.3,2.3
+Mad Max: Fury Road,571,25:47.6,0.4
+Mad Max: Fury Road,572,25:48.0,1.4
+Mad Max: Fury Road,573,25:49.4,1.4
+Mad Max: Fury Road,574,25:50.8,1.2
+Mad Max: Fury Road,575,25:52.0,1.6
+Mad Max: Fury Road,576,25:53.6,0.9
+Mad Max: Fury Road,577,25:54.5,1.0
+Mad Max: Fury Road,578,25:55.5,4.5
+Mad Max: Fury Road,579,26:00.0,0.8
+Mad Max: Fury Road,580,26:00.8,4.8
+Mad Max: Fury Road,581,26:05.6,3.6
+Mad Max: Fury Road,582,26:09.2,2.3
+Mad Max: Fury Road,583,26:11.5,2.4
+Mad Max: Fury Road,584,26:13.9,4.7
+Mad Max: Fury Road,585,26:18.6,1.8
+Mad Max: Fury Road,586,26:20.4,11.7
+Mad Max: Fury Road,587,26:32.1,1.7
+Mad Max: Fury Road,588,26:33.8,2.1
+Mad Max: Fury Road,589,26:35.9,3.2
+Mad Max: Fury Road,590,26:39.1,2.8
+Mad Max: Fury Road,591,26:41.9,1.9
+Mad Max: Fury Road,592,26:43.8,2.2
+Mad Max: Fury Road,593,26:46.0,1.8
+Mad Max: Fury Road,594,26:47.8,1.4
+Mad Max: Fury Road,595,26:49.2,1.1
+Mad Max: Fury Road,596,26:50.3,2.7
+Mad Max: Fury Road,597,26:53.0,1.2
+Mad Max: Fury Road,598,26:54.2,8.2
+Mad Max: Fury Road,599,27:02.4,1.6
+Mad Max: Fury Road,600,27:04.0,7.9
+Mad Max: Fury Road,601,27:11.9,0.3
+Mad Max: Fury Road,602,27:12.2,2.1
+Mad Max: Fury Road,603,27:14.3,2.0
+Mad Max: Fury Road,604,27:16.3,8.5
+Mad Max: Fury Road,605,27:24.8,2.3
+Mad Max: Fury Road,606,27:27.1,2.2
+Mad Max: Fury Road,607,27:29.3,1.0
+Mad Max: Fury Road,608,27:30.3,0.4
+Mad Max: Fury Road,609,27:30.7,2.2
+Mad Max: Fury Road,610,27:32.9,0.8
+Mad Max: Fury Road,611,27:33.7,1.7
+Mad Max: Fury Road,612,27:35.4,2.9
+Mad Max: Fury Road,613,27:38.3,0.9
+Mad Max: Fury Road,614,27:39.2,1.3
+Mad Max: Fury Road,615,27:40.5,1.7
+Mad Max: Fury Road,616,27:42.2,1.3
+Mad Max: Fury Road,617,27:43.5,2.0
+Mad Max: Fury Road,618,27:45.5,0.9
+Mad Max: Fury Road,619,27:46.4,4.3
+Mad Max: Fury Road,620,27:50.7,0.8
+Mad Max: Fury Road,621,27:51.5,0.9
+Mad Max: Fury Road,622,27:52.4,1.8
+Mad Max: Fury Road,623,27:54.2,1.0
+Mad Max: Fury Road,624,27:55.2,1.5
+Mad Max: Fury Road,625,27:56.7,0.7
+Mad Max: Fury Road,626,27:57.4,1.2
+Mad Max: Fury Road,627,27:58.6,2.1
+Mad Max: Fury Road,628,28:00.7,1.9
+Mad Max: Fury Road,629,28:02.6,1.4
+Mad Max: Fury Road,630,28:04.0,1.1
+Mad Max: Fury Road,631,28:05.1,0.8
+Mad Max: Fury Road,632,28:05.9,0.7
+Mad Max: Fury Road,633,28:06.6,1.6
+Mad Max: Fury Road,634,28:08.2,6.3
+Mad Max: Fury Road,635,28:14.5,1.5
+Mad Max: Fury Road,636,28:16.0,0.5
+Mad Max: Fury Road,637,28:16.5,2.5
+Mad Max: Fury Road,638,28:19.0,1.1
+Mad Max: Fury Road,639,28:20.1,0.8
+Mad Max: Fury Road,640,28:20.9,4.6
+Mad Max: Fury Road,641,28:25.5,1.0
+Mad Max: Fury Road,642,28:26.5,2.6
+Mad Max: Fury Road,643,28:29.1,1.1
+Mad Max: Fury Road,644,28:30.2,0.4
+Mad Max: Fury Road,645,28:30.6,2.2
+Mad Max: Fury Road,646,28:32.8,1.2
+Mad Max: Fury Road,647,28:34.0,1.5
+Mad Max: Fury Road,648,28:35.5,1.8
+Mad Max: Fury Road,649,28:37.3,1.1
+Mad Max: Fury Road,650,28:38.4,0.4
+Mad Max: Fury Road,651,28:38.8,0.8
+Mad Max: Fury Road,652,28:39.6,3.5
+Mad Max: Fury Road,653,28:43.1,0.8
+Mad Max: Fury Road,654,28:43.9,0.7
+Mad Max: Fury Road,655,28:44.6,0.8
+Mad Max: Fury Road,656,28:45.4,0.0
+Mad Max: Fury Road,657,28:45.4,0.7
+Mad Max: Fury Road,658,28:46.1,1.0
+Mad Max: Fury Road,659,28:47.1,0.6
+Mad Max: Fury Road,660,28:47.7,0.9
+Mad Max: Fury Road,661,28:48.6,0.4
+Mad Max: Fury Road,662,28:49.0,1.5
+Mad Max: Fury Road,663,28:50.5,1.3
+Mad Max: Fury Road,664,28:51.8,1.2
+Mad Max: Fury Road,665,28:53.0,14.0
+The Bourne Ultimatum,207,10:06.5,2.9
+The Bourne Ultimatum,628,23:47.3,2.3
+The Bourne Ultimatum,534,22:10.9,2.5
+The Bourne Ultimatum,768,25:46.7,2.0
+The Bourne Ultimatum,646,20:08.6,1.9
+The Bourne Ultimatum,127,03:22.3,1.6
+The Bourne Ultimatum,1,00:00.0,2.6
+The Bourne Ultimatum,2,00:02.6,1.6
+The Bourne Ultimatum,3,00:04.2,2.5
+The Bourne Ultimatum,4,00:06.7,1.7
+The Bourne Ultimatum,5,00:08.4,0.9
+The Bourne Ultimatum,6,00:09.3,1.6
+The Bourne Ultimatum,7,00:10.9,1.3
+The Bourne Ultimatum,8,00:12.2,1.1
+The Bourne Ultimatum,9,00:13.3,1.2
+The Bourne Ultimatum,10,00:14.5,1.3
+The Bourne Ultimatum,11,00:15.8,0.9
+The Bourne Ultimatum,12,00:16.7,1.0
+The Bourne Ultimatum,13,00:17.7,1.2
+The Bourne Ultimatum,14,00:18.9,1.7
+The Bourne Ultimatum,15,00:20.6,1.6
+The Bourne Ultimatum,16,00:22.2,1.3
+The Bourne Ultimatum,17,00:23.5,0.8
+The Bourne Ultimatum,18,00:24.3,0.6
+The Bourne Ultimatum,19,00:24.9,1.3
+The Bourne Ultimatum,20,00:26.2,0.7
+The Bourne Ultimatum,21,00:26.9,1.1
+The Bourne Ultimatum,22,00:28.0,1.7
+The Bourne Ultimatum,23,00:29.7,1.2
+The Bourne Ultimatum,24,00:30.9,1.5
+The Bourne Ultimatum,25,00:32.4,1.4
+The Bourne Ultimatum,26,00:33.8,1.3
+The Bourne Ultimatum,27,00:35.1,2.2
+The Bourne Ultimatum,28,00:37.3,1.2
+The Bourne Ultimatum,29,00:38.5,2.2
+The Bourne Ultimatum,30,00:40.7,1.0
+The Bourne Ultimatum,31,00:41.7,1.7
+The Bourne Ultimatum,32,00:43.4,5.6
+The Bourne Ultimatum,33,00:49.0,1.8
+The Bourne Ultimatum,34,00:50.8,1.4
+The Bourne Ultimatum,35,00:52.2,4.9
+The Bourne Ultimatum,36,00:57.1,1.5
+The Bourne Ultimatum,37,00:58.6,1.1
+The Bourne Ultimatum,38,00:59.7,1.6
+The Bourne Ultimatum,39,01:01.3,2.0
+The Bourne Ultimatum,40,01:03.3,0.9
+The Bourne Ultimatum,41,01:04.2,0.9
+The Bourne Ultimatum,42,01:05.1,0.7
+The Bourne Ultimatum,43,01:05.8,0.8
+The Bourne Ultimatum,44,01:06.6,0.5
+The Bourne Ultimatum,45,01:07.1,0.6
+The Bourne Ultimatum,46,01:07.7,0.6
+The Bourne Ultimatum,47,01:08.3,0.6
+The Bourne Ultimatum,48,01:08.9,1.1
+The Bourne Ultimatum,49,01:10.0,2.3
+The Bourne Ultimatum,50,01:12.3,0.8
+The Bourne Ultimatum,51,01:13.1,1.0
+The Bourne Ultimatum,52,01:14.1,0.9
+The Bourne Ultimatum,53,01:15.0,0.9
+The Bourne Ultimatum,54,01:15.9,0.8
+The Bourne Ultimatum,55,01:16.7,0.9
+The Bourne Ultimatum,56,01:17.6,2.3
+The Bourne Ultimatum,57,01:19.9,1.1
+The Bourne Ultimatum,58,01:21.0,1.6
+The Bourne Ultimatum,59,01:22.6,1.9
+The Bourne Ultimatum,60,01:24.5,3.9
+The Bourne Ultimatum,61,01:28.4,7.4
+The Bourne Ultimatum,62,01:35.8,4.2
+The Bourne Ultimatum,63,01:40.0,2.0
+The Bourne Ultimatum,64,01:42.0,0.1
+The Bourne Ultimatum,65,01:42.1,0.2
+The Bourne Ultimatum,66,01:42.3,1.9
+The Bourne Ultimatum,67,01:44.2,2.6
+The Bourne Ultimatum,68,01:46.8,0.2
+The Bourne Ultimatum,69,01:47.0,0.5
+The Bourne Ultimatum,70,01:47.5,0.6
+The Bourne Ultimatum,71,01:48.1,1.5
+The Bourne Ultimatum,72,01:49.6,1.8
+The Bourne Ultimatum,73,01:51.4,0.8
+The Bourne Ultimatum,74,01:52.2,2.2
+The Bourne Ultimatum,75,01:54.4,2.0
+The Bourne Ultimatum,76,01:56.4,4.8
+The Bourne Ultimatum,77,02:01.2,1.0
+The Bourne Ultimatum,78,02:02.2,1.5
+The Bourne Ultimatum,79,02:03.7,1.2
+The Bourne Ultimatum,80,02:04.9,2.8
+The Bourne Ultimatum,81,02:07.7,0.5
+The Bourne Ultimatum,82,02:08.2,1.3
+The Bourne Ultimatum,83,02:09.5,0.3
+The Bourne Ultimatum,84,02:09.8,0.7
+The Bourne Ultimatum,85,02:10.5,0.9
+The Bourne Ultimatum,86,02:11.4,1.1
+The Bourne Ultimatum,87,02:12.5,0.6
+The Bourne Ultimatum,88,02:13.1,0.5
+The Bourne Ultimatum,89,02:13.6,0.7
+The Bourne Ultimatum,90,02:14.3,2.3
+The Bourne Ultimatum,91,02:16.6,2.7
+The Bourne Ultimatum,92,02:19.3,1.7
+The Bourne Ultimatum,93,02:21.0,4.4
+The Bourne Ultimatum,94,02:25.4,1.2
+The Bourne Ultimatum,95,02:26.6,0.8
+The Bourne Ultimatum,96,02:27.4,0.6
+The Bourne Ultimatum,97,02:28.0,1.0
+The Bourne Ultimatum,98,02:29.0,0.5
+The Bourne Ultimatum,99,02:29.5,1.0
+The Bourne Ultimatum,100,02:30.5,1.8
+The Bourne Ultimatum,101,02:32.3,1.0
+The Bourne Ultimatum,102,02:33.3,4.1
+The Bourne Ultimatum,103,02:37.4,0.1
+The Bourne Ultimatum,104,02:37.5,0.2
+The Bourne Ultimatum,105,02:37.7,0.2
+The Bourne Ultimatum,106,02:37.9,1.7
+The Bourne Ultimatum,107,02:39.6,0.7
+The Bourne Ultimatum,108,02:40.3,0.4
+The Bourne Ultimatum,109,02:40.7,0.4
+The Bourne Ultimatum,110,02:41.1,0.3
+The Bourne Ultimatum,111,02:41.4,0.5
+The Bourne Ultimatum,112,02:41.9,0.5
+The Bourne Ultimatum,113,02:42.4,0.8
+The Bourne Ultimatum,114,02:43.2,0.6
+The Bourne Ultimatum,115,02:43.8,1.4
+The Bourne Ultimatum,116,02:45.2,2.4
+The Bourne Ultimatum,117,02:47.6,2.0
+The Bourne Ultimatum,118,02:49.6,2.2
+The Bourne Ultimatum,119,02:51.8,2.1
+The Bourne Ultimatum,120,02:53.9,5.5
+The Bourne Ultimatum,121,02:59.4,1.7
+The Bourne Ultimatum,122,03:01.1,1.6
+The Bourne Ultimatum,123,03:02.7,3.1
+The Bourne Ultimatum,124,03:05.8,2.1
+The Bourne Ultimatum,125,03:07.9,9.9
+The Bourne Ultimatum,126,03:17.8,1.7
+The Bourne Ultimatum,127,03:19.5,2.8
+The Bourne Ultimatum,128,03:22.3,7.4
+The Bourne Ultimatum,129,03:29.7,3.6
+The Bourne Ultimatum,130,03:33.3,2.1
+The Bourne Ultimatum,131,03:35.4,3.2
+The Bourne Ultimatum,132,03:38.6,4.9
+The Bourne Ultimatum,133,03:43.5,4.0
+The Bourne Ultimatum,134,03:47.5,1.3
+The Bourne Ultimatum,135,03:48.8,1.2
+The Bourne Ultimatum,136,03:50.0,5.8
+The Bourne Ultimatum,137,03:55.8,1.6
+The Bourne Ultimatum,138,03:57.4,3.1
+The Bourne Ultimatum,139,04:00.5,3.2
+The Bourne Ultimatum,140,04:03.7,0.8
+The Bourne Ultimatum,141,04:04.5,2.6
+The Bourne Ultimatum,142,04:07.1,3.0
+The Bourne Ultimatum,143,04:10.1,4.4
+The Bourne Ultimatum,144,04:14.5,2.1
+The Bourne Ultimatum,145,04:16.6,2.6
+The Bourne Ultimatum,146,04:19.2,2.4
+The Bourne Ultimatum,147,04:21.6,2.4
+The Bourne Ultimatum,148,04:24.0,1.6
+The Bourne Ultimatum,149,04:25.6,3.3
+The Bourne Ultimatum,150,04:28.9,2.4
+The Bourne Ultimatum,151,04:31.3,3.3
+The Bourne Ultimatum,152,04:34.6,2.1
+The Bourne Ultimatum,153,04:36.7,4.4
+The Bourne Ultimatum,154,04:41.1,4.2
+The Bourne Ultimatum,155,04:45.3,2.8
+The Bourne Ultimatum,156,04:48.1,3.4
+The Bourne Ultimatum,157,04:51.5,1.2
+The Bourne Ultimatum,158,04:52.7,2.7
+The Bourne Ultimatum,159,04:55.4,9.1
+The Bourne Ultimatum,160,05:04.5,4.8
+The Bourne Ultimatum,161,05:09.3,1.9
+The Bourne Ultimatum,162,05:11.2,4.0
+The Bourne Ultimatum,163,05:15.2,4.7
+The Bourne Ultimatum,164,05:19.9,13.7
+The Bourne Ultimatum,165,05:33.6,2.7
+The Bourne Ultimatum,166,05:36.3,2.9
+The Bourne Ultimatum,167,05:39.2,1.4
+The Bourne Ultimatum,168,05:40.6,1.1
+The Bourne Ultimatum,169,05:41.7,3.1
+The Bourne Ultimatum,170,05:44.8,5.6
+The Bourne Ultimatum,171,05:50.4,4.0
+The Bourne Ultimatum,172,05:54.4,6.1
+The Bourne Ultimatum,173,06:00.5,2.6
+The Bourne Ultimatum,174,06:03.1,3.7
+The Bourne Ultimatum,175,06:06.8,4.1
+The Bourne Ultimatum,176,06:10.9,3.1
+The Bourne Ultimatum,177,06:14.0,16.0
+The Bourne Ultimatum,178,06:30.0,2.7
+The Bourne Ultimatum,179,06:32.7,4.2
+The Bourne Ultimatum,180,06:36.9,11.7
+The Bourne Ultimatum,181,06:48.6,12.6
+The Bourne Ultimatum,182,07:01.2,17.8
+The Bourne Ultimatum,183,07:19.0,6.9
+The Bourne Ultimatum,184,07:25.9,4.6
+The Bourne Ultimatum,185,07:30.5,5.6
+The Bourne Ultimatum,186,07:36.1,3.0
+The Bourne Ultimatum,187,07:39.1,4.8
+The Bourne Ultimatum,188,07:43.9,10.9
+The Bourne Ultimatum,189,07:54.8,3.4
+The Bourne Ultimatum,190,07:58.2,12.5
+The Bourne Ultimatum,191,08:10.7,3.7
+The Bourne Ultimatum,192,08:14.4,8.4
+The Bourne Ultimatum,193,08:22.8,5.0
+The Bourne Ultimatum,194,08:27.8,5.4
+The Bourne Ultimatum,195,08:33.2,4.4
+The Bourne Ultimatum,196,08:37.6,4.0
+The Bourne Ultimatum,197,08:41.6,5.1
+The Bourne Ultimatum,198,08:46.7,3.0
+The Bourne Ultimatum,199,08:49.7,6.4
+The Bourne Ultimatum,200,08:56.1,2.2
+The Bourne Ultimatum,201,08:58.3,2.2
+The Bourne Ultimatum,202,09:00.5,2.7
+The Bourne Ultimatum,203,09:03.2,3.5
+The Bourne Ultimatum,204,09:06.7,5.5
+The Bourne Ultimatum,205,09:12.2,1.9
+The Bourne Ultimatum,206,09:14.1,3.3
+The Bourne Ultimatum,207,09:17.4,6.1
+The Bourne Ultimatum,208,09:23.5,1.9
+The Bourne Ultimatum,209,09:25.4,1.1
+The Bourne Ultimatum,210,09:26.5,1.7
+The Bourne Ultimatum,211,09:28.2,2.7
+The Bourne Ultimatum,212,09:30.9,6.1
+The Bourne Ultimatum,213,09:37.0,5.4
+The Bourne Ultimatum,214,09:42.4,2.8
+The Bourne Ultimatum,215,09:45.2,2.3
+The Bourne Ultimatum,216,09:47.5,2.7
+The Bourne Ultimatum,217,09:50.2,1.8
+The Bourne Ultimatum,218,09:52.0,2.8
+The Bourne Ultimatum,219,09:54.8,3.4
+The Bourne Ultimatum,220,09:58.2,11.8
+The Bourne Ultimatum,221,10:10.0,1.8
+The Bourne Ultimatum,222,10:11.8,2.5
+The Bourne Ultimatum,223,10:14.3,2.2
+The Bourne Ultimatum,224,10:16.5,3.0
+The Bourne Ultimatum,225,10:19.5,2.9
+The Bourne Ultimatum,226,10:22.4,19.7
+The Bourne Ultimatum,227,10:42.1,2.7
+The Bourne Ultimatum,228,10:44.8,1.6
+The Bourne Ultimatum,229,10:46.4,1.6
+The Bourne Ultimatum,230,10:48.0,3.5
+The Bourne Ultimatum,231,10:51.5,6.2
+The Bourne Ultimatum,232,10:57.7,7.4
+The Bourne Ultimatum,233,11:05.1,1.5
+The Bourne Ultimatum,234,11:06.6,1.5
+The Bourne Ultimatum,235,11:08.1,6.5
+The Bourne Ultimatum,236,11:14.6,4.8
+The Bourne Ultimatum,237,11:19.4,2.7
+The Bourne Ultimatum,238,11:22.1,1.5
+The Bourne Ultimatum,239,11:23.6,4.1
+The Bourne Ultimatum,240,11:27.7,9.9
+The Bourne Ultimatum,241,11:37.6,13.4
+The Bourne Ultimatum,242,11:51.0,1.7
+The Bourne Ultimatum,243,11:52.7,2.4
+The Bourne Ultimatum,244,11:55.1,3.2
+The Bourne Ultimatum,245,11:58.3,3.2
+The Bourne Ultimatum,246,12:01.5,1.5
+The Bourne Ultimatum,247,12:03.0,4.1
+The Bourne Ultimatum,248,12:07.1,1.3
+The Bourne Ultimatum,249,12:08.4,6.5
+The Bourne Ultimatum,250,12:14.9,1.8
+The Bourne Ultimatum,251,12:16.7,3.1
+The Bourne Ultimatum,252,12:19.8,1.9
+The Bourne Ultimatum,253,12:21.7,0.4
+The Bourne Ultimatum,254,12:22.1,2.2
+The Bourne Ultimatum,255,12:24.3,1.7
+The Bourne Ultimatum,256,12:26.0,3.0
+The Bourne Ultimatum,257,12:29.0,0.2
+The Bourne Ultimatum,258,12:29.2,0.5
+The Bourne Ultimatum,259,12:29.7,0.3
+The Bourne Ultimatum,260,12:30.0,1.4
+The Bourne Ultimatum,261,12:31.4,0.3
+The Bourne Ultimatum,262,12:31.7,1.3
+The Bourne Ultimatum,263,12:33.0,0.3
+The Bourne Ultimatum,264,12:33.3,0.1
+The Bourne Ultimatum,265,12:33.4,1.1
+The Bourne Ultimatum,266,12:34.5,0.9
+The Bourne Ultimatum,267,12:35.4,0.3
+The Bourne Ultimatum,268,12:35.7,0.5
+The Bourne Ultimatum,269,12:36.2,0.5
+The Bourne Ultimatum,270,12:36.7,0.9
+The Bourne Ultimatum,271,12:37.6,0.5
+The Bourne Ultimatum,272,12:38.1,0.5
+The Bourne Ultimatum,273,12:38.6,0.3
+The Bourne Ultimatum,274,12:38.9,1.6
+The Bourne Ultimatum,275,12:40.5,1.0
+The Bourne Ultimatum,276,12:41.5,0.8
+The Bourne Ultimatum,277,12:42.3,1.0
+The Bourne Ultimatum,278,12:43.3,2.3
+The Bourne Ultimatum,279,12:45.6,1.1
+The Bourne Ultimatum,280,12:46.7,1.1
+The Bourne Ultimatum,281,12:47.8,1.3
+The Bourne Ultimatum,282,12:49.1,1.2
+The Bourne Ultimatum,283,12:50.3,1.2
+The Bourne Ultimatum,284,12:51.5,1.8
+The Bourne Ultimatum,285,12:53.3,2.2
+The Bourne Ultimatum,286,12:55.5,1.5
+The Bourne Ultimatum,287,12:57.0,2.2
+The Bourne Ultimatum,288,12:59.2,3.1
+The Bourne Ultimatum,289,13:02.3,0.9
+The Bourne Ultimatum,290,13:03.2,2.5
+The Bourne Ultimatum,291,13:05.7,3.9
+The Bourne Ultimatum,292,13:09.6,2.4
+The Bourne Ultimatum,293,13:12.0,2.5
+The Bourne Ultimatum,294,13:14.5,2.8
+The Bourne Ultimatum,295,13:17.3,2.8
+The Bourne Ultimatum,296,13:20.1,4.4
+The Bourne Ultimatum,297,13:24.5,1.6
+The Bourne Ultimatum,298,13:26.1,1.9
+The Bourne Ultimatum,299,13:28.0,2.1
+The Bourne Ultimatum,300,13:30.1,2.1
+The Bourne Ultimatum,301,13:32.2,1.0
+The Bourne Ultimatum,302,13:33.2,2.3
+The Bourne Ultimatum,303,13:35.5,1.1
+The Bourne Ultimatum,304,13:36.6,2.2
+The Bourne Ultimatum,305,13:38.8,3.6
+The Bourne Ultimatum,306,13:42.4,3.5
+The Bourne Ultimatum,307,13:45.9,2.1
+The Bourne Ultimatum,308,13:48.0,2.3
+The Bourne Ultimatum,309,13:50.3,2.2
+The Bourne Ultimatum,310,13:52.5,1.3
+The Bourne Ultimatum,311,13:53.8,2.1
+The Bourne Ultimatum,312,13:55.9,3.5
+The Bourne Ultimatum,313,13:59.4,4.3
+The Bourne Ultimatum,314,14:03.7,3.2
+The Bourne Ultimatum,315,14:06.9,1.3
+The Bourne Ultimatum,316,14:08.2,1.6
+The Bourne Ultimatum,317,14:09.8,3.5
+The Bourne Ultimatum,318,14:13.3,2.4
+The Bourne Ultimatum,319,14:15.7,5.5
+The Bourne Ultimatum,320,14:21.2,4.6
+The Bourne Ultimatum,321,14:25.8,2.4
+The Bourne Ultimatum,322,14:28.2,1.6
+The Bourne Ultimatum,323,14:29.8,0.8
+The Bourne Ultimatum,324,14:30.6,2.5
+The Bourne Ultimatum,325,14:33.1,2.1
+The Bourne Ultimatum,326,14:35.2,2.1
+The Bourne Ultimatum,327,14:37.3,2.0
+The Bourne Ultimatum,328,14:39.3,2.9
+The Bourne Ultimatum,329,14:42.2,0.8
+The Bourne Ultimatum,330,14:43.0,5.5
+The Bourne Ultimatum,331,14:48.5,2.7
+The Bourne Ultimatum,332,14:51.2,2.3
+The Bourne Ultimatum,333,14:53.5,2.6
+The Bourne Ultimatum,334,14:56.1,2.6
+The Bourne Ultimatum,335,14:58.7,5.8
+The Bourne Ultimatum,336,15:04.5,4.5
+The Bourne Ultimatum,337,15:09.0,0.9
+The Bourne Ultimatum,338,15:09.9,1.9
+The Bourne Ultimatum,339,15:11.8,1.5
+The Bourne Ultimatum,340,15:13.3,1.7
+The Bourne Ultimatum,341,15:15.0,2.2
+The Bourne Ultimatum,342,15:17.2,3.2
+The Bourne Ultimatum,343,15:20.4,3.3
+The Bourne Ultimatum,344,15:23.7,2.5
+The Bourne Ultimatum,345,15:26.2,2.5
+The Bourne Ultimatum,346,15:28.7,1.7
+The Bourne Ultimatum,347,15:30.4,1.0
+The Bourne Ultimatum,348,15:31.4,1.8
+The Bourne Ultimatum,349,15:33.2,3.0
+The Bourne Ultimatum,350,15:36.2,1.7
+The Bourne Ultimatum,351,15:37.9,1.9
+The Bourne Ultimatum,352,15:39.8,3.4
+The Bourne Ultimatum,353,15:43.2,1.5
+The Bourne Ultimatum,354,15:44.7,1.7
+The Bourne Ultimatum,355,15:46.4,3.7
+The Bourne Ultimatum,356,15:50.1,2.3
+The Bourne Ultimatum,357,15:52.4,2.0
+The Bourne Ultimatum,358,15:54.4,4.0
+The Bourne Ultimatum,359,15:58.4,2.1
+The Bourne Ultimatum,360,16:00.5,0.8
+The Bourne Ultimatum,361,16:01.3,1.1
+The Bourne Ultimatum,362,16:02.4,4.4
+The Bourne Ultimatum,363,16:06.8,2.6
+The Bourne Ultimatum,364,16:09.4,2.4
+The Bourne Ultimatum,365,16:11.8,3.5
+The Bourne Ultimatum,366,16:15.3,2.6
+The Bourne Ultimatum,367,16:17.9,1.1
+The Bourne Ultimatum,368,16:19.0,0.6
+The Bourne Ultimatum,369,16:19.6,3.5
+The Bourne Ultimatum,370,16:23.1,2.8
+The Bourne Ultimatum,371,16:25.9,1.0
+The Bourne Ultimatum,372,16:26.9,1.5
+The Bourne Ultimatum,373,16:28.4,2.7
+The Bourne Ultimatum,374,16:31.1,2.0
+The Bourne Ultimatum,375,16:33.1,1.7
+The Bourne Ultimatum,376,16:34.8,4.2
+The Bourne Ultimatum,377,16:39.0,2.1
+The Bourne Ultimatum,378,16:41.1,1.5
+The Bourne Ultimatum,379,16:42.6,1.6
+The Bourne Ultimatum,380,16:44.2,2.1
+The Bourne Ultimatum,381,16:46.3,1.0
+The Bourne Ultimatum,382,16:47.3,1.7
+The Bourne Ultimatum,383,16:49.0,1.0
+The Bourne Ultimatum,384,16:50.0,0.8
+The Bourne Ultimatum,385,16:50.8,1.4
+The Bourne Ultimatum,386,16:52.2,2.6
+The Bourne Ultimatum,387,16:54.8,2.1
+The Bourne Ultimatum,388,16:56.9,5.1
+The Bourne Ultimatum,389,17:02.0,2.8
+The Bourne Ultimatum,390,17:04.8,1.4
+The Bourne Ultimatum,391,17:06.2,1.9
+The Bourne Ultimatum,392,17:08.1,1.2
+The Bourne Ultimatum,393,17:09.3,1.6
+The Bourne Ultimatum,394,17:10.9,1.2
+The Bourne Ultimatum,395,17:12.1,2.7
+The Bourne Ultimatum,396,17:14.8,2.3
+The Bourne Ultimatum,397,17:17.1,2.0
+The Bourne Ultimatum,398,17:19.1,2.5
+The Bourne Ultimatum,399,17:21.6,1.8
+The Bourne Ultimatum,400,17:23.4,2.1
+The Bourne Ultimatum,401,17:25.5,1.4
+The Bourne Ultimatum,402,17:26.9,0.6
+The Bourne Ultimatum,403,17:27.5,1.6
+The Bourne Ultimatum,404,17:29.1,2.7
+The Bourne Ultimatum,405,17:31.8,4.0
+The Bourne Ultimatum,406,17:35.8,4.8
+The Bourne Ultimatum,407,17:40.6,2.1
+The Bourne Ultimatum,408,17:42.7,1.2
+The Bourne Ultimatum,409,17:43.9,0.6
+The Bourne Ultimatum,410,17:44.5,1.5
+The Bourne Ultimatum,411,17:46.0,1.7
+The Bourne Ultimatum,412,17:47.7,2.0
+The Bourne Ultimatum,413,17:49.7,1.7
+The Bourne Ultimatum,414,17:51.4,1.5
+The Bourne Ultimatum,415,17:52.9,5.3
+The Bourne Ultimatum,416,17:58.2,1.2
+The Bourne Ultimatum,417,17:59.4,2.4
+The Bourne Ultimatum,418,18:01.8,2.8
+The Bourne Ultimatum,419,18:04.6,2.2
+The Bourne Ultimatum,420,18:06.8,2.1
+The Bourne Ultimatum,421,18:08.9,2.2
+The Bourne Ultimatum,422,18:11.1,2.5
+The Bourne Ultimatum,423,18:13.6,2.7
+The Bourne Ultimatum,424,18:16.3,4.7
+The Bourne Ultimatum,425,18:21.0,2.0
+The Bourne Ultimatum,426,18:23.0,1.3
+The Bourne Ultimatum,427,18:24.3,1.9
+The Bourne Ultimatum,428,18:26.2,1.0
+The Bourne Ultimatum,429,18:27.2,1.8
+The Bourne Ultimatum,430,18:29.0,1.6
+The Bourne Ultimatum,431,18:30.6,1.6
+The Bourne Ultimatum,432,18:32.2,0.7
+The Bourne Ultimatum,433,18:32.9,0.8
+The Bourne Ultimatum,434,18:33.7,0.6
+The Bourne Ultimatum,435,18:34.3,1.6
+The Bourne Ultimatum,436,18:35.9,1.0
+The Bourne Ultimatum,437,18:36.9,1.7
+The Bourne Ultimatum,438,18:38.6,1.0
+The Bourne Ultimatum,439,18:39.6,1.3
+The Bourne Ultimatum,440,18:40.9,1.2
+The Bourne Ultimatum,441,18:42.1,1.5
+The Bourne Ultimatum,442,18:43.6,1.2
+The Bourne Ultimatum,443,18:44.8,0.4
+The Bourne Ultimatum,444,18:45.2,0.7
+The Bourne Ultimatum,445,18:45.9,1.1
+The Bourne Ultimatum,446,18:47.0,1.1
+The Bourne Ultimatum,447,18:48.1,1.1
+The Bourne Ultimatum,448,18:49.2,1.3
+The Bourne Ultimatum,449,18:50.5,0.7
+The Bourne Ultimatum,450,18:51.2,1.2
+The Bourne Ultimatum,451,18:52.4,0.5
+The Bourne Ultimatum,452,18:52.9,0.5
+The Bourne Ultimatum,453,18:53.4,1.1
+The Bourne Ultimatum,454,18:54.5,1.2
+The Bourne Ultimatum,455,18:55.7,1.1
+The Bourne Ultimatum,456,18:56.8,0.8
+The Bourne Ultimatum,457,18:57.6,2.1
+The Bourne Ultimatum,458,18:59.7,1.5
+The Bourne Ultimatum,459,19:01.2,1.9
+The Bourne Ultimatum,460,19:03.1,1.6
+The Bourne Ultimatum,461,19:04.7,1.1
+The Bourne Ultimatum,462,19:05.8,1.5
+The Bourne Ultimatum,463,19:07.3,1.3
+The Bourne Ultimatum,464,19:08.6,11.6
+The Bourne Ultimatum,465,19:20.2,1.5
+The Bourne Ultimatum,466,19:21.7,1.1
+The Bourne Ultimatum,467,19:22.8,0.6
+The Bourne Ultimatum,468,19:23.4,4.8
+The Bourne Ultimatum,469,19:28.2,1.7
+The Bourne Ultimatum,470,19:29.9,1.9
+The Bourne Ultimatum,471,19:31.8,4.1
+The Bourne Ultimatum,472,19:35.9,1.4
+The Bourne Ultimatum,473,19:37.3,2.1
+The Bourne Ultimatum,474,19:39.4,4.5
+The Bourne Ultimatum,475,19:43.9,2.2
+The Bourne Ultimatum,476,19:46.1,1.6
+The Bourne Ultimatum,477,19:47.7,1.0
+The Bourne Ultimatum,478,19:48.7,1.0
+The Bourne Ultimatum,479,19:49.7,2.2
+The Bourne Ultimatum,480,19:51.9,3.6
+The Bourne Ultimatum,481,19:55.5,3.9
+The Bourne Ultimatum,482,19:59.4,1.3
+The Bourne Ultimatum,483,20:00.7,4.1
+The Bourne Ultimatum,484,20:04.8,1.3
+The Bourne Ultimatum,485,20:06.1,4.3
+The Bourne Ultimatum,486,20:10.4,1.3
+The Bourne Ultimatum,487,20:11.7,3.7
+The Bourne Ultimatum,488,20:15.4,2.0
+The Bourne Ultimatum,489,20:17.4,1.9
+The Bourne Ultimatum,490,20:19.3,1.9
+The Bourne Ultimatum,491,20:21.2,4.4
+The Bourne Ultimatum,492,20:25.6,1.7
+The Bourne Ultimatum,493,20:27.3,1.6
+The Bourne Ultimatum,494,20:28.9,0.8
+The Bourne Ultimatum,495,20:29.7,2.5
+The Bourne Ultimatum,496,20:32.2,1.8
+The Bourne Ultimatum,497,20:34.0,2.5
+The Bourne Ultimatum,498,20:36.5,0.6
+The Bourne Ultimatum,499,20:37.1,2.3
+The Bourne Ultimatum,500,20:39.4,2.4
+The Bourne Ultimatum,501,20:41.8,1.2
+The Bourne Ultimatum,502,20:43.0,0.9
+The Bourne Ultimatum,503,20:43.9,2.0
+The Bourne Ultimatum,504,20:45.9,1.0
+The Bourne Ultimatum,505,20:46.9,2.0
+The Bourne Ultimatum,506,20:48.9,1.8
+The Bourne Ultimatum,507,20:50.7,1.3
+The Bourne Ultimatum,508,20:52.0,1.4
+The Bourne Ultimatum,509,20:53.4,2.8
+The Bourne Ultimatum,510,20:56.2,1.1
+The Bourne Ultimatum,511,20:57.3,3.0
+The Bourne Ultimatum,512,21:00.3,1.1
+The Bourne Ultimatum,513,21:01.4,2.3
+The Bourne Ultimatum,514,21:03.7,3.2
+The Bourne Ultimatum,515,21:06.9,1.5
+The Bourne Ultimatum,516,21:08.4,1.6
+The Bourne Ultimatum,517,21:10.0,1.4
+The Bourne Ultimatum,518,21:11.4,3.8
+The Bourne Ultimatum,519,21:15.2,1.2
+The Bourne Ultimatum,520,21:16.4,1.5
+The Bourne Ultimatum,521,21:17.9,1.3
+The Bourne Ultimatum,522,21:19.2,1.1
+The Bourne Ultimatum,523,21:20.3,2.1
+The Bourne Ultimatum,524,21:22.4,1.6
+The Bourne Ultimatum,525,21:24.0,1.5
+The Bourne Ultimatum,526,21:25.5,0.7
+The Bourne Ultimatum,527,21:26.2,1.4
+The Bourne Ultimatum,528,21:27.6,0.9
+The Bourne Ultimatum,529,21:28.5,1.1
+The Bourne Ultimatum,530,21:29.6,1.1
+The Bourne Ultimatum,531,21:30.7,0.9
+The Bourne Ultimatum,532,21:31.6,1.3
+The Bourne Ultimatum,533,21:32.9,0.9
+The Bourne Ultimatum,534,21:33.8,1.6
+The Bourne Ultimatum,535,21:35.4,1.5
+The Bourne Ultimatum,536,21:36.9,1.5
+The Bourne Ultimatum,537,21:38.4,1.1
+The Bourne Ultimatum,538,21:39.5,2.6
+The Bourne Ultimatum,539,21:42.1,1.7
+The Bourne Ultimatum,540,21:43.8,1.3
+The Bourne Ultimatum,541,21:45.1,1.5
+The Bourne Ultimatum,542,21:46.6,0.7
+The Bourne Ultimatum,543,21:47.3,1.7
+The Bourne Ultimatum,544,21:49.0,1.1
+The Bourne Ultimatum,545,21:50.1,1.3
+The Bourne Ultimatum,546,21:51.4,1.1
+The Bourne Ultimatum,547,21:52.5,0.8
+The Bourne Ultimatum,548,21:53.3,1.0
+The Bourne Ultimatum,549,21:54.3,0.6
+The Bourne Ultimatum,550,21:54.9,1.2
+The Bourne Ultimatum,551,21:56.1,1.0
+The Bourne Ultimatum,552,21:57.1,1.5
+The Bourne Ultimatum,553,21:58.6,0.9
+The Bourne Ultimatum,554,21:59.5,0.6
+The Bourne Ultimatum,555,22:00.1,1.1
+The Bourne Ultimatum,556,22:01.2,1.7
+The Bourne Ultimatum,557,22:02.9,1.8
+The Bourne Ultimatum,558,22:04.7,1.3
+The Bourne Ultimatum,559,22:06.0,1.6
+The Bourne Ultimatum,560,22:07.6,2.2
+The Bourne Ultimatum,561,22:09.8,1.8
+The Bourne Ultimatum,562,22:11.6,1.1
+The Bourne Ultimatum,563,22:12.7,0.8
+The Bourne Ultimatum,564,22:13.5,1.2
+The Bourne Ultimatum,565,22:14.7,1.6
+The Bourne Ultimatum,566,22:16.3,1.2
+The Bourne Ultimatum,567,22:17.5,2.7
+The Bourne Ultimatum,568,22:20.2,0.8
+The Bourne Ultimatum,569,22:21.0,0.8
+The Bourne Ultimatum,570,22:21.8,0.9
+The Bourne Ultimatum,571,22:22.7,2.3
+The Bourne Ultimatum,572,22:25.0,2.1
+The Bourne Ultimatum,573,22:27.1,1.3
+The Bourne Ultimatum,574,22:28.4,1.1
+The Bourne Ultimatum,575,22:29.5,0.8
+The Bourne Ultimatum,576,22:30.3,1.0
+The Bourne Ultimatum,577,22:31.3,0.6
+The Bourne Ultimatum,578,22:31.9,0.6
+The Bourne Ultimatum,579,22:32.5,1.6
+The Bourne Ultimatum,580,22:34.1,0.7
+The Bourne Ultimatum,581,22:34.8,2.9
+The Bourne Ultimatum,582,22:37.7,1.4
+The Bourne Ultimatum,583,22:39.1,2.4
+The Bourne Ultimatum,584,22:41.5,1.7
+The Bourne Ultimatum,585,22:43.2,1.0
+The Bourne Ultimatum,586,22:44.2,0.7
+The Bourne Ultimatum,587,22:44.9,1.7
+The Bourne Ultimatum,588,22:46.6,1.7
+The Bourne Ultimatum,589,22:48.3,1.1
+The Bourne Ultimatum,590,22:49.4,1.5
+The Bourne Ultimatum,591,22:50.9,0.9
+The Bourne Ultimatum,592,22:51.8,1.1
+The Bourne Ultimatum,593,22:52.9,1.0
+The Bourne Ultimatum,594,22:53.9,1.1
+The Bourne Ultimatum,595,22:55.0,3.6
+The Bourne Ultimatum,596,22:58.6,2.0
+The Bourne Ultimatum,597,23:00.6,0.8
+The Bourne Ultimatum,598,23:01.4,2.6
+The Bourne Ultimatum,599,23:04.0,1.2
+The Bourne Ultimatum,600,23:05.2,1.6
+The Bourne Ultimatum,601,23:06.8,1.0
+The Bourne Ultimatum,602,23:07.8,1.0
+The Bourne Ultimatum,603,23:08.8,0.7
+The Bourne Ultimatum,604,23:09.5,1.0
+The Bourne Ultimatum,605,23:10.5,0.5
+The Bourne Ultimatum,606,23:11.0,0.6
+The Bourne Ultimatum,607,23:11.6,0.4
+The Bourne Ultimatum,608,23:12.0,0.6
+The Bourne Ultimatum,609,23:12.6,1.4
+The Bourne Ultimatum,610,23:14.0,1.1
+The Bourne Ultimatum,611,23:15.1,0.6
+The Bourne Ultimatum,612,23:15.7,0.4
+The Bourne Ultimatum,613,23:16.1,1.0
+The Bourne Ultimatum,614,23:17.1,0.5
+The Bourne Ultimatum,615,23:17.6,0.3
+The Bourne Ultimatum,616,23:17.9,0.5
+The Bourne Ultimatum,617,23:18.4,0.8
+The Bourne Ultimatum,618,23:19.2,0.5
+The Bourne Ultimatum,619,23:19.7,0.9
+The Bourne Ultimatum,620,23:20.6,1.8
+The Bourne Ultimatum,621,23:22.4,0.8
+The Bourne Ultimatum,622,23:23.2,0.8
+The Bourne Ultimatum,623,23:24.0,0.6
+The Bourne Ultimatum,624,23:24.6,0.3
+The Bourne Ultimatum,625,23:24.9,0.4
+The Bourne Ultimatum,626,23:25.3,0.7
+The Bourne Ultimatum,627,23:26.0,1.5
+The Bourne Ultimatum,628,23:27.5,1.0
+The Bourne Ultimatum,629,23:28.5,0.4
+The Bourne Ultimatum,630,23:28.9,2.1
+The Bourne Ultimatum,631,23:31.0,5.2
+The Bourne Ultimatum,632,23:36.2,2.4
+The Bourne Ultimatum,633,23:38.6,1.5
+The Bourne Ultimatum,634,23:40.1,1.5
+The Bourne Ultimatum,635,23:41.6,1.6
+The Bourne Ultimatum,636,23:43.2,2.8
+The Bourne Ultimatum,637,23:46.0,5.0
+The Bourne Ultimatum,638,23:51.0,4.8
+The Bourne Ultimatum,639,23:55.8,6.0
+The Bourne Ultimatum,640,24:01.8,5.8
+The Bourne Ultimatum,641,24:07.6,0.9
+The Bourne Ultimatum,642,24:08.5,6.2
+The Bourne Ultimatum,643,24:14.7,4.4
+The Bourne Ultimatum,644,24:19.1,3.4
+The Bourne Ultimatum,645,24:22.5,1.7
+The Bourne Ultimatum,646,24:24.2,2.3
+The Bourne Ultimatum,647,24:26.5,1.6
+The Bourne Ultimatum,648,24:28.1,2.5
+The Bourne Ultimatum,649,24:30.6,1.8
+The Bourne Ultimatum,650,24:32.4,2.9
+The Bourne Ultimatum,651,24:35.3,3.0
+The Bourne Ultimatum,652,24:38.3,1.4
+The Bourne Ultimatum,653,24:39.7,1.3
+The Bourne Ultimatum,654,24:41.0,1.5
+The Bourne Ultimatum,655,24:42.5,0.6
+The Bourne Ultimatum,656,24:43.1,0.7
+The Bourne Ultimatum,657,24:43.8,1.9
+The Bourne Ultimatum,658,24:45.7,1.3
+The Bourne Ultimatum,659,24:47.0,1.1
+The Bourne Ultimatum,660,24:48.1,1.1
+The Bourne Ultimatum,661,24:49.2,2.0
+The Bourne Ultimatum,662,24:51.2,1.6
+The Bourne Ultimatum,663,24:52.8,2.7
+The Bourne Ultimatum,664,24:55.5,2.8
+The Bourne Ultimatum,665,24:58.3,1.0
+The Bourne Ultimatum,666,24:59.3,0.9
+The Bourne Ultimatum,667,25:00.2,0.8
+The Bourne Ultimatum,668,25:01.0,0.7
+The Bourne Ultimatum,669,25:01.7,1.5
+The Bourne Ultimatum,670,25:03.2,2.4
+The Bourne Ultimatum,671,25:05.6,2.1
+The Bourne Ultimatum,672,25:07.7,1.6
+The Bourne Ultimatum,673,25:09.3,1.3
+The Bourne Ultimatum,674,25:10.6,1.1
+The Bourne Ultimatum,675,25:11.7,1.7
+The Bourne Ultimatum,676,25:13.4,1.2
+The Bourne Ultimatum,677,25:14.6,1.1
+The Bourne Ultimatum,678,25:15.7,1.1
+The Bourne Ultimatum,679,25:16.8,1.0
+The Bourne Ultimatum,680,25:17.8,1.2
+The Bourne Ultimatum,681,25:19.0,2.2
+The Bourne Ultimatum,682,25:21.2,2.9
+The Bourne Ultimatum,683,25:24.1,1.0
+The Bourne Ultimatum,684,25:25.1,1.1
+The Bourne Ultimatum,685,25:26.2,1.6
+The Bourne Ultimatum,686,25:27.8,1.6
+The Bourne Ultimatum,687,25:29.4,1.0
+The Bourne Ultimatum,688,25:30.4,3.2
+The Bourne Ultimatum,689,25:33.6,1.2
+The Bourne Ultimatum,690,25:34.8,1.2
+The Bourne Ultimatum,691,25:36.0,0.8
+The Bourne Ultimatum,692,25:36.8,0.8
+The Bourne Ultimatum,693,25:37.6,1.3
+The Bourne Ultimatum,694,25:38.9,0.5
+The Bourne Ultimatum,695,25:39.4,0.5
+The Bourne Ultimatum,696,25:39.9,1.1
+The Bourne Ultimatum,697,25:41.0,1.0
+The Bourne Ultimatum,698,25:42.0,1.5
+The Bourne Ultimatum,699,25:43.5,1.5
+The Bourne Ultimatum,700,25:45.0,1.1
+The Bourne Ultimatum,701,25:46.1,0.7
+The Bourne Ultimatum,702,25:46.8,0.9
+The Bourne Ultimatum,703,25:47.7,0.9
+The Bourne Ultimatum,704,25:48.6,1.0
+The Bourne Ultimatum,705,25:49.6,1.5
+The Bourne Ultimatum,706,25:51.1,0.7
+The Bourne Ultimatum,707,25:51.8,1.5
+The Bourne Ultimatum,708,25:53.3,1.0
+The Bourne Ultimatum,709,25:54.3,1.4
+The Bourne Ultimatum,710,25:55.7,0.7
+The Bourne Ultimatum,711,25:56.4,1.3
+The Bourne Ultimatum,712,25:57.7,0.5
+The Bourne Ultimatum,713,25:58.2,0.9
+The Bourne Ultimatum,714,25:59.1,0.5
+The Bourne Ultimatum,715,25:59.6,1.0
+The Bourne Ultimatum,716,26:00.6,0.6
+The Bourne Ultimatum,717,26:01.2,0.9
+The Bourne Ultimatum,718,26:02.1,0.8
+The Bourne Ultimatum,719,26:02.9,1.0
+The Bourne Ultimatum,720,26:03.9,0.8
+The Bourne Ultimatum,721,26:04.7,1.1
+The Bourne Ultimatum,722,26:05.8,0.8
+The Bourne Ultimatum,723,26:06.6,1.3
+The Bourne Ultimatum,724,26:07.9,0.7
+The Bourne Ultimatum,725,26:08.6,0.8
+The Bourne Ultimatum,726,26:09.4,1.4
+The Bourne Ultimatum,727,26:10.8,0.7
+The Bourne Ultimatum,728,26:11.5,1.0
+The Bourne Ultimatum,729,26:12.5,2.6
+The Bourne Ultimatum,730,26:15.1,2.1
+The Bourne Ultimatum,731,26:17.2,4.4
+The Bourne Ultimatum,732,26:21.6,2.8
+The Bourne Ultimatum,733,26:24.4,5.5
+The Bourne Ultimatum,734,26:29.9,1.2
+The Bourne Ultimatum,735,26:31.1,2.1
+The Bourne Ultimatum,736,26:33.2,0.8
+The Bourne Ultimatum,737,26:34.0,1.1
+The Bourne Ultimatum,738,26:35.1,1.1
+The Bourne Ultimatum,739,26:36.2,1.3
+The Bourne Ultimatum,740,26:37.5,1.9
+The Bourne Ultimatum,741,26:39.4,1.6
+The Bourne Ultimatum,742,26:41.0,1.1
+The Bourne Ultimatum,743,26:42.1,0.5
+The Bourne Ultimatum,744,26:42.6,0.6
+The Bourne Ultimatum,745,26:43.2,0.9
+The Bourne Ultimatum,746,26:44.1,4.7
+The Bourne Ultimatum,747,26:48.8,1.9
+The Bourne Ultimatum,748,26:50.7,4.0
+The Bourne Ultimatum,749,26:54.7,1.9
+The Bourne Ultimatum,750,26:56.6,1.9
+The Bourne Ultimatum,751,26:58.5,0.6
+The Bourne Ultimatum,752,26:59.1,1.5
+The Bourne Ultimatum,753,27:00.6,1.8
+The Bourne Ultimatum,754,27:02.4,3.7
+The Bourne Ultimatum,755,27:06.1,3.5
+The Bourne Ultimatum,756,27:09.6,2.9
+The Bourne Ultimatum,757,27:12.5,8.1
+The Bourne Ultimatum,758,27:20.6,5.9
+The Bourne Ultimatum,759,27:26.5,8.6
+The Bourne Ultimatum,760,27:35.1,1.8
+The Bourne Ultimatum,761,27:36.9,2.3
+The Bourne Ultimatum,762,27:39.2,1.6
+The Bourne Ultimatum,763,27:40.8,1.1
+The Bourne Ultimatum,764,27:41.9,1.8
+The Bourne Ultimatum,765,27:43.7,1.4
+The Bourne Ultimatum,766,27:45.1,3.3
+The Bourne Ultimatum,767,27:48.4,2.2
+The Bourne Ultimatum,768,27:50.6,1.5
+The Bourne Ultimatum,769,27:52.1,0.9
+The Bourne Ultimatum,770,27:53.0,0.9
+The Bourne Ultimatum,771,27:53.9,0.8
+The Bourne Ultimatum,772,27:54.7,1.1
+The Bourne Ultimatum,773,27:55.8,2.8
+The Bourne Ultimatum,774,27:58.6,2.7
+The Bourne Ultimatum,775,28:01.3,1.1
+The Bourne Ultimatum,776,28:02.4,3.9
+The Bourne Ultimatum,777,28:06.3,0.9
+The Bourne Ultimatum,778,28:07.2,2.3
+The Bourne Ultimatum,779,28:09.5,0.7
+The Bourne Ultimatum,780,28:10.2,1.5
+The Bourne Ultimatum,781,28:11.7,2.4
+The Bourne Ultimatum,782,28:14.1,1.0
+The Bourne Ultimatum,783,28:15.1,3.4
+The Bourne Ultimatum,784,28:18.5,1.0
+The Bourne Ultimatum,785,28:19.5,2.2
+The Bourne Ultimatum,786,28:21.7,1.3
+The Bourne Ultimatum,787,28:23.0,2.9
+The Bourne Ultimatum,788,28:25.9,0.6
+The Bourne Ultimatum,789,28:26.5,2.4
+The Bourne Ultimatum,790,28:28.9,4.6
+The Bourne Ultimatum,791,28:33.5,1.4
+The Bourne Ultimatum,792,28:34.9,3.4
+The Bourne Ultimatum,793,28:38.3,4.0
+The Bourne Ultimatum,794,28:42.3,4.2
+The Bourne Ultimatum,795,28:46.5,2.7
+The Bourne Ultimatum,796,28:49.2,2.0
+The Bourne Ultimatum,797,28:51.2,1.3
+The Bourne Ultimatum,798,28:52.5,1.2
+The Bourne Ultimatum,799,28:53.7,1.2
+The Bourne Ultimatum,800,28:54.9,0.5
+The Bourne Ultimatum,801,28:55.4,0.8
+The Bourne Ultimatum,802,28:56.2,2.2
+The Bourne Ultimatum,803,28:58.4,0.9
+The Bourne Ultimatum,804,28:59.3,1.5
+The Bourne Ultimatum,805,29:00.8,1.4
+The Bourne Ultimatum,806,29:02.2,2.6
+The Bourne Ultimatum,807,29:04.8,0.9
+The Bourne Ultimatum,808,29:05.7,0.4
+The Bourne Ultimatum,809,29:06.1,1.8
+The Bourne Ultimatum,810,29:07.9,0.9
+The Bourne Ultimatum,811,29:08.8,1.2
+The Bourne Ultimatum,812,29:10.0,0.7
+The Bourne Ultimatum,813,29:10.7,1.6
+The Bourne Ultimatum,814,29:12.3,3.4
+The Bourne Ultimatum,815,29:15.7,4.9
+The Bourne Ultimatum,816,29:20.6,11.4
+The Bourne Ultimatum,817,29:32.0,5.1
+The Bourne Ultimatum,818,29:37.1,3.5
+The Bourne Ultimatum,819,29:40.6,6.6
+The Bourne Ultimatum,820,29:47.2,2.5
+The Bourne Ultimatum,821,29:49.7,3.5
+The Bourne Ultimatum,822,29:53.2,5.1
+The Bourne Ultimatum,823,29:58.3,6.0
+The Bourne Ultimatum,824,30:04.3,4.3
+The Bourne Ultimatum,825,30:08.6,1.9
+The Bourne Ultimatum,826,30:10.5,2.4
+The Bourne Ultimatum,827,30:12.9,2.6
+The Bourne Ultimatum,828,30:15.5,2.7
+The Bourne Ultimatum,829,30:18.2,5.2
+The Bourne Ultimatum,830,30:23.4,2.7
+The Bourne Ultimatum,831,30:26.1,8.8
+The Bourne Ultimatum,832,30:34.9,5.9
+The Bourne Ultimatum,833,30:40.8,7.1
+The Bourne Ultimatum,834,30:47.9,5.8
+The Bourne Ultimatum,835,30:53.7,6.2
+The Bourne Ultimatum,836,30:59.9,2.1
+The Bourne Ultimatum,837,31:02.0,2.4
+The Bourne Ultimatum,838,31:04.4,3.2
+The Bourne Ultimatum,839,31:07.6,4.1
+The Bourne Ultimatum,840,31:11.7,2.2
+The Bourne Ultimatum,841,31:13.9,1.8
+The Bourne Ultimatum,842,31:15.7,1.5
+The Bourne Ultimatum,843,31:17.2,4.1
+The Bourne Ultimatum,844,31:21.3,2.5
+The Bourne Ultimatum,845,31:23.8,1.2
+The Bourne Ultimatum,846,31:25.0,0.8
+The Bourne Ultimatum,847,31:25.8,1.5
+The Bourne Ultimatum,848,31:27.3,1.6
+The Bourne Ultimatum,849,31:28.9,2.5
+The Bourne Ultimatum,850,31:31.4,0.5
+The Bourne Ultimatum,851,31:31.9,2.1
+The Bourne Ultimatum,852,31:34.0,1.5
+The Bourne Ultimatum,853,31:35.5,0.8
+The Bourne Ultimatum,854,31:36.3,1.9
+The Bourne Ultimatum,855,31:38.2,2.5
+The Bourne Ultimatum,856,31:40.7,1.3
+The Bourne Ultimatum,857,31:42.0,1.4
+The Bourne Ultimatum,858,31:43.4,1.8
+The Bourne Ultimatum,859,31:45.2,1.1
+The Bourne Ultimatum,860,31:46.3,2.2
+The Bourne Ultimatum,861,31:48.5,1.2
+The Bourne Ultimatum,862,31:49.7,1.5
+The Bourne Ultimatum,863,31:51.2,1.2
+The Bourne Ultimatum,864,31:52.4,1.5
+The Bourne Ultimatum,865,31:53.9,1.2
+The Bourne Ultimatum,866,31:55.1,1.4
+The Bourne Ultimatum,867,31:56.5,2.1
+The Bourne Ultimatum,868,31:58.6,1.0
+The Bourne Ultimatum,869,31:59.6,1.1
+The Bourne Ultimatum,870,32:00.7,2.0
+The Bourne Ultimatum,871,32:02.7,2.1
+The Bourne Ultimatum,872,32:04.8,1.2
+The Bourne Ultimatum,873,32:06.0,1.4
+The Bourne Ultimatum,874,32:07.4,1.2
+The Bourne Ultimatum,875,32:08.6,1.2
+The Bourne Ultimatum,876,32:09.8,2.7
+The Bourne Ultimatum,877,32:12.5,1.5
+The Bourne Ultimatum,878,32:14.0,1.2
+The Bourne Ultimatum,879,32:15.2,1.0
+The Bourne Ultimatum,880,32:16.2,1.2
+The Bourne Ultimatum,881,32:17.4,1.3
+The Bourne Ultimatum,882,32:18.7,0.8
+The Bourne Ultimatum,883,32:19.5,1.5
+The Bourne Ultimatum,884,32:21.0,1.7
+The Bourne Ultimatum,885,32:22.7,2.4
+The Bourne Ultimatum,886,32:25.1,2.3
+The Bourne Ultimatum,887,32:27.4,2.1
+The Bourne Ultimatum,888,32:29.5,1.4
+The Bourne Ultimatum,889,32:30.9,1.7
+The Bourne Ultimatum,890,32:32.6,1.7
+The Bourne Ultimatum,891,32:34.3,2.9
+The Bourne Ultimatum,892,32:37.2,2.4
+The Bourne Ultimatum,893,32:39.6,2.5
+The Bourne Ultimatum,894,32:42.1,4.3
+The Bourne Ultimatum,895,32:46.4,3.8
+The Bourne Ultimatum,896,32:50.2,3.2
+The Bourne Ultimatum,897,32:53.4,1.7
+The Bourne Ultimatum,898,32:55.1,4.0
+The Bourne Ultimatum,899,32:59.1,1.5
+The Bourne Ultimatum,900,33:00.6,4.0
+The Bourne Ultimatum,901,33:04.6,5.3
+The Bourne Ultimatum,902,33:09.9,4.0
+The Bourne Ultimatum,903,33:13.9,3.3
+The Bourne Ultimatum,904,33:17.2,3.3
+The Bourne Ultimatum,905,33:20.5,2.1
+The Bourne Ultimatum,906,33:22.6,1.9
+The Bourne Ultimatum,907,33:24.5,1.6
+The Bourne Ultimatum,908,33:26.1,1.3
+The Bourne Ultimatum,909,33:27.4,0.8
+The Bourne Ultimatum,910,33:28.2,1.7
+The Bourne Ultimatum,911,33:29.9,0.9
+The Bourne Ultimatum,912,33:30.8,2.7
+The Bourne Ultimatum,913,33:33.5,1.3
+The Bourne Ultimatum,914,33:34.8,1.8
+The Bourne Ultimatum,915,33:36.6,1.8
+The Bourne Ultimatum,916,33:38.4,3.3
+The Bourne Ultimatum,917,33:41.7,2.8
+The Bourne Ultimatum,918,33:44.5,1.2
+The Bourne Ultimatum,919,33:45.7,1.9
+The Bourne Ultimatum,920,33:47.6,1.7
+The Bourne Ultimatum,921,33:49.3,2.7
+The Bourne Ultimatum,922,33:52.0,0.9
+The Bourne Ultimatum,923,33:52.9,1.8
+The Bourne Ultimatum,924,33:54.7,1.5
+The Bourne Ultimatum,925,33:56.2,2.2
+The Bourne Ultimatum,926,33:58.4,1.4
+The Bourne Ultimatum,927,33:59.8,3.2
+The Bourne Ultimatum,928,34:03.0,1.1
+The Bourne Ultimatum,929,34:04.1,5.3
+The Bourne Ultimatum,930,34:09.4,2.7
+The Bourne Ultimatum,931,34:12.1,1.7
+The Bourne Ultimatum,932,34:13.8,0.9
+The Bourne Ultimatum,933,34:14.7,1.6
+The Bourne Ultimatum,934,34:16.3,4.4
+The Bourne Ultimatum,935,34:20.7,4.5
+The Bourne Ultimatum,936,34:25.2,1.9
+The Bourne Ultimatum,937,34:27.1,1.2
+The Bourne Ultimatum,938,34:28.3,1.2
+The Bourne Ultimatum,939,34:29.5,1.0
+The Bourne Ultimatum,940,34:30.5,0.8
+The Bourne Ultimatum,941,34:31.3,2.0
+The Bourne Ultimatum,942,34:33.3,3.9
+The Bourne Ultimatum,943,34:37.2,2.4
+The Bourne Ultimatum,944,34:39.6,0.8
+The Bourne Ultimatum,945,34:40.4,1.3
+The Bourne Ultimatum,946,34:41.7,1.0
+The Bourne Ultimatum,947,34:42.7,2.3
+The Bourne Ultimatum,948,34:45.0,2.3
+The Bourne Ultimatum,949,34:47.3,4.1
+The Bourne Ultimatum,950,34:51.4,1.2
+The Bourne Ultimatum,951,34:52.6,2.6
+The Bourne Ultimatum,952,34:55.2,1.6
+The Bourne Ultimatum,953,34:56.8,1.8
+The Bourne Ultimatum,954,34:58.6,1.8
+The Bourne Ultimatum,955,35:00.4,1.5
+The Bourne Ultimatum,956,35:01.9,3.2
+The Bourne Ultimatum,957,35:05.1,2.1
+The Bourne Ultimatum,958,35:07.2,7.3
+The Bourne Ultimatum,959,35:14.5,2.6
+The Bourne Ultimatum,960,35:17.1,3.3
+The Bourne Ultimatum,961,35:20.4,1.0
+The Bourne Ultimatum,962,35:21.4,1.3
+The Bourne Ultimatum,963,35:22.7,0.8
+The Bourne Ultimatum,964,35:23.5,0.6
+The Bourne Ultimatum,965,35:24.1,0.4
+The Bourne Ultimatum,966,35:24.5,1.7
+The Bourne Ultimatum,967,35:26.2,0.3
+The Bourne Ultimatum,968,35:26.5,2.5
+The Bourne Ultimatum,969,35:29.0,0.2
+The Bourne Ultimatum,970,35:29.2,0.9
+The Bourne Ultimatum,971,35:30.1,1.7
+The Bourne Ultimatum,972,35:31.8,1.2
+The Bourne Ultimatum,973,35:33.0,2.5
+The Bourne Ultimatum,974,35:35.5,1.9
+The Bourne Ultimatum,975,35:37.4,0.4
+The Bourne Ultimatum,976,35:37.8,1.4
+The Bourne Ultimatum,977,35:39.2,0.8
+The Bourne Ultimatum,978,35:40.0,0.5
+The Bourne Ultimatum,979,35:40.5,0.4
+The Bourne Ultimatum,980,35:40.9,0.6
+The Bourne Ultimatum,981,35:41.5,0.6
+The Bourne Ultimatum,982,35:42.1,1.5
+The Bourne Ultimatum,983,35:43.6,0.7
+The Bourne Ultimatum,984,35:44.3,0.2
+The Bourne Ultimatum,985,35:44.5,1.4
+The Bourne Ultimatum,986,35:45.9,0.3
+The Bourne Ultimatum,987,35:46.2,1.0
+The Bourne Ultimatum,988,35:47.2,1.0
+The Bourne Ultimatum,989,35:48.2,1.9
+The Bourne Ultimatum,990,35:50.1,2.4
+The Bourne Ultimatum,991,35:52.5,2.7
+The Bourne Ultimatum,992,35:55.2,3.2
+The Bourne Ultimatum,993,35:58.4,7.5
+The Bourne Ultimatum,994,36:05.9,3.2
+The Bourne Ultimatum,995,36:09.1,1.6
+The Bourne Ultimatum,996,36:10.7,1.7
+The Bourne Ultimatum,997,36:12.4,0.5
+The Bourne Ultimatum,998,36:12.9,1.0
+The Bourne Ultimatum,999,36:13.9,0.9
+Moulin Rouge!,116,05:30.7,2.9
+Moulin Rouge!,34,01:18.2,2.3
+Moulin Rouge!,99,04:57.7,3.0
+Moulin Rouge!,905,29:19.5,1.9
+Moulin Rouge!,639,22:01.0,2.1
+Moulin Rouge!,1,00:00.0,78.0
+Moulin Rouge!,2,01:18.0,0.5
+Moulin Rouge!,3,01:18.5,24.3
+Moulin Rouge!,4,01:42.8,51.6
+Moulin Rouge!,5,02:34.4,3.2
+Moulin Rouge!,6,02:37.6,1.4
+Moulin Rouge!,7,02:39.0,1.7
+Moulin Rouge!,8,02:40.7,2.3
+Moulin Rouge!,9,02:43.0,4.0
+Moulin Rouge!,10,02:47.0,2.8
+Moulin Rouge!,11,02:49.8,1.7
+Moulin Rouge!,12,02:51.5,3.3
+Moulin Rouge!,13,02:54.8,3.4
+Moulin Rouge!,14,02:58.2,1.7
+Moulin Rouge!,15,02:59.9,1.8
+Moulin Rouge!,16,03:01.7,2.1
+Moulin Rouge!,17,03:03.8,3.0
+Moulin Rouge!,18,03:06.8,8.4
+Moulin Rouge!,19,03:15.2,1.9
+Moulin Rouge!,20,03:17.1,1.5
+Moulin Rouge!,21,03:18.6,2.5
+Moulin Rouge!,22,03:21.1,2.9
+Moulin Rouge!,23,03:24.0,1.5
+Moulin Rouge!,24,03:25.5,1.1
+Moulin Rouge!,25,03:26.6,3.2
+Moulin Rouge!,26,03:29.8,1.6
+Moulin Rouge!,27,03:31.4,2.0
+Moulin Rouge!,28,03:33.4,0.8
+Moulin Rouge!,29,03:34.2,1.1
+Moulin Rouge!,30,03:35.3,0.9
+Moulin Rouge!,31,03:36.2,1.0
+Moulin Rouge!,32,03:37.2,1.3
+Moulin Rouge!,33,03:38.5,1.4
+Moulin Rouge!,34,03:39.9,1.2
+Moulin Rouge!,35,03:41.1,1.7
+Moulin Rouge!,36,03:42.8,0.9
+Moulin Rouge!,37,03:43.7,1.0
+Moulin Rouge!,38,03:44.7,2.8
+Moulin Rouge!,39,03:47.5,1.7
+Moulin Rouge!,40,03:49.2,1.3
+Moulin Rouge!,41,03:50.5,1.2
+Moulin Rouge!,42,03:51.7,0.9
+Moulin Rouge!,43,03:52.6,1.1
+Moulin Rouge!,44,03:53.7,1.3
+Moulin Rouge!,45,03:55.0,0.9
+Moulin Rouge!,46,03:55.9,1.6
+Moulin Rouge!,47,03:57.5,10.4
+Moulin Rouge!,48,04:07.9,2.1
+Moulin Rouge!,49,04:10.0,2.5
+Moulin Rouge!,50,04:12.5,1.2
+Moulin Rouge!,51,04:13.7,0.8
+Moulin Rouge!,52,04:14.5,1.2
+Moulin Rouge!,53,04:15.7,1.4
+Moulin Rouge!,54,04:17.1,2.2
+Moulin Rouge!,55,04:19.3,9.1
+Moulin Rouge!,56,04:28.4,7.2
+Moulin Rouge!,57,04:35.6,2.6
+Moulin Rouge!,58,04:38.2,9.8
+Moulin Rouge!,59,04:48.0,2.2
+Moulin Rouge!,60,04:50.2,10.3
+Moulin Rouge!,61,05:00.5,3.6
+Moulin Rouge!,62,05:04.1,2.1
+Moulin Rouge!,63,05:06.2,1.1
+Moulin Rouge!,64,05:07.3,1.9
+Moulin Rouge!,65,05:09.2,1.4
+Moulin Rouge!,66,05:10.6,1.4
+Moulin Rouge!,67,05:12.0,1.6
+Moulin Rouge!,68,05:13.6,1.0
+Moulin Rouge!,69,05:14.6,1.2
+Moulin Rouge!,70,05:15.8,1.7
+Moulin Rouge!,71,05:17.5,9.0
+Moulin Rouge!,72,05:26.5,1.2
+Moulin Rouge!,73,05:27.7,2.6
+Moulin Rouge!,74,05:30.3,1.4
+Moulin Rouge!,75,05:31.7,1.3
+Moulin Rouge!,76,05:33.0,1.6
+Moulin Rouge!,77,05:34.6,0.9
+Moulin Rouge!,78,05:35.5,2.6
+Moulin Rouge!,79,05:38.1,3.9
+Moulin Rouge!,80,05:42.0,2.4
+Moulin Rouge!,81,05:44.4,3.1
+Moulin Rouge!,82,05:47.5,2.8
+Moulin Rouge!,83,05:50.3,0.9
+Moulin Rouge!,84,05:51.2,1.1
+Moulin Rouge!,85,05:52.3,1.5
+Moulin Rouge!,86,05:53.8,3.0
+Moulin Rouge!,87,05:56.8,0.3
+Moulin Rouge!,88,05:57.1,0.9
+Moulin Rouge!,89,05:58.0,0.7
+Moulin Rouge!,90,05:58.7,0.8
+Moulin Rouge!,91,05:59.5,0.5
+Moulin Rouge!,92,06:00.0,0.6
+Moulin Rouge!,93,06:00.6,3.4
+Moulin Rouge!,94,06:04.0,1.4
+Moulin Rouge!,95,06:05.4,1.0
+Moulin Rouge!,96,06:06.4,1.3
+Moulin Rouge!,97,06:07.7,1.2
+Moulin Rouge!,98,06:08.9,2.0
+Moulin Rouge!,99,06:10.9,0.9
+Moulin Rouge!,100,06:11.8,1.9
+Moulin Rouge!,101,06:13.7,1.2
+Moulin Rouge!,102,06:14.9,2.4
+Moulin Rouge!,103,06:17.3,1.2
+Moulin Rouge!,104,06:18.5,1.5
+Moulin Rouge!,105,06:20.0,0.5
+Moulin Rouge!,106,06:20.5,2.0
+Moulin Rouge!,107,06:22.5,1.2
+Moulin Rouge!,108,06:23.7,1.1
+Moulin Rouge!,109,06:24.8,1.1
+Moulin Rouge!,110,06:25.9,1.0
+Moulin Rouge!,111,06:26.9,1.1
+Moulin Rouge!,112,06:28.0,0.8
+Moulin Rouge!,113,06:28.8,2.6
+Moulin Rouge!,114,06:31.4,0.6
+Moulin Rouge!,115,06:32.0,2.7
+Moulin Rouge!,116,06:34.7,1.8
+Moulin Rouge!,117,06:36.5,5.9
+Moulin Rouge!,118,06:42.4,4.8
+Moulin Rouge!,119,06:47.2,2.5
+Moulin Rouge!,120,06:49.7,0.7
+Moulin Rouge!,121,06:50.4,1.1
+Moulin Rouge!,122,06:51.5,1.5
+Moulin Rouge!,123,06:53.0,0.8
+Moulin Rouge!,124,06:53.8,0.5
+Moulin Rouge!,125,06:54.3,0.7
+Moulin Rouge!,126,06:55.0,0.4
+Moulin Rouge!,127,06:55.4,0.5
+Moulin Rouge!,128,06:55.9,0.2
+Moulin Rouge!,129,06:56.1,0.5
+Moulin Rouge!,130,06:56.6,1.2
+Moulin Rouge!,131,06:57.8,0.4
+Moulin Rouge!,132,06:58.2,0.6
+Moulin Rouge!,133,06:58.8,0.9
+Moulin Rouge!,134,06:59.7,1.6
+Moulin Rouge!,135,07:01.3,0.5
+Moulin Rouge!,136,07:01.8,2.1
+Moulin Rouge!,137,07:03.9,3.4
+Moulin Rouge!,138,07:07.3,2.2
+Moulin Rouge!,139,07:09.5,1.0
+Moulin Rouge!,140,07:10.5,2.2
+Moulin Rouge!,141,07:12.7,0.5
+Moulin Rouge!,142,07:13.2,1.1
+Moulin Rouge!,143,07:14.3,1.9
+Moulin Rouge!,144,07:16.2,3.4
+Moulin Rouge!,145,07:19.6,1.3
+Moulin Rouge!,146,07:20.9,0.8
+Moulin Rouge!,147,07:21.7,2.1
+Moulin Rouge!,148,07:23.8,1.0
+Moulin Rouge!,149,07:24.8,0.7
+Moulin Rouge!,150,07:25.5,0.6
+Moulin Rouge!,151,07:26.1,0.7
+Moulin Rouge!,152,07:26.8,0.5
+Moulin Rouge!,153,07:27.3,0.3
+Moulin Rouge!,154,07:27.6,1.3
+Moulin Rouge!,155,07:28.9,1.2
+Moulin Rouge!,156,07:30.1,0.4
+Moulin Rouge!,157,07:30.5,1.1
+Moulin Rouge!,158,07:31.6,0.6
+Moulin Rouge!,159,07:32.2,0.7
+Moulin Rouge!,160,07:32.9,8.2
+Moulin Rouge!,161,07:41.1,1.8
+Moulin Rouge!,162,07:42.9,3.2
+Moulin Rouge!,163,07:46.1,1.0
+Moulin Rouge!,164,07:47.1,0.9
+Moulin Rouge!,165,07:48.0,1.8
+Moulin Rouge!,166,07:49.8,6.5
+Moulin Rouge!,167,07:56.3,0.7
+Moulin Rouge!,168,07:57.0,0.8
+Moulin Rouge!,169,07:57.8,0.9
+Moulin Rouge!,170,07:58.7,0.4
+Moulin Rouge!,171,07:59.1,0.9
+Moulin Rouge!,172,08:00.0,1.7
+Moulin Rouge!,173,08:01.7,1.3
+Moulin Rouge!,174,08:03.0,11.1
+Moulin Rouge!,175,08:14.1,3.8
+Moulin Rouge!,176,08:17.9,0.8
+Moulin Rouge!,177,08:18.7,0.6
+Moulin Rouge!,178,08:19.3,2.3
+Moulin Rouge!,179,08:21.6,1.0
+Moulin Rouge!,180,08:22.6,0.6
+Moulin Rouge!,181,08:23.2,1.1
+Moulin Rouge!,182,08:24.3,1.0
+Moulin Rouge!,183,08:25.3,1.1
+Moulin Rouge!,184,08:26.4,1.6
+Moulin Rouge!,185,08:28.0,0.6
+Moulin Rouge!,186,08:28.6,0.4
+Moulin Rouge!,187,08:29.0,2.5
+Moulin Rouge!,188,08:31.5,0.6
+Moulin Rouge!,189,08:32.1,1.6
+Moulin Rouge!,190,08:33.7,1.0
+Moulin Rouge!,191,08:34.7,0.7
+Moulin Rouge!,192,08:35.4,1.5
+Moulin Rouge!,193,08:36.9,1.1
+Moulin Rouge!,194,08:38.0,0.6
+Moulin Rouge!,195,08:38.6,0.4
+Moulin Rouge!,196,08:39.0,1.7
+Moulin Rouge!,197,08:40.7,1.2
+Moulin Rouge!,198,08:41.9,3.2
+Moulin Rouge!,199,08:45.1,0.5
+Moulin Rouge!,200,08:45.6,1.1
+Moulin Rouge!,201,08:46.7,1.7
+Moulin Rouge!,202,08:48.4,1.2
+Moulin Rouge!,203,08:49.6,1.3
+Moulin Rouge!,204,08:50.9,2.2
+Moulin Rouge!,205,08:53.1,3.0
+Moulin Rouge!,206,08:56.1,1.8
+Moulin Rouge!,207,08:57.9,0.7
+Moulin Rouge!,208,08:58.6,1.6
+Moulin Rouge!,209,09:00.2,0.3
+Moulin Rouge!,210,09:00.5,1.0
+Moulin Rouge!,211,09:01.5,1.1
+Moulin Rouge!,212,09:02.6,0.8
+Moulin Rouge!,213,09:03.4,1.2
+Moulin Rouge!,214,09:04.6,1.1
+Moulin Rouge!,215,09:05.7,1.1
+Moulin Rouge!,216,09:06.8,1.2
+Moulin Rouge!,217,09:08.0,0.8
+Moulin Rouge!,218,09:08.8,1.5
+Moulin Rouge!,219,09:10.3,0.6
+Moulin Rouge!,220,09:10.9,1.8
+Moulin Rouge!,221,09:12.7,1.9
+Moulin Rouge!,222,09:14.6,0.8
+Moulin Rouge!,223,09:15.4,0.4
+Moulin Rouge!,224,09:15.8,0.7
+Moulin Rouge!,225,09:16.5,0.5
+Moulin Rouge!,226,09:17.0,0.4
+Moulin Rouge!,227,09:17.4,0.4
+Moulin Rouge!,228,09:17.8,0.1
+Moulin Rouge!,229,09:17.9,0.4
+Moulin Rouge!,230,09:18.3,1.2
+Moulin Rouge!,231,09:19.5,1.1
+Moulin Rouge!,232,09:20.6,0.5
+Moulin Rouge!,233,09:21.1,0.4
+Moulin Rouge!,234,09:21.5,1.7
+Moulin Rouge!,235,09:23.2,1.1
+Moulin Rouge!,236,09:24.3,0.4
+Moulin Rouge!,237,09:24.7,1.1
+Moulin Rouge!,238,09:25.8,0.5
+Moulin Rouge!,239,09:26.3,1.1
+Moulin Rouge!,240,09:27.4,0.7
+Moulin Rouge!,241,09:28.1,0.6
+Moulin Rouge!,242,09:28.7,1.1
+Moulin Rouge!,243,09:29.8,2.9
+Moulin Rouge!,244,09:32.7,0.6
+Moulin Rouge!,245,09:33.3,2.2
+Moulin Rouge!,246,09:35.5,0.5
+Moulin Rouge!,247,09:36.0,1.2
+Moulin Rouge!,248,09:37.2,0.4
+Moulin Rouge!,249,09:37.6,1.6
+Moulin Rouge!,250,09:39.2,1.6
+Moulin Rouge!,251,09:40.8,1.5
+Moulin Rouge!,252,09:42.3,3.2
+Moulin Rouge!,253,09:45.5,1.3
+Moulin Rouge!,254,09:46.8,2.7
+Moulin Rouge!,255,09:49.5,0.9
+Moulin Rouge!,256,09:50.4,0.7
+Moulin Rouge!,257,09:51.1,0.7
+Moulin Rouge!,258,09:51.8,1.5
+Moulin Rouge!,259,09:53.3,2.0
+Moulin Rouge!,260,09:55.3,1.5
+Moulin Rouge!,261,09:56.8,1.0
+Moulin Rouge!,262,09:57.8,1.3
+Moulin Rouge!,263,09:59.1,1.4
+Moulin Rouge!,264,10:00.5,1.0
+Moulin Rouge!,265,10:01.5,0.3
+Moulin Rouge!,266,10:01.8,0.4
+Moulin Rouge!,267,10:02.2,0.7
+Moulin Rouge!,268,10:02.9,1.6
+Moulin Rouge!,269,10:04.5,0.2
+Moulin Rouge!,270,10:04.7,0.1
+Moulin Rouge!,271,10:04.8,1.2
+Moulin Rouge!,272,10:06.0,1.1
+Moulin Rouge!,273,10:07.1,1.0
+Moulin Rouge!,274,10:08.1,2.0
+Moulin Rouge!,275,10:10.1,1.0
+Moulin Rouge!,276,10:11.1,0.6
+Moulin Rouge!,277,10:11.7,1.0
+Moulin Rouge!,278,10:12.7,1.3
+Moulin Rouge!,279,10:14.0,1.1
+Moulin Rouge!,280,10:15.1,1.7
+Moulin Rouge!,281,10:16.8,1.3
+Moulin Rouge!,282,10:18.1,1.1
+Moulin Rouge!,283,10:19.2,0.5
+Moulin Rouge!,284,10:19.7,0.5
+Moulin Rouge!,285,10:20.2,0.5
+Moulin Rouge!,286,10:20.7,0.3
+Moulin Rouge!,287,10:21.0,0.6
+Moulin Rouge!,288,10:21.6,0.8
+Moulin Rouge!,289,10:22.4,0.7
+Moulin Rouge!,290,10:23.1,0.8
+Moulin Rouge!,291,10:23.9,1.2
+Moulin Rouge!,292,10:25.1,11.6
+Moulin Rouge!,293,10:36.7,1.8
+Moulin Rouge!,294,10:38.5,2.9
+Moulin Rouge!,295,10:41.4,2.4
+Moulin Rouge!,296,10:43.8,1.6
+Moulin Rouge!,297,10:45.4,0.5
+Moulin Rouge!,298,10:45.9,0.3
+Moulin Rouge!,299,10:46.2,0.6
+Moulin Rouge!,300,10:46.8,0.4
+Moulin Rouge!,301,10:47.2,0.9
+Moulin Rouge!,302,10:48.1,1.0
+Moulin Rouge!,303,10:49.1,1.1
+Moulin Rouge!,304,10:50.2,1.2
+Moulin Rouge!,305,10:51.4,1.5
+Moulin Rouge!,306,10:52.9,1.5
+Moulin Rouge!,307,10:54.4,0.4
+Moulin Rouge!,308,10:54.8,0.9
+Moulin Rouge!,309,10:55.7,0.9
+Moulin Rouge!,310,10:56.6,1.1
+Moulin Rouge!,311,10:57.7,1.1
+Moulin Rouge!,312,10:58.8,0.9
+Moulin Rouge!,313,10:59.7,0.8
+Moulin Rouge!,314,11:00.5,0.5
+Moulin Rouge!,315,11:01.0,0.5
+Moulin Rouge!,316,11:01.5,0.7
+Moulin Rouge!,317,11:02.2,0.8
+Moulin Rouge!,318,11:03.0,0.9
+Moulin Rouge!,319,11:03.9,1.5
+Moulin Rouge!,320,11:05.4,0.5
+Moulin Rouge!,321,11:05.9,1.1
+Moulin Rouge!,322,11:07.0,2.0
+Moulin Rouge!,323,11:09.0,0.4
+Moulin Rouge!,324,11:09.4,0.5
+Moulin Rouge!,325,11:09.9,0.8
+Moulin Rouge!,326,11:10.7,1.0
+Moulin Rouge!,327,11:11.7,2.2
+Moulin Rouge!,328,11:13.9,0.6
+Moulin Rouge!,329,11:14.5,0.4
+Moulin Rouge!,330,11:14.9,0.7
+Moulin Rouge!,331,11:15.6,0.9
+Moulin Rouge!,332,11:16.5,0.5
+Moulin Rouge!,333,11:17.0,0.4
+Moulin Rouge!,334,11:17.4,0.8
+Moulin Rouge!,335,11:18.2,0.3
+Moulin Rouge!,336,11:18.5,0.7
+Moulin Rouge!,337,11:19.2,0.3
+Moulin Rouge!,338,11:19.5,0.9
+Moulin Rouge!,339,11:20.4,0.8
+Moulin Rouge!,340,11:21.2,0.8
+Moulin Rouge!,341,11:22.0,0.5
+Moulin Rouge!,342,11:22.5,0.9
+Moulin Rouge!,343,11:23.4,0.5
+Moulin Rouge!,344,11:23.9,0.1
+Moulin Rouge!,345,11:24.0,1.5
+Moulin Rouge!,346,11:25.5,0.6
+Moulin Rouge!,347,11:26.1,0.5
+Moulin Rouge!,348,11:26.6,1.8
+Moulin Rouge!,349,11:28.4,1.6
+Moulin Rouge!,350,11:30.0,1.4
+Moulin Rouge!,351,11:31.4,0.6
+Moulin Rouge!,352,11:32.0,0.4
+Moulin Rouge!,353,11:32.4,1.7
+Moulin Rouge!,354,11:34.1,1.1
+Moulin Rouge!,355,11:35.2,1.0
+Moulin Rouge!,356,11:36.2,0.5
+Moulin Rouge!,357,11:36.7,1.3
+Moulin Rouge!,358,11:38.0,1.1
+Moulin Rouge!,359,11:39.1,1.4
+Moulin Rouge!,360,11:40.5,0.7
+Moulin Rouge!,361,11:41.2,1.9
+Moulin Rouge!,362,11:43.1,1.2
+Moulin Rouge!,363,11:44.3,0.4
+Moulin Rouge!,364,11:44.7,0.4
+Moulin Rouge!,365,11:45.1,0.2
+Moulin Rouge!,366,11:45.3,0.7
+Moulin Rouge!,367,11:46.0,0.7
+Moulin Rouge!,368,11:46.7,0.5
+Moulin Rouge!,369,11:47.2,0.4
+Moulin Rouge!,370,11:47.6,0.8
+Moulin Rouge!,371,11:48.4,0.6
+Moulin Rouge!,372,11:49.0,0.4
+Moulin Rouge!,373,11:49.4,0.5
+Moulin Rouge!,374,11:49.9,0.6
+Moulin Rouge!,375,11:50.5,0.5
+Moulin Rouge!,376,11:51.0,0.7
+Moulin Rouge!,377,11:51.7,0.6
+Moulin Rouge!,378,11:52.3,0.9
+Moulin Rouge!,379,11:53.2,0.8
+Moulin Rouge!,380,11:54.0,1.6
+Moulin Rouge!,381,11:55.6,1.6
+Moulin Rouge!,382,11:57.2,1.0
+Moulin Rouge!,383,11:58.2,1.1
+Moulin Rouge!,384,11:59.3,1.3
+Moulin Rouge!,385,12:00.6,1.1
+Moulin Rouge!,386,12:01.7,1.5
+Moulin Rouge!,387,12:03.2,0.9
+Moulin Rouge!,388,12:04.1,1.0
+Moulin Rouge!,389,12:05.1,1.3
+Moulin Rouge!,390,12:06.4,0.7
+Moulin Rouge!,391,12:07.1,1.5
+Moulin Rouge!,392,12:08.6,0.7
+Moulin Rouge!,393,12:09.3,7.0
+Moulin Rouge!,394,12:16.3,1.7
+Moulin Rouge!,395,12:18.0,1.0
+Moulin Rouge!,396,12:19.0,0.2
+Moulin Rouge!,397,12:19.2,0.4
+Moulin Rouge!,398,12:19.6,0.3
+Moulin Rouge!,399,12:19.9,0.6
+Moulin Rouge!,400,12:20.5,0.8
+Moulin Rouge!,401,12:21.3,0.6
+Moulin Rouge!,402,12:21.9,0.4
+Moulin Rouge!,403,12:22.3,0.7
+Moulin Rouge!,404,12:23.0,0.6
+Moulin Rouge!,405,12:23.6,0.5
+Moulin Rouge!,406,12:24.1,0.5
+Moulin Rouge!,407,12:24.6,0.5
+Moulin Rouge!,408,12:25.1,0.8
+Moulin Rouge!,409,12:25.9,1.0
+Moulin Rouge!,410,12:26.9,1.8
+Moulin Rouge!,411,12:28.7,2.4
+Moulin Rouge!,412,12:31.1,1.0
+Moulin Rouge!,413,12:32.1,0.9
+Moulin Rouge!,414,12:33.0,0.9
+Moulin Rouge!,415,12:33.9,0.9
+Moulin Rouge!,416,12:34.8,0.3
+Moulin Rouge!,417,12:35.1,4.7
+Moulin Rouge!,418,12:39.8,1.7
+Moulin Rouge!,419,12:41.5,0.9
+Moulin Rouge!,420,12:42.4,0.4
+Moulin Rouge!,421,12:42.8,1.0
+Moulin Rouge!,422,12:43.8,0.4
+Moulin Rouge!,423,12:44.2,3.0
+Moulin Rouge!,424,12:47.2,1.0
+Moulin Rouge!,425,12:48.2,0.7
+Moulin Rouge!,426,12:48.9,1.7
+Moulin Rouge!,427,12:50.6,1.0
+Moulin Rouge!,428,12:51.6,0.8
+Moulin Rouge!,429,12:52.4,0.7
+Moulin Rouge!,430,12:53.1,0.6
+Moulin Rouge!,431,12:53.7,0.6
+Moulin Rouge!,432,12:54.3,0.6
+Moulin Rouge!,433,12:54.9,1.2
+Moulin Rouge!,434,12:56.1,1.0
+Moulin Rouge!,435,12:57.1,1.1
+Moulin Rouge!,436,12:58.2,1.3
+Moulin Rouge!,437,12:59.5,2.1
+Moulin Rouge!,438,13:01.6,1.1
+Moulin Rouge!,439,13:02.7,0.6
+Moulin Rouge!,440,13:03.3,1.7
+Moulin Rouge!,441,13:05.0,1.7
+Moulin Rouge!,442,13:06.7,0.9
+Moulin Rouge!,443,13:07.6,0.4
+Moulin Rouge!,444,13:08.0,0.8
+Moulin Rouge!,445,13:08.8,0.5
+Moulin Rouge!,446,13:09.3,0.5
+Moulin Rouge!,447,13:09.8,0.7
+Moulin Rouge!,448,13:10.5,1.6
+Moulin Rouge!,449,13:12.1,0.9
+Moulin Rouge!,450,13:13.0,0.5
+Moulin Rouge!,451,13:13.5,1.2
+Moulin Rouge!,452,13:14.7,0.8
+Moulin Rouge!,453,13:15.5,0.8
+Moulin Rouge!,454,13:16.3,1.0
+Moulin Rouge!,455,13:17.3,0.8
+Moulin Rouge!,456,13:18.1,0.6
+Moulin Rouge!,457,13:18.7,0.7
+Moulin Rouge!,458,13:19.4,0.6
+Moulin Rouge!,459,13:20.0,0.9
+Moulin Rouge!,460,13:20.9,0.9
+Moulin Rouge!,461,13:21.8,1.1
+Moulin Rouge!,462,13:22.9,0.6
+Moulin Rouge!,463,13:23.5,0.6
+Moulin Rouge!,464,13:24.1,0.6
+Moulin Rouge!,465,13:24.7,0.9
+Moulin Rouge!,466,13:25.6,0.8
+Moulin Rouge!,467,13:26.4,0.6
+Moulin Rouge!,468,13:27.0,0.8
+Moulin Rouge!,469,13:27.8,0.5
+Moulin Rouge!,470,13:28.3,0.7
+Moulin Rouge!,471,13:29.0,0.6
+Moulin Rouge!,472,13:29.6,0.7
+Moulin Rouge!,473,13:30.3,0.8
+Moulin Rouge!,474,13:31.1,1.0
+Moulin Rouge!,475,13:32.1,0.7
+Moulin Rouge!,476,13:32.8,0.7
+Moulin Rouge!,477,13:33.5,1.4
+Moulin Rouge!,478,13:34.9,1.0
+Moulin Rouge!,479,13:35.9,0.6
+Moulin Rouge!,480,13:36.5,2.8
+Moulin Rouge!,481,13:39.3,0.8
+Moulin Rouge!,482,13:40.1,0.6
+Moulin Rouge!,483,13:40.7,0.5
+Moulin Rouge!,484,13:41.2,0.6
+Moulin Rouge!,485,13:41.8,0.6
+Moulin Rouge!,486,13:42.4,0.9
+Moulin Rouge!,487,13:43.3,0.7
+Moulin Rouge!,488,13:44.0,0.7
+Moulin Rouge!,489,13:44.7,0.8
+Moulin Rouge!,490,13:45.5,0.8
+Moulin Rouge!,491,13:46.3,0.8
+Moulin Rouge!,492,13:47.1,0.6
+Moulin Rouge!,493,13:47.7,0.6
+Moulin Rouge!,494,13:48.3,0.9
+Moulin Rouge!,495,13:49.2,0.8
+Moulin Rouge!,496,13:50.0,0.8
+Moulin Rouge!,497,13:50.8,0.5
+Moulin Rouge!,498,13:51.3,2.1
+Moulin Rouge!,499,13:53.4,0.8
+Moulin Rouge!,500,13:54.2,0.9
+Moulin Rouge!,501,13:55.1,0.7
+Moulin Rouge!,502,13:55.8,1.0
+Moulin Rouge!,503,13:56.8,0.8
+Moulin Rouge!,504,13:57.6,1.8
+Moulin Rouge!,505,13:59.4,2.7
+Moulin Rouge!,506,14:02.1,2.0
+Moulin Rouge!,507,14:04.1,1.3
+Moulin Rouge!,508,14:05.4,1.3
+Moulin Rouge!,509,14:06.7,0.9
+Moulin Rouge!,510,14:07.6,1.0
+Moulin Rouge!,511,14:08.6,0.9
+Moulin Rouge!,512,14:09.5,5.3
+Moulin Rouge!,513,14:14.8,2.2
+Moulin Rouge!,514,14:17.0,3.6
+Moulin Rouge!,515,14:20.6,0.8
+Moulin Rouge!,516,14:21.4,0.6
+Moulin Rouge!,517,14:22.0,2.1
+Moulin Rouge!,518,14:24.1,4.6
+Moulin Rouge!,519,14:28.7,0.7
+Moulin Rouge!,520,14:29.4,5.6
+Moulin Rouge!,521,14:35.0,3.5
+Moulin Rouge!,522,14:38.5,2.4
+Moulin Rouge!,523,14:40.9,1.7
+Moulin Rouge!,524,14:42.6,2.0
+Moulin Rouge!,525,14:44.6,1.7
+Moulin Rouge!,526,14:46.3,4.5
+Moulin Rouge!,527,14:50.8,3.1
+Moulin Rouge!,528,14:53.9,0.4
+Moulin Rouge!,529,14:54.3,3.9
+Moulin Rouge!,530,14:58.2,2.0
+Moulin Rouge!,531,15:00.2,1.2
+Moulin Rouge!,532,15:01.4,1.6
+Moulin Rouge!,533,15:03.0,0.5
+Moulin Rouge!,534,15:03.5,0.6
+Moulin Rouge!,535,15:04.1,1.0
+Moulin Rouge!,536,15:05.1,3.5
+Moulin Rouge!,537,15:08.6,2.8
+Moulin Rouge!,538,15:11.4,2.6
+Moulin Rouge!,539,15:14.0,1.0
+Moulin Rouge!,540,15:15.0,1.9
+Moulin Rouge!,541,15:16.9,0.6
+Moulin Rouge!,542,15:17.5,0.8
+Moulin Rouge!,543,15:18.3,0.2
+Moulin Rouge!,544,15:18.5,0.9
+Moulin Rouge!,545,15:19.4,0.8
+Moulin Rouge!,546,15:20.2,1.1
+Moulin Rouge!,547,15:21.3,0.9
+Moulin Rouge!,548,15:22.2,1.0
+Moulin Rouge!,549,15:23.2,0.7
+Moulin Rouge!,550,15:23.9,1.3
+Moulin Rouge!,551,15:25.2,1.5
+Moulin Rouge!,552,15:26.7,0.6
+Moulin Rouge!,553,15:27.3,1.8
+Moulin Rouge!,554,15:29.1,1.1
+Moulin Rouge!,555,15:30.2,0.5
+Moulin Rouge!,556,15:30.7,1.2
+Moulin Rouge!,557,15:31.9,1.4
+Moulin Rouge!,558,15:33.3,2.2
+Moulin Rouge!,559,15:35.5,0.8
+Moulin Rouge!,560,15:36.3,0.8
+Moulin Rouge!,561,15:37.1,1.1
+Moulin Rouge!,562,15:38.2,1.3
+Moulin Rouge!,563,15:39.5,0.5
+Moulin Rouge!,564,15:40.0,0.3
+Moulin Rouge!,565,15:40.3,0.9
+Moulin Rouge!,566,15:41.2,1.8
+Moulin Rouge!,567,15:43.0,0.7
+Moulin Rouge!,568,15:43.7,0.5
+Moulin Rouge!,569,15:44.2,0.4
+Moulin Rouge!,570,15:44.6,1.4
+Moulin Rouge!,571,15:46.0,2.1
+Moulin Rouge!,572,15:48.1,0.9
+Moulin Rouge!,573,15:49.0,1.1
+Moulin Rouge!,574,15:50.1,1.7
+Moulin Rouge!,575,15:51.8,1.3
+Moulin Rouge!,576,15:53.1,0.3
+Moulin Rouge!,577,15:53.4,1.1
+Moulin Rouge!,578,15:54.5,1.5
+Moulin Rouge!,579,15:56.0,1.5
+Moulin Rouge!,580,15:57.5,1.2
+Moulin Rouge!,581,15:58.7,1.6
+Moulin Rouge!,582,16:00.3,1.8
+Moulin Rouge!,583,16:02.1,1.4
+Moulin Rouge!,584,16:03.5,0.6
+Moulin Rouge!,585,16:04.1,1.1
+Moulin Rouge!,586,16:05.2,4.8
+Moulin Rouge!,587,16:10.0,1.0
+Moulin Rouge!,588,16:11.0,1.4
+Moulin Rouge!,589,16:12.4,0.8
+Moulin Rouge!,590,16:13.2,1.3
+Moulin Rouge!,591,16:14.5,2.3
+Moulin Rouge!,592,16:16.8,0.6
+Moulin Rouge!,593,16:17.4,0.9
+Moulin Rouge!,594,16:18.3,1.1
+Moulin Rouge!,595,16:19.4,0.6
+Moulin Rouge!,596,16:20.0,0.6
+Moulin Rouge!,597,16:20.6,0.7
+Moulin Rouge!,598,16:21.3,0.5
+Moulin Rouge!,599,16:21.8,1.8
+Moulin Rouge!,600,16:23.6,1.6
+Moulin Rouge!,601,16:25.2,3.5
+Moulin Rouge!,602,16:28.7,1.5
+Moulin Rouge!,603,16:30.2,0.7
+Moulin Rouge!,604,16:30.9,1.8
+Moulin Rouge!,605,16:32.7,2.1
+Moulin Rouge!,606,16:34.8,1.4
+Moulin Rouge!,607,16:36.2,1.9
+Moulin Rouge!,608,16:38.1,1.3
+Moulin Rouge!,609,16:39.4,1.5
+Moulin Rouge!,610,16:40.9,1.7
+Moulin Rouge!,611,16:42.6,2.6
+Moulin Rouge!,612,16:45.2,0.5
+Moulin Rouge!,613,16:45.7,5.9
+Moulin Rouge!,614,16:51.6,2.6
+Moulin Rouge!,615,16:54.2,2.1
+Moulin Rouge!,616,16:56.3,1.3
+Moulin Rouge!,617,16:57.6,1.3
+Moulin Rouge!,618,16:58.9,1.3
+Moulin Rouge!,619,17:00.2,1.0
+Moulin Rouge!,620,17:01.2,3.1
+Moulin Rouge!,621,17:04.3,1.5
+Moulin Rouge!,622,17:05.8,0.6
+Moulin Rouge!,623,17:06.4,0.5
+Moulin Rouge!,624,17:06.9,0.7
+Moulin Rouge!,625,17:07.6,1.9
+Moulin Rouge!,626,17:09.5,1.2
+Moulin Rouge!,627,17:10.7,1.5
+Moulin Rouge!,628,17:12.2,1.0
+Moulin Rouge!,629,17:13.2,1.9
+Moulin Rouge!,630,17:15.1,1.0
+Moulin Rouge!,631,17:16.1,0.4
+Moulin Rouge!,632,17:16.5,1.5
+Moulin Rouge!,633,17:18.0,1.3
+Moulin Rouge!,634,17:19.3,0.5
+Moulin Rouge!,635,17:19.8,1.4
+Moulin Rouge!,636,17:21.2,0.7
+Moulin Rouge!,637,17:21.9,0.8
+Moulin Rouge!,638,17:22.7,1.2
+Moulin Rouge!,639,17:23.9,1.8
+Moulin Rouge!,640,17:25.7,1.6
+Moulin Rouge!,641,17:27.3,0.7
+Moulin Rouge!,642,17:28.0,1.3
+Moulin Rouge!,643,17:29.3,1.3
+Moulin Rouge!,644,17:30.6,1.6
+Moulin Rouge!,645,17:32.2,1.6
+Moulin Rouge!,646,17:33.8,2.4
+Moulin Rouge!,647,17:36.2,0.7
+Moulin Rouge!,648,17:36.9,1.2
+Moulin Rouge!,649,17:38.1,0.8
+Moulin Rouge!,650,17:38.9,0.6
+Moulin Rouge!,651,17:39.5,0.9
+Moulin Rouge!,652,17:40.4,1.1
+Moulin Rouge!,653,17:41.5,1.0
+Moulin Rouge!,654,17:42.5,0.4
+Moulin Rouge!,655,17:42.9,1.5
+Moulin Rouge!,656,17:44.4,2.0
+Moulin Rouge!,657,17:46.4,3.1
+Moulin Rouge!,658,17:49.5,1.1
+Moulin Rouge!,659,17:50.6,1.0
+Moulin Rouge!,660,17:51.6,1.4
+Moulin Rouge!,661,17:53.0,1.4
+Moulin Rouge!,662,17:54.4,1.2
+Moulin Rouge!,663,17:55.6,1.6
+Moulin Rouge!,664,17:57.2,0.6
+Moulin Rouge!,665,17:57.8,1.3
+Moulin Rouge!,666,17:59.1,0.7
+Moulin Rouge!,667,17:59.8,0.4
+Moulin Rouge!,668,18:00.2,0.8
+Moulin Rouge!,669,18:01.0,1.5
+Moulin Rouge!,670,18:02.5,1.7
+Moulin Rouge!,671,18:04.2,1.3
+Moulin Rouge!,672,18:05.5,0.8
+Moulin Rouge!,673,18:06.3,1.6
+Moulin Rouge!,674,18:07.9,2.7
+Moulin Rouge!,675,18:10.6,1.3
+Moulin Rouge!,676,18:11.9,3.4
+Moulin Rouge!,677,18:15.3,1.4
+Moulin Rouge!,678,18:16.7,5.0
+Moulin Rouge!,679,18:21.7,2.7
+Moulin Rouge!,680,18:24.4,1.4
+Moulin Rouge!,681,18:25.8,2.1
+Moulin Rouge!,682,18:27.9,1.0
+Moulin Rouge!,683,18:28.9,1.0
+Moulin Rouge!,684,18:29.9,1.1
+Moulin Rouge!,685,18:31.0,1.3
+Moulin Rouge!,686,18:32.3,1.1
+Moulin Rouge!,687,18:33.4,0.8
+Moulin Rouge!,688,18:34.2,1.4
+Moulin Rouge!,689,18:35.6,1.6
+Moulin Rouge!,690,18:37.2,0.9
+Moulin Rouge!,691,18:38.1,0.5
+Moulin Rouge!,692,18:38.6,0.7
+Moulin Rouge!,693,18:39.3,0.8
+Moulin Rouge!,694,18:40.1,1.9
+Moulin Rouge!,695,18:42.0,2.6
+Moulin Rouge!,696,18:44.6,2.8
+Moulin Rouge!,697,18:47.4,0.9
+Moulin Rouge!,698,18:48.3,1.4
+Moulin Rouge!,699,18:49.7,1.2
+Moulin Rouge!,700,18:50.9,1.3
+Moulin Rouge!,701,18:52.2,1.4
+Moulin Rouge!,702,18:53.6,1.8
+Moulin Rouge!,703,18:55.4,3.3
+Moulin Rouge!,704,18:58.7,1.7
+Moulin Rouge!,705,19:00.4,1.0
+Moulin Rouge!,706,19:01.4,1.2
+Moulin Rouge!,707,19:02.6,2.7
+Moulin Rouge!,708,19:05.3,2.1
+Moulin Rouge!,709,19:07.4,1.0
+Moulin Rouge!,710,19:08.4,1.0
+Moulin Rouge!,711,19:09.4,1.8
+Moulin Rouge!,712,19:11.2,1.0
+Moulin Rouge!,713,19:12.2,1.2
+Moulin Rouge!,714,19:13.4,0.8
+Moulin Rouge!,715,19:14.2,1.1
+Moulin Rouge!,716,19:15.3,0.7
+Moulin Rouge!,717,19:16.0,1.2
+Moulin Rouge!,718,19:17.2,0.9
+Moulin Rouge!,719,19:18.1,1.5
+Moulin Rouge!,720,19:19.6,1.2
+Moulin Rouge!,721,19:20.8,1.0
+Moulin Rouge!,722,19:21.8,1.0
+Moulin Rouge!,723,19:22.8,1.0
+Moulin Rouge!,724,19:23.8,0.8
+Moulin Rouge!,725,19:24.6,0.8
+Moulin Rouge!,726,19:25.4,0.3
+Moulin Rouge!,727,19:25.7,1.0
+Moulin Rouge!,728,19:26.7,0.9
+Moulin Rouge!,729,19:27.6,0.8
+Moulin Rouge!,730,19:28.4,1.3
+Moulin Rouge!,731,19:29.7,0.9
+Moulin Rouge!,732,19:30.6,0.9
+Moulin Rouge!,733,19:31.5,1.0
+Moulin Rouge!,734,19:32.5,1.6
+Moulin Rouge!,735,19:34.1,2.3
+Moulin Rouge!,736,19:36.4,1.1
+Moulin Rouge!,737,19:37.5,1.5
+Moulin Rouge!,738,19:39.0,0.8
+Moulin Rouge!,739,19:39.8,1.7
+Moulin Rouge!,740,19:41.5,0.9
+Moulin Rouge!,741,19:42.4,1.2
+Moulin Rouge!,742,19:43.6,0.6
+Moulin Rouge!,743,19:44.2,0.6
+Moulin Rouge!,744,19:44.8,1.8
+Moulin Rouge!,745,19:46.6,0.8
+Moulin Rouge!,746,19:47.4,0.7
+Moulin Rouge!,747,19:48.1,1.1
+Moulin Rouge!,748,19:49.2,0.9
+Moulin Rouge!,749,19:50.1,1.3
+Moulin Rouge!,750,19:51.4,1.0
+Moulin Rouge!,751,19:52.4,2.5
+Moulin Rouge!,752,19:54.9,1.6
+Moulin Rouge!,753,19:56.5,1.2
+Moulin Rouge!,754,19:57.7,1.9
+Moulin Rouge!,755,19:59.6,1.9
+Moulin Rouge!,756,20:01.5,1.2
+Moulin Rouge!,757,20:02.7,1.1
+Moulin Rouge!,758,20:03.8,0.5
+Moulin Rouge!,759,20:04.3,1.7
+Moulin Rouge!,760,20:06.0,1.9
+Moulin Rouge!,761,20:07.9,0.9
+Moulin Rouge!,762,20:08.8,0.9
+Moulin Rouge!,763,20:09.7,1.3
+Moulin Rouge!,764,20:11.0,0.9
+Moulin Rouge!,765,20:11.9,0.8
+Moulin Rouge!,766,20:12.7,0.8
+Moulin Rouge!,767,20:13.5,2.5
+Moulin Rouge!,768,20:16.0,0.9
+Moulin Rouge!,769,20:16.9,0.9
+Moulin Rouge!,770,20:17.8,0.7
+Moulin Rouge!,771,20:18.5,1.1
+Moulin Rouge!,772,20:19.6,2.6
+Moulin Rouge!,773,20:22.2,2.5
+Moulin Rouge!,774,20:24.7,1.9
+Moulin Rouge!,775,20:26.6,1.3
+Moulin Rouge!,776,20:27.9,5.0
+Moulin Rouge!,777,20:32.9,1.7
+Moulin Rouge!,778,20:34.6,2.1
+Moulin Rouge!,779,20:36.7,1.2
+Moulin Rouge!,780,20:37.9,1.2
+Moulin Rouge!,781,20:39.1,1.4
+Moulin Rouge!,782,20:40.5,1.5
+Moulin Rouge!,783,20:42.0,1.9
+Moulin Rouge!,784,20:43.9,1.0
+Moulin Rouge!,785,20:44.9,1.1
+Moulin Rouge!,786,20:46.0,0.9
+Moulin Rouge!,787,20:46.9,0.7
+Moulin Rouge!,788,20:47.6,0.9
+Moulin Rouge!,789,20:48.5,0.5
+Moulin Rouge!,790,20:49.0,0.5
+Moulin Rouge!,791,20:49.5,0.9
+Moulin Rouge!,792,20:50.4,0.9
+Moulin Rouge!,793,20:51.3,0.7
+Moulin Rouge!,794,20:52.0,0.8
+Moulin Rouge!,795,20:52.8,3.2
+Moulin Rouge!,796,20:56.0,0.7
+Moulin Rouge!,797,20:56.7,0.8
+Moulin Rouge!,798,20:57.5,0.3
+Moulin Rouge!,799,20:57.8,3.1
+Moulin Rouge!,800,21:00.9,2.1
+Moulin Rouge!,801,21:03.0,5.2
+Moulin Rouge!,802,21:08.2,1.8
+Moulin Rouge!,803,21:10.0,3.0
+Moulin Rouge!,804,21:13.0,6.7
+Moulin Rouge!,805,21:19.7,1.8
+Moulin Rouge!,806,21:21.5,1.4
+Moulin Rouge!,807,21:22.9,7.0
+Moulin Rouge!,808,21:29.9,3.4
+Moulin Rouge!,809,21:33.3,0.7
+Moulin Rouge!,810,21:34.0,2.6
+Moulin Rouge!,811,21:36.6,0.6
+Moulin Rouge!,812,21:37.2,0.7
+Moulin Rouge!,813,21:37.9,1.0
+Moulin Rouge!,814,21:38.9,1.4
+Moulin Rouge!,815,21:40.3,1.5
+Moulin Rouge!,816,21:41.8,2.6
+Moulin Rouge!,817,21:44.4,0.8
+Moulin Rouge!,818,21:45.2,1.2
+Moulin Rouge!,819,21:46.4,0.4
+Moulin Rouge!,820,21:46.8,0.5
+Moulin Rouge!,821,21:47.3,1.5
+Moulin Rouge!,822,21:48.8,0.6
+Moulin Rouge!,823,21:49.4,0.6
+Moulin Rouge!,824,21:50.0,0.6
+Moulin Rouge!,825,21:50.6,1.1
+Moulin Rouge!,826,21:51.7,1.6
+Moulin Rouge!,827,21:53.3,2.7
+Moulin Rouge!,828,21:56.0,1.3
+Moulin Rouge!,829,21:57.3,0.7
+Moulin Rouge!,830,21:58.0,0.9
+Moulin Rouge!,831,21:58.9,1.1
+Moulin Rouge!,832,22:00.0,0.7
+Moulin Rouge!,833,22:00.7,2.1
+Moulin Rouge!,834,22:02.8,1.0
+Moulin Rouge!,835,22:03.8,1.0
+Moulin Rouge!,836,22:04.8,1.2
+Moulin Rouge!,837,22:06.0,1.2
+Moulin Rouge!,838,22:07.2,0.7
+Moulin Rouge!,839,22:07.9,2.2
+Moulin Rouge!,840,22:10.1,1.0
+Moulin Rouge!,841,22:11.1,1.2
+Moulin Rouge!,842,22:12.3,1.0
+Moulin Rouge!,843,22:13.3,1.1
+Moulin Rouge!,844,22:14.4,0.7
+Moulin Rouge!,845,22:15.1,0.8
+Moulin Rouge!,846,22:15.9,0.8
+Moulin Rouge!,847,22:16.7,0.5
+Moulin Rouge!,848,22:17.2,0.7
+Moulin Rouge!,849,22:17.9,1.0
+Moulin Rouge!,850,22:18.9,0.7
+Moulin Rouge!,851,22:19.6,1.3
+Moulin Rouge!,852,22:20.9,8.1
+Moulin Rouge!,853,22:29.0,2.9
+Moulin Rouge!,854,22:31.9,2.4
+Moulin Rouge!,855,22:34.3,3.2
+Moulin Rouge!,856,22:37.5,4.1
+Moulin Rouge!,857,22:41.6,1.4
+Moulin Rouge!,858,22:43.0,0.6
+Moulin Rouge!,859,22:43.6,2.0
+Moulin Rouge!,860,22:45.6,0.9
+Moulin Rouge!,861,22:46.5,1.9
+Moulin Rouge!,862,22:48.4,0.4
+Moulin Rouge!,863,22:48.8,2.1
+Moulin Rouge!,864,22:50.9,1.3
+Moulin Rouge!,865,22:52.2,4.2
+Moulin Rouge!,866,22:56.4,1.4
+Moulin Rouge!,867,22:57.8,3.8
+Moulin Rouge!,868,23:01.6,1.0
+Moulin Rouge!,869,23:02.6,1.6
+Moulin Rouge!,870,23:04.2,1.3
+Moulin Rouge!,871,23:05.5,0.9
+Moulin Rouge!,872,23:06.4,1.2
+Moulin Rouge!,873,23:07.6,1.2
+Moulin Rouge!,874,23:08.8,1.1
+Moulin Rouge!,875,23:09.9,0.8
+Moulin Rouge!,876,23:10.7,1.0
+Moulin Rouge!,877,23:11.7,1.4
+Moulin Rouge!,878,23:13.1,1.0
+Moulin Rouge!,879,23:14.1,8.2
+Moulin Rouge!,880,23:22.3,1.3
+Moulin Rouge!,881,23:23.6,9.6
+Moulin Rouge!,882,23:33.2,1.2
+Moulin Rouge!,883,23:34.4,2.2
+Moulin Rouge!,884,23:36.6,0.8
+Moulin Rouge!,885,23:37.4,0.6
+Moulin Rouge!,886,23:38.0,0.9
+Moulin Rouge!,887,23:38.9,0.9
+Moulin Rouge!,888,23:39.8,0.9
+Moulin Rouge!,889,23:40.7,0.6
+Moulin Rouge!,890,23:41.3,1.2
+Moulin Rouge!,891,23:42.5,0.5
+Moulin Rouge!,892,23:43.0,0.9
+Moulin Rouge!,893,23:43.9,1.1
+Moulin Rouge!,894,23:45.0,0.5
+Moulin Rouge!,895,23:45.5,0.6
+Moulin Rouge!,896,23:46.1,1.6
+Moulin Rouge!,897,23:47.7,1.5
+Moulin Rouge!,898,23:49.2,2.1
+Moulin Rouge!,899,23:51.3,1.2
+Moulin Rouge!,900,23:52.5,3.4
+Moulin Rouge!,901,23:55.9,0.9
+Moulin Rouge!,902,23:56.8,0.9
+Moulin Rouge!,903,23:57.7,0.6
+Moulin Rouge!,904,23:58.3,0.5
+Moulin Rouge!,905,23:58.8,0.7
+Moulin Rouge!,906,23:59.5,0.9
+Moulin Rouge!,907,24:00.4,0.4
+Moulin Rouge!,908,24:00.8,0.8
+Moulin Rouge!,909,24:01.6,0.9
+Moulin Rouge!,910,24:02.5,0.6
+Moulin Rouge!,911,24:03.1,0.9
+Moulin Rouge!,912,24:04.0,0.3
+Moulin Rouge!,913,24:04.3,0.5
+Moulin Rouge!,914,24:04.8,0.8
+Moulin Rouge!,915,24:05.6,0.6
+Moulin Rouge!,916,24:06.2,1.2
+Moulin Rouge!,917,24:07.4,2.7
+Moulin Rouge!,918,24:10.1,2.7
+Moulin Rouge!,919,24:12.8,3.5
+Moulin Rouge!,920,24:16.3,1.3
+Moulin Rouge!,921,24:17.6,4.0
+Moulin Rouge!,922,24:21.6,1.1
+Moulin Rouge!,923,24:22.7,6.6
+Moulin Rouge!,924,24:29.3,5.4
+Moulin Rouge!,925,24:34.7,2.6
+Moulin Rouge!,926,24:37.3,0.4
+Moulin Rouge!,927,24:37.7,1.3
+Moulin Rouge!,928,24:39.0,1.0
+Moulin Rouge!,929,24:40.0,0.7
+Moulin Rouge!,930,24:40.7,1.6
+Moulin Rouge!,931,24:42.3,0.6
+Moulin Rouge!,932,24:42.9,2.5
+Moulin Rouge!,933,24:45.4,2.3
+Moulin Rouge!,934,24:47.7,0.7
+Moulin Rouge!,935,24:48.4,1.6
+Moulin Rouge!,936,24:50.0,1.5
+Moulin Rouge!,937,24:51.5,4.3
+Moulin Rouge!,938,24:55.8,1.5
+Moulin Rouge!,939,24:57.3,2.5
+Moulin Rouge!,940,24:59.8,1.8
+Moulin Rouge!,941,25:01.6,1.7
+Moulin Rouge!,942,25:03.3,0.8
+Moulin Rouge!,943,25:04.1,1.2
+Moulin Rouge!,944,25:05.3,1.5
+Moulin Rouge!,945,25:06.8,2.1
+Moulin Rouge!,946,25:08.9,1.2
+Moulin Rouge!,947,25:10.1,2.5
+Moulin Rouge!,948,25:12.6,3.6
+Moulin Rouge!,949,25:16.2,1.3
+Moulin Rouge!,950,25:17.5,0.8
+Moulin Rouge!,951,25:18.3,0.9
+Moulin Rouge!,952,25:19.2,1.2
+Moulin Rouge!,953,25:20.4,1.2
+Moulin Rouge!,954,25:21.6,1.6
+Moulin Rouge!,955,25:23.2,4.2
+Moulin Rouge!,956,25:27.4,2.6
+Moulin Rouge!,957,25:30.0,2.2
+Moulin Rouge!,958,25:32.2,1.1
+Moulin Rouge!,959,25:33.3,1.7
+Moulin Rouge!,960,25:35.0,0.8
+Moulin Rouge!,961,25:35.8,1.3
+Moulin Rouge!,962,25:37.1,0.8
+Moulin Rouge!,963,25:37.9,1.7
+Moulin Rouge!,964,25:39.6,1.1
+Moulin Rouge!,965,25:40.7,1.2
+Moulin Rouge!,966,25:41.9,1.7
+Moulin Rouge!,967,25:43.6,0.7
+Moulin Rouge!,968,25:44.3,2.2
+Moulin Rouge!,969,25:46.5,0.3
+Moulin Rouge!,970,25:46.8,0.4
+Moulin Rouge!,971,25:47.2,1.5
+Moulin Rouge!,972,25:48.7,1.1
+Moulin Rouge!,973,25:49.8,1.7
+Moulin Rouge!,974,25:51.5,1.1
+Moulin Rouge!,975,25:52.6,1.1
+Moulin Rouge!,976,25:53.7,1.6
+Moulin Rouge!,977,25:55.3,1.2
+Moulin Rouge!,978,25:56.5,1.2
+Moulin Rouge!,979,25:57.7,1.3
+Moulin Rouge!,980,25:59.0,3.5
+Moulin Rouge!,981,26:02.5,3.3
+Moulin Rouge!,982,26:05.8,2.8
+Moulin Rouge!,983,26:08.6,1.9
+Moulin Rouge!,984,26:10.5,6.0
+Moulin Rouge!,985,26:16.5,1.0
+Moulin Rouge!,986,26:17.5,0.8
+Moulin Rouge!,987,26:18.3,0.9
+Moulin Rouge!,988,26:19.2,1.4
+Moulin Rouge!,989,26:20.6,0.6
+Moulin Rouge!,990,26:21.2,1.7
+Moulin Rouge!,991,26:22.9,6.3
+Moulin Rouge!,992,26:29.2,1.0
+Moulin Rouge!,993,26:30.2,0.8
+Moulin Rouge!,994,26:31.0,0.4
+Moulin Rouge!,995,26:31.4,1.6
+Moulin Rouge!,996,26:33.0,0.7
+Moulin Rouge!,997,26:33.7,0.9
+Moulin Rouge!,998,26:34.6,1.7
+Moulin Rouge!,999,26:36.3,0.7
+Run Lola Run,1,00:00.0,21.2
+Run Lola Run,2,00:21.2,57.2
+Run Lola Run,3,01:18.4,31.0
+Run Lola Run,4,01:49.4,7.0
+Run Lola Run,5,01:56.4,5.5
+Run Lola Run,6,02:01.9,11.2
+Run Lola Run,7,02:13.1,20.8
+Run Lola Run,8,02:33.9,10.6
+Run Lola Run,9,02:44.5,57.8
+Run Lola Run,10,03:42.3,5.1
+Run Lola Run,11,03:47.4,5.0
+Run Lola Run,12,03:52.4,5.4
+Run Lola Run,13,03:57.8,8.3
+Run Lola Run,14,04:06.1,7.5
+Run Lola Run,15,04:13.6,5.0
+Run Lola Run,16,04:18.6,9.6
+Run Lola Run,17,04:28.2,1.1
+Run Lola Run,18,04:29.3,0.9
+Run Lola Run,19,04:30.2,1.5
+Run Lola Run,20,04:31.7,1.0
+Run Lola Run,21,04:32.7,2.4
+Run Lola Run,22,04:35.1,1.7
+Run Lola Run,23,04:36.8,2.6
+Run Lola Run,24,04:39.4,0.9
+Run Lola Run,25,04:40.3,1.4
+Run Lola Run,26,04:41.7,1.7
+Run Lola Run,27,04:43.4,1.2
+Run Lola Run,28,04:44.6,0.6
+Run Lola Run,29,04:45.2,1.8
+Run Lola Run,30,04:47.0,3.0
+Run Lola Run,31,04:50.0,1.4
+Run Lola Run,32,04:51.4,1.4
+Run Lola Run,33,04:52.8,1.6
+Run Lola Run,34,04:54.4,1.4
+Run Lola Run,35,04:55.8,1.1
+Run Lola Run,36,04:56.9,1.7
+Run Lola Run,37,04:58.6,1.8
+Run Lola Run,38,05:00.4,3.1
+Run Lola Run,39,05:03.5,2.8
+Run Lola Run,40,05:06.3,4.4
+Run Lola Run,41,05:10.7,2.6
+Run Lola Run,42,05:13.3,2.4
+Run Lola Run,43,05:15.7,2.1
+Run Lola Run,44,05:17.8,2.0
+Run Lola Run,45,05:19.8,3.4
+Run Lola Run,46,05:23.2,2.4
+Run Lola Run,47,05:25.6,2.7
+Run Lola Run,48,05:28.3,9.9
+Run Lola Run,49,05:38.2,0.8
+Run Lola Run,50,05:39.0,6.4
+Run Lola Run,51,05:45.4,4.0
+Run Lola Run,52,05:49.4,1.2
+Run Lola Run,53,05:50.6,1.4
+Run Lola Run,54,05:52.0,1.6
+Run Lola Run,55,05:53.6,1.8
+Run Lola Run,56,05:55.4,4.0
+Run Lola Run,57,05:59.4,3.8
+Run Lola Run,58,06:03.2,3.7
+Run Lola Run,59,06:06.9,3.4
+Run Lola Run,60,06:10.3,3.0
+Run Lola Run,61,06:13.3,1.0
+Run Lola Run,62,06:14.3,3.6
+Run Lola Run,63,06:17.9,3.6
+Run Lola Run,64,06:21.5,2.7
+Run Lola Run,65,06:24.2,1.7
+Run Lola Run,66,06:25.9,1.9
+Run Lola Run,67,06:27.8,2.1
+Run Lola Run,68,06:29.9,4.5
+Run Lola Run,69,06:34.4,1.0
+Run Lola Run,70,06:35.4,3.9
+Run Lola Run,71,06:39.3,2.0
+Run Lola Run,72,06:41.3,1.0
+Run Lola Run,73,06:42.3,0.7
+Run Lola Run,74,06:43.0,0.5
+Run Lola Run,75,06:43.5,0.9
+Run Lola Run,76,06:44.4,0.6
+Run Lola Run,77,06:45.0,0.7
+Run Lola Run,78,06:45.7,0.6
+Run Lola Run,79,06:46.3,1.1
+Run Lola Run,80,06:47.4,1.3
+Run Lola Run,81,06:48.7,3.7
+Run Lola Run,82,06:52.4,3.1
+Run Lola Run,83,06:55.5,1.3
+Run Lola Run,84,06:56.8,1.3
+Run Lola Run,85,06:58.1,1.6
+Run Lola Run,86,06:59.7,1.7
+Run Lola Run,87,07:01.4,1.7
+Run Lola Run,88,07:03.1,1.5
+Run Lola Run,89,07:04.6,4.4
+Run Lola Run,90,07:09.0,5.5
+Run Lola Run,91,07:14.5,2.4
+Run Lola Run,92,07:16.9,4.6
+Run Lola Run,93,07:21.5,8.0
+Run Lola Run,94,07:29.5,2.8
+Run Lola Run,95,07:32.3,3.1
+Run Lola Run,96,07:35.4,4.0
+Run Lola Run,97,07:39.4,1.0
+Run Lola Run,98,07:40.4,0.8
+Run Lola Run,99,07:41.2,0.6
+Run Lola Run,100,07:41.8,0.3
+Run Lola Run,101,07:42.1,0.3
+Run Lola Run,102,07:42.4,9.1
+Run Lola Run,103,07:51.5,1.7
+Run Lola Run,104,07:53.2,0.6
+Run Lola Run,105,07:53.8,0.7
+Run Lola Run,106,07:54.5,1.3
+Run Lola Run,107,07:55.8,4.2
+Run Lola Run,108,08:00.0,3.4
+Run Lola Run,109,08:03.4,2.6
+Run Lola Run,110,08:06.0,3.9
+Run Lola Run,111,08:09.9,1.9
+Run Lola Run,112,08:11.8,2.5
+Run Lola Run,113,08:14.3,1.8
+Run Lola Run,114,08:16.1,1.5
+Run Lola Run,115,08:17.6,3.0
+Run Lola Run,116,08:20.6,6.8
+Run Lola Run,117,08:27.4,8.2
+Run Lola Run,118,08:35.6,1.8
+Run Lola Run,119,08:37.4,3.6
+Run Lola Run,120,08:41.0,2.5
+Run Lola Run,121,08:43.5,1.4
+Run Lola Run,122,08:44.9,1.5
+Run Lola Run,123,08:46.4,1.6
+Run Lola Run,124,08:48.0,1.3
+Run Lola Run,125,08:49.3,3.1
+Run Lola Run,126,08:52.4,2.0
+Run Lola Run,127,08:54.4,2.9
+Run Lola Run,128,08:57.3,1.9
+Run Lola Run,129,08:59.2,2.5
+Run Lola Run,130,09:01.7,1.7
+Run Lola Run,131,09:03.4,3.1
+Run Lola Run,132,09:06.5,1.2
+Run Lola Run,133,09:07.7,0.5
+Run Lola Run,134,09:08.2,0.5
+Run Lola Run,135,09:08.7,1.5
+Run Lola Run,136,09:10.2,2.6
+Run Lola Run,137,09:12.8,2.1
+Run Lola Run,138,09:14.9,2.1
+Run Lola Run,139,09:17.0,2.3
+Run Lola Run,140,09:19.3,5.0
+Run Lola Run,141,09:24.3,2.1
+Run Lola Run,142,09:26.4,1.5
+Run Lola Run,143,09:27.9,2.6
+Run Lola Run,144,09:30.5,2.5
+Run Lola Run,145,09:33.0,3.0
+Run Lola Run,146,09:36.0,2.0
+Run Lola Run,147,09:38.0,1.9
+Run Lola Run,148,09:39.9,2.6
+Run Lola Run,149,09:42.5,1.6
+Run Lola Run,150,09:44.1,3.9
+Run Lola Run,151,09:48.0,2.5
+Run Lola Run,152,09:50.5,1.5
+Run Lola Run,153,09:52.0,2.9
+Run Lola Run,154,09:54.9,2.8
+Run Lola Run,155,09:57.7,1.7
+Run Lola Run,156,09:59.4,1.5
+Run Lola Run,157,10:00.9,3.3
+Run Lola Run,158,10:04.2,1.6
+Run Lola Run,159,10:05.8,0.6
+Run Lola Run,160,10:06.4,2.7
+Run Lola Run,161,10:09.1,2.7
+Run Lola Run,162,10:11.8,0.6
+Run Lola Run,163,10:12.4,2.0
+Run Lola Run,164,10:14.4,1.0
+Run Lola Run,165,10:15.4,2.3
+Run Lola Run,166,10:17.7,6.3
+Run Lola Run,167,10:24.0,4.3
+Run Lola Run,168,10:28.3,1.1
+Run Lola Run,169,10:29.4,0.9
+Run Lola Run,170,10:30.3,0.8
+Run Lola Run,171,10:31.1,1.4
+Run Lola Run,172,10:32.5,0.7
+Run Lola Run,173,10:33.2,1.1
+Run Lola Run,174,10:34.3,0.9
+Run Lola Run,175,10:35.2,1.7
+Run Lola Run,176,10:36.9,1.0
+Run Lola Run,177,10:37.9,1.4
+Run Lola Run,178,10:39.3,0.5
+Run Lola Run,179,10:39.8,1.1
+Run Lola Run,180,10:40.9,0.7
+Run Lola Run,181,10:41.6,0.6
+Run Lola Run,182,10:42.2,3.1
+Run Lola Run,183,10:45.3,0.3
+Run Lola Run,184,10:45.6,0.8
+Run Lola Run,185,10:46.4,0.5
+Run Lola Run,186,10:46.9,0.4
+Run Lola Run,187,10:47.3,0.5
+Run Lola Run,188,10:47.8,4.6
+Run Lola Run,189,10:52.4,5.2
+Run Lola Run,190,10:57.6,0.4
+Run Lola Run,191,10:58.0,0.7
+Run Lola Run,192,10:58.7,0.2
+Run Lola Run,193,10:58.9,0.6
+Run Lola Run,194,10:59.5,0.3
+Run Lola Run,195,10:59.8,1.1
+Run Lola Run,196,11:00.9,0.1
+Run Lola Run,197,11:01.0,0.5
+Run Lola Run,198,11:01.5,0.3
+Run Lola Run,199,11:01.8,0.8
+Run Lola Run,200,11:02.6,0.5
+Run Lola Run,201,11:03.1,1.2
+Run Lola Run,202,11:04.3,0.2
+Run Lola Run,203,11:04.5,0.7
+Run Lola Run,204,11:05.2,0.2
+Run Lola Run,205,11:05.4,1.1
+Run Lola Run,206,11:06.5,0.1
+Run Lola Run,207,11:06.6,0.7
+Run Lola Run,208,11:07.3,0.1
+Run Lola Run,209,11:07.4,0.8
+Run Lola Run,210,11:08.2,0.2
+Run Lola Run,211,11:08.4,0.5
+Run Lola Run,212,11:08.9,0.1
+Run Lola Run,213,11:09.0,0.7
+Run Lola Run,214,11:09.7,0.2
+Run Lola Run,215,11:09.9,0.5
+Run Lola Run,216,11:10.4,0.4
+Run Lola Run,217,11:10.8,0.5
+Run Lola Run,218,11:11.3,0.2
+Run Lola Run,219,11:11.5,0.9
+Run Lola Run,220,11:12.4,0.2
+Run Lola Run,221,11:12.6,0.2
+Run Lola Run,222,11:12.8,2.9
+Run Lola Run,223,11:15.7,0.2
+Run Lola Run,224,11:15.9,0.8
+Run Lola Run,225,11:16.7,0.2
+Run Lola Run,226,11:16.9,0.7
+Run Lola Run,227,11:17.6,0.3
+Run Lola Run,228,11:17.9,1.1
+Run Lola Run,229,11:19.0,0.1
+Run Lola Run,230,11:19.1,2.9
+Run Lola Run,231,11:22.0,1.0
+Run Lola Run,232,11:23.0,3.3
+Run Lola Run,233,11:26.3,32.6
+Run Lola Run,234,11:58.9,2.6
+Run Lola Run,235,12:01.5,2.5
+Run Lola Run,236,12:04.0,3.5
+Run Lola Run,237,12:07.5,2.0
+Run Lola Run,238,12:09.5,7.0
+Run Lola Run,239,12:16.5,0.4
+Run Lola Run,240,12:16.9,6.4
+Run Lola Run,241,12:23.3,2.4
+Run Lola Run,242,12:25.7,2.7
+Run Lola Run,243,12:28.4,2.4
+Run Lola Run,244,12:30.8,6.3
+Run Lola Run,245,12:37.1,14.2
+Run Lola Run,246,12:51.3,0.5
+Run Lola Run,247,12:51.8,0.2
+Run Lola Run,248,12:52.0,0.4
+Run Lola Run,249,12:52.4,0.3
+Run Lola Run,250,12:52.7,0.4
+Run Lola Run,251,12:53.1,0.4
+Run Lola Run,252,12:53.5,0.7
+Run Lola Run,253,12:54.2,0.3
+Run Lola Run,254,12:54.5,0.4
+Run Lola Run,255,12:54.9,0.4
+Run Lola Run,256,12:55.3,0.4
+Run Lola Run,257,12:55.7,0.2
+Run Lola Run,258,12:55.9,0.4
+Run Lola Run,259,12:56.3,0.4
+Run Lola Run,260,12:56.7,0.3
+Run Lola Run,261,12:57.0,0.5
+Run Lola Run,262,12:57.5,0.4
+Run Lola Run,263,12:57.9,0.4
+Run Lola Run,264,12:58.3,0.4
+Run Lola Run,265,12:58.7,0.3
+Run Lola Run,266,12:59.0,1.0
+Run Lola Run,267,13:00.0,11.2
+Run Lola Run,268,13:11.2,19.2
+Run Lola Run,269,13:30.4,0.1
+Run Lola Run,270,13:30.5,1.3
+Run Lola Run,271,13:31.8,0.2
+Run Lola Run,272,13:32.0,1.5
+Run Lola Run,273,13:33.5,0.2
+Run Lola Run,274,13:33.7,1.7
+Run Lola Run,275,13:35.4,0.1
+Run Lola Run,276,13:35.5,1.9
+Run Lola Run,277,13:37.4,0.1
+Run Lola Run,278,13:37.5,1.5
+Run Lola Run,279,13:39.0,0.3
+Run Lola Run,280,13:39.3,1.6
+Run Lola Run,281,13:40.9,0.1
+Run Lola Run,282,13:41.0,1.9
+Run Lola Run,283,13:42.9,0.3
+Run Lola Run,284,13:43.2,1.4
+Run Lola Run,285,13:44.6,0.3
+Run Lola Run,286,13:44.9,1.6
+Run Lola Run,287,13:46.5,0.3
+Run Lola Run,288,13:46.8,7.2
+Run Lola Run,289,13:54.0,20.5
+Run Lola Run,290,14:14.5,3.9
+Run Lola Run,291,14:18.4,3.7
+Run Lola Run,292,14:22.1,4.6
+Run Lola Run,293,14:26.7,2.7
+Run Lola Run,294,14:29.4,5.1
+Run Lola Run,295,14:34.5,10.4
+Run Lola Run,296,14:44.9,5.1
+Run Lola Run,297,14:50.0,2.6
+Run Lola Run,298,14:52.6,17.6
+Run Lola Run,299,15:10.2,7.0
+Run Lola Run,300,15:17.2,1.9
+Run Lola Run,301,15:19.1,1.9
+Run Lola Run,302,15:21.0,2.3
+Run Lola Run,303,15:23.3,2.0
+Run Lola Run,304,15:25.3,1.5
+Run Lola Run,305,15:26.8,2.1
+Run Lola Run,306,15:28.9,2.1
+Run Lola Run,307,15:31.0,3.0
+Run Lola Run,308,15:34.0,4.6
+Run Lola Run,309,15:38.6,0.3
+Run Lola Run,310,15:38.9,0.3
+Run Lola Run,311,15:39.2,0.2
+Run Lola Run,312,15:39.4,0.5
+Run Lola Run,313,15:39.9,0.3
+Run Lola Run,314,15:40.2,0.3
+Run Lola Run,315,15:40.5,0.3
+Run Lola Run,316,15:40.8,0.4
+Run Lola Run,317,15:41.2,0.3
+Run Lola Run,318,15:41.5,0.3
+Run Lola Run,319,15:41.8,0.4
+Run Lola Run,320,15:42.2,0.2
+Run Lola Run,321,15:42.4,0.4
+Run Lola Run,322,15:42.8,0.2
+Run Lola Run,323,15:43.0,0.4
+Run Lola Run,324,15:43.4,0.3
+Run Lola Run,325,15:43.7,0.3
+Run Lola Run,326,15:44.0,0.4
+Run Lola Run,327,15:44.4,7.2
+Run Lola Run,328,15:51.6,3.4
+Run Lola Run,329,15:55.0,1.9
+Run Lola Run,330,15:56.9,1.5
+Run Lola Run,331,15:58.4,3.1
+Run Lola Run,332,16:01.5,3.4
+Run Lola Run,333,16:04.9,2.7
+Run Lola Run,334,16:07.6,1.8
+Run Lola Run,335,16:09.4,0.3
+Run Lola Run,336,16:09.7,2.2
+Run Lola Run,337,16:11.9,1.1
+Run Lola Run,338,16:13.0,2.0
+Run Lola Run,339,16:15.0,5.3
+Run Lola Run,340,16:20.3,1.8
+Run Lola Run,341,16:22.1,1.9
+Run Lola Run,342,16:24.0,3.2
+Run Lola Run,343,16:27.2,33.3
+Run Lola Run,344,17:00.5,1.9
+Run Lola Run,345,17:02.4,2.9
+Run Lola Run,346,17:05.3,4.2
+Run Lola Run,347,17:09.5,2.4
+Run Lola Run,348,17:11.9,3.4
+Run Lola Run,349,17:15.3,2.5
+Run Lola Run,350,17:17.8,3.2
+Run Lola Run,351,17:21.0,9.7
+Run Lola Run,352,17:30.7,18.6
+Run Lola Run,353,17:49.3,1.5
+Run Lola Run,354,17:50.8,7.0
+Run Lola Run,355,17:57.8,2.5
+Run Lola Run,356,18:00.3,3.8
+Run Lola Run,357,18:04.1,1.9
+Run Lola Run,358,18:06.0,8.6
+Run Lola Run,359,18:14.6,5.5
+Run Lola Run,360,18:20.1,3.5
+Run Lola Run,361,18:23.6,4.9
+Run Lola Run,362,18:28.5,2.7
+Run Lola Run,363,18:31.2,1.0
+Run Lola Run,364,18:32.2,1.1
+Run Lola Run,365,18:33.3,1.7
+Run Lola Run,366,18:35.0,2.5
+Run Lola Run,367,18:37.5,3.3
+Run Lola Run,368,18:40.8,1.6
+Run Lola Run,369,18:42.4,1.8
+Run Lola Run,370,18:44.2,2.7
+Run Lola Run,371,18:46.9,1.7
+Run Lola Run,372,18:48.6,0.8
+Run Lola Run,373,18:49.4,1.0
+Run Lola Run,374,18:50.4,2.5
+Run Lola Run,375,18:52.9,0.3
+Run Lola Run,376,18:53.2,0.2
+Run Lola Run,377,18:53.4,0.2
+Run Lola Run,378,18:53.6,0.4
+Run Lola Run,379,18:54.0,0.3
+Run Lola Run,380,18:54.3,0.4
+Run Lola Run,381,18:54.7,0.2
+Run Lola Run,382,18:54.9,0.4
+Run Lola Run,383,18:55.3,0.2
+Run Lola Run,384,18:55.5,0.4
+Run Lola Run,385,18:55.9,0.3
+Run Lola Run,386,18:56.2,0.3
+Run Lola Run,387,18:56.5,0.4
+Run Lola Run,388,18:56.9,0.3
+Run Lola Run,389,18:57.2,0.3
+Run Lola Run,390,18:57.5,0.4
+Run Lola Run,391,18:57.9,0.4
+Run Lola Run,392,18:58.3,0.4
+Run Lola Run,393,18:58.7,2.8
+Run Lola Run,394,19:01.5,3.4
+Run Lola Run,395,19:04.9,7.1
+Run Lola Run,396,19:12.0,2.0
+Run Lola Run,397,19:14.0,2.9
+Run Lola Run,398,19:16.9,1.9
+Run Lola Run,399,19:18.8,1.7
+Run Lola Run,400,19:20.5,1.8
+Run Lola Run,401,19:22.3,7.7
+Run Lola Run,402,19:30.0,6.0
+Run Lola Run,403,19:36.0,2.0
+Run Lola Run,404,19:38.0,2.1
+Run Lola Run,405,19:40.1,5.3
+Run Lola Run,406,19:45.4,4.5
+Run Lola Run,407,19:49.9,1.3
+Run Lola Run,408,19:51.2,4.1
+Run Lola Run,409,19:55.3,1.7
+Run Lola Run,410,19:57.0,6.4
+Run Lola Run,411,20:03.4,2.5
+Run Lola Run,412,20:05.9,1.6
+Run Lola Run,413,20:07.5,1.3
+Run Lola Run,414,20:08.8,1.8
+Run Lola Run,415,20:10.6,1.8
+Run Lola Run,416,20:12.4,2.9
+Run Lola Run,417,20:15.3,1.2
+Run Lola Run,418,20:16.5,6.5
+Run Lola Run,419,20:23.0,3.3
+Run Lola Run,420,20:26.3,3.0
+Run Lola Run,421,20:29.3,1.6
+Run Lola Run,422,20:30.9,2.0
+Run Lola Run,423,20:32.9,2.8
+Run Lola Run,424,20:35.7,4.1
+Run Lola Run,425,20:39.8,2.2
+Run Lola Run,426,20:42.0,2.3
+Run Lola Run,427,20:44.3,3.4
+Run Lola Run,428,20:47.7,2.2
+Run Lola Run,429,20:49.9,2.6
+Run Lola Run,430,20:52.5,2.0
+Run Lola Run,431,20:54.5,0.8
+Run Lola Run,432,20:55.3,2.5
+Run Lola Run,433,20:57.8,1.6
+Run Lola Run,434,20:59.4,1.5
+Run Lola Run,435,21:00.9,1.6
+Run Lola Run,436,21:02.5,2.6
+Run Lola Run,437,21:05.1,1.9
+Run Lola Run,438,21:07.0,3.0
+Run Lola Run,439,21:10.0,2.3
+Run Lola Run,440,21:12.3,6.1
+Run Lola Run,441,21:18.4,4.9
+Run Lola Run,442,21:23.3,9.3
+Run Lola Run,443,21:32.6,3.8
+Run Lola Run,444,21:36.4,1.9
+Run Lola Run,445,21:38.3,10.0
+Run Lola Run,446,21:48.3,2.8
+Run Lola Run,447,21:51.1,4.2
+Run Lola Run,448,21:55.3,2.6
+Run Lola Run,449,21:57.9,4.7
+Run Lola Run,450,22:02.6,4.3
+Run Lola Run,451,22:06.9,2.5
+Run Lola Run,452,22:09.4,1.3
+Run Lola Run,453,22:10.7,1.0
+Run Lola Run,454,22:11.7,4.0
+Run Lola Run,455,22:15.7,2.4
+Run Lola Run,456,22:18.1,2.2
+Run Lola Run,457,22:20.3,2.0
+Run Lola Run,458,22:22.3,2.5
+Run Lola Run,459,22:24.8,2.0
+Run Lola Run,460,22:26.8,2.0
+Run Lola Run,461,22:28.8,18.2
+Run Lola Run,462,22:47.0,1.4
+Run Lola Run,463,22:48.4,2.6
+Run Lola Run,464,22:51.0,5.9
+Run Lola Run,465,22:56.9,14.6
+Run Lola Run,466,23:11.5,8.3
+Run Lola Run,467,23:19.8,4.7
+Run Lola Run,468,23:24.5,2.0
+Run Lola Run,469,23:26.5,2.3
+Run Lola Run,470,23:28.8,2.7
+Run Lola Run,471,23:31.5,2.2
+Run Lola Run,472,23:33.7,2.0
+Run Lola Run,473,23:35.7,3.1
+Run Lola Run,474,23:38.8,3.6
+Run Lola Run,475,23:42.4,3.6
+Run Lola Run,476,23:46.0,3.0
+Run Lola Run,477,23:49.0,3.5
+Run Lola Run,478,23:52.5,3.9
+Run Lola Run,479,23:56.4,5.6
+Run Lola Run,480,24:02.0,3.9
+Run Lola Run,481,24:05.9,5.5
+Run Lola Run,482,24:11.4,18.0
+Run Lola Run,483,24:29.4,4.9
+Run Lola Run,484,24:34.3,8.1
+Run Lola Run,485,24:42.4,1.8
+Run Lola Run,486,24:44.2,1.8
+Run Lola Run,487,24:46.0,2.8
+Run Lola Run,488,24:48.8,1.1
+Run Lola Run,489,24:49.9,2.6
+Run Lola Run,490,24:52.5,1.5
+Run Lola Run,491,24:54.0,7.3
+Run Lola Run,492,25:01.3,11.2
+Run Lola Run,493,25:12.5,2.8
+Run Lola Run,494,25:15.3,2.5
+Run Lola Run,495,25:17.8,4.6
+Run Lola Run,496,25:22.4,3.8
+Run Lola Run,497,25:26.2,4.6
+Run Lola Run,498,25:30.8,2.7
+Run Lola Run,499,25:33.5,9.9
+Run Lola Run,500,25:43.4,43.1
+Run Lola Run,501,26:26.5,2.9
+Run Lola Run,502,26:29.4,6.0
+Run Lola Run,503,26:35.4,11.8
+Run Lola Run,504,26:47.2,2.2
+Run Lola Run,505,26:49.4,1.6
+Run Lola Run,506,26:51.0,1.8
+Run Lola Run,507,26:52.8,1.1
+Run Lola Run,508,26:53.9,2.1
+Run Lola Run,509,26:56.0,0.6
+Run Lola Run,510,26:56.6,1.8
+Run Lola Run,511,26:58.4,0.4
+Run Lola Run,512,26:58.8,3.5
+Run Lola Run,513,27:02.3,4.2
+Run Lola Run,514,27:06.5,1.9
+Run Lola Run,515,27:08.4,1.5
+Run Lola Run,516,27:09.9,4.1
+Run Lola Run,517,27:14.0,2.5
+Run Lola Run,518,27:16.5,0.8
+Run Lola Run,519,27:17.3,1.7
+Run Lola Run,520,27:19.0,1.7
+Run Lola Run,521,27:20.7,1.6
+Run Lola Run,522,27:22.3,2.3
+Run Lola Run,523,27:24.6,3.3
+Run Lola Run,524,27:27.9,1.5
+Run Lola Run,525,27:29.4,1.9
+Run Lola Run,526,27:31.3,2.4
+Run Lola Run,527,27:33.7,2.0
+Run Lola Run,528,27:35.7,0.8
+Run Lola Run,529,27:36.5,1.5
+Run Lola Run,530,27:38.0,1.0
+Run Lola Run,531,27:39.0,2.1
+Run Lola Run,532,27:41.1,1.7
+Run Lola Run,533,27:42.8,2.2
+Run Lola Run,534,27:45.0,2.8
+Run Lola Run,535,27:47.8,4.1
+Run Lola Run,536,27:51.9,3.4
+Run Lola Run,537,27:55.3,3.6
+Run Lola Run,538,27:58.9,3.1
+Run Lola Run,539,28:02.0,0.8
+Run Lola Run,540,28:02.8,1.0
+Run Lola Run,541,28:03.8,1.4
+Run Lola Run,542,28:05.2,1.3
+Run Lola Run,543,28:06.5,3.2
+Run Lola Run,544,28:09.7,2.5
+Run Lola Run,545,28:12.2,2.6
+Run Lola Run,546,28:14.8,1.2
+Run Lola Run,547,28:16.0,0.8
+Run Lola Run,548,28:16.8,2.6
+Run Lola Run,549,28:19.4,0.6
+Run Lola Run,550,28:20.0,1.3
+Run Lola Run,551,28:21.3,1.2
+Run Lola Run,552,28:22.5,1.1
+Run Lola Run,553,28:23.6,1.5
+Run Lola Run,554,28:25.1,1.4
+Run Lola Run,555,28:26.5,2.9
+Run Lola Run,556,28:29.4,1.9
+Run Lola Run,557,28:31.3,3.8
+Run Lola Run,558,28:35.1,10.3
+Run Lola Run,559,28:45.4,4.1
+Run Lola Run,560,28:49.5,1.9
+Run Lola Run,561,28:51.4,0.8
+Run Lola Run,562,28:52.2,0.7
+Run Lola Run,563,28:52.9,0.7
+Run Lola Run,564,28:53.6,1.6
+Run Lola Run,565,28:55.2,0.7
+Run Lola Run,566,28:55.9,1.1
+Run Lola Run,567,28:57.0,0.9
+Run Lola Run,568,28:57.9,1.0
+Run Lola Run,569,28:58.9,3.9
+Run Lola Run,570,29:02.8,5.5
+Run Lola Run,571,29:08.3,5.1
+Run Lola Run,572,29:13.4,8.6
+Run Lola Run,573,29:22.0,10.4
+Run Lola Run,574,29:32.4,3.8
+Run Lola Run,575,29:36.2,3.7
+Run Lola Run,576,29:39.9,6.5
+Run Lola Run,577,29:46.4,2.8
+Run Lola Run,578,29:49.2,2.6
+Run Lola Run,579,29:51.8,4.0
+Run Lola Run,580,29:55.8,1.0
+Run Lola Run,581,29:56.8,0.4
+Run Lola Run,582,29:57.2,0.8
+Run Lola Run,583,29:58.0,4.3
+Run Lola Run,584,30:02.3,1.7
+Run Lola Run,585,30:04.0,1.8
+Run Lola Run,586,30:05.8,1.6
+Run Lola Run,587,30:07.4,1.4
+Run Lola Run,588,30:08.8,11.4
+Run Lola Run,589,30:20.2,3.1
+Run Lola Run,590,30:23.3,5.8
+Run Lola Run,591,30:29.1,10.9
+Run Lola Run,592,30:40.0,8.5
+Run Lola Run,593,30:48.5,5.2
+Run Lola Run,594,30:53.7,3.2
+Run Lola Run,595,30:56.9,3.5
+Run Lola Run,596,31:00.4,4.8
+Run Lola Run,597,31:05.2,2.3
+Run Lola Run,598,31:07.5,16.1
+Run Lola Run,599,31:23.6,4.4
+Run Lola Run,600,31:28.0,16.3
+Run Lola Run,601,31:44.3,6.6
+Run Lola Run,602,31:50.9,2.5
+Run Lola Run,603,31:53.4,3.4
+Run Lola Run,604,31:56.8,5.7
+Run Lola Run,605,32:02.5,3.0
+Run Lola Run,606,32:05.5,1.8
+Run Lola Run,607,32:07.3,2.2
+Run Lola Run,608,32:09.5,2.4
+Run Lola Run,609,32:11.9,3.2
+Run Lola Run,610,32:15.1,8.1
+Run Lola Run,611,32:23.2,4.3
+Run Lola Run,612,32:27.5,3.4
+Run Lola Run,613,32:30.9,6.0
+Run Lola Run,614,32:36.9,10.5
+Run Lola Run,615,32:47.4,4.1
+Run Lola Run,616,32:51.5,2.0
+Run Lola Run,617,32:53.5,7.9
+Run Lola Run,618,33:01.4,2.1
+Run Lola Run,619,33:03.5,8.1
+Run Lola Run,620,33:11.6,3.1
+Run Lola Run,621,33:14.7,3.5
+Run Lola Run,622,33:18.2,2.1
+Run Lola Run,623,33:20.3,2.9
+Run Lola Run,624,33:23.2,11.3
+Run Lola Run,625,33:34.5,3.5
+Run Lola Run,626,33:38.0,8.7
+Run Lola Run,627,33:46.7,4.8
+Run Lola Run,628,33:51.5,15.9
+Run Lola Run,629,34:07.4,7.6
+Run Lola Run,630,34:15.0,5.6
+Run Lola Run,631,34:20.6,0.8
+Run Lola Run,632,34:21.4,0.4
+Run Lola Run,633,34:21.8,0.4
+Run Lola Run,634,34:22.2,0.3
+Run Lola Run,635,34:22.5,0.4
+Run Lola Run,636,34:22.9,0.3
+Run Lola Run,637,34:23.2,0.2
+Run Lola Run,638,34:23.4,0.1
+Run Lola Run,639,34:23.5,0.3
+Run Lola Run,640,34:23.8,0.1
+Run Lola Run,641,34:23.9,0.1
+Run Lola Run,642,34:24.0,0.3
+Run Lola Run,643,34:24.3,0.4
+Run Lola Run,644,34:24.7,0.1
+Run Lola Run,645,34:24.8,0.2
+Run Lola Run,646,34:25.0,0.2
+Run Lola Run,647,34:25.2,0.2
+Run Lola Run,648,34:25.4,0.3
+Run Lola Run,649,34:25.7,0.1
+Run Lola Run,650,34:25.8,0.2
+Run Lola Run,651,34:26.0,1.8
+Run Lola Run,652,34:27.8,0.9
+Run Lola Run,653,34:28.7,0.8
+Run Lola Run,654,34:29.5,29.5
+Run Lola Run,655,34:59.0,2.0
+Run Lola Run,656,35:01.0,2.6
+Run Lola Run,657,35:03.6,1.3
+Run Lola Run,658,35:04.9,8.3
+Run Lola Run,659,35:13.2,5.0
+Run Lola Run,660,35:18.2,4.5
+Run Lola Run,661,35:22.7,11.4
+Run Lola Run,662,35:34.1,4.1
+Run Lola Run,663,35:38.2,4.1
+Run Lola Run,664,35:42.3,4.5
+Run Lola Run,665,35:46.8,2.2
+Run Lola Run,666,35:49.0,4.4
+Run Lola Run,667,35:53.4,13.1
+Run Lola Run,668,36:06.5,0.2
+Run Lola Run,669,36:06.7,0.2
+Run Lola Run,670,36:06.9,0.3
+Run Lola Run,671,36:07.2,0.2
+Run Lola Run,672,36:07.4,0.3
+Run Lola Run,673,36:07.7,0.2
+Run Lola Run,674,36:07.9,0.4
+Run Lola Run,675,36:08.3,0.2
+Run Lola Run,676,36:08.5,0.4
+Run Lola Run,677,36:08.9,0.3
+Run Lola Run,678,36:09.2,0.3
+Run Lola Run,679,36:09.5,0.4
+Run Lola Run,680,36:09.9,0.2
+Run Lola Run,681,36:10.1,3.3
+Run Lola Run,682,36:13.4,6.2
+Run Lola Run,683,36:19.6,14.7
+Run Lola Run,684,36:34.3,5.2
+Run Lola Run,685,36:39.5,3.4
+Run Lola Run,686,36:42.9,3.5
+Run Lola Run,687,36:46.4,15.9
+Run Lola Run,688,37:02.3,6.6
+Run Lola Run,689,37:08.9,3.4
+Run Lola Run,690,37:12.3,3.4
+Run Lola Run,691,37:15.7,2.6
+Run Lola Run,692,37:18.3,1.2
+Run Lola Run,693,37:19.5,1.5
+Run Lola Run,694,37:21.0,2.9
+Run Lola Run,695,37:23.9,0.2
+Run Lola Run,696,37:24.1,0.3
+Run Lola Run,697,37:24.4,0.4
+Run Lola Run,698,37:24.8,0.2
+Run Lola Run,699,37:25.0,0.4
+Run Lola Run,700,37:25.4,0.2
+Run Lola Run,701,37:25.6,0.4
+Run Lola Run,702,37:26.0,0.5
+Run Lola Run,703,37:26.5,0.4
+Run Lola Run,704,37:26.9,0.4
+Run Lola Run,705,37:27.3,0.5
+Run Lola Run,706,37:27.8,0.4
+Run Lola Run,707,37:28.2,0.2
+Run Lola Run,708,37:28.4,0.5
+Run Lola Run,709,37:28.9,6.6
+Run Lola Run,710,37:35.5,1.7
+Run Lola Run,711,37:37.2,1.6
+Run Lola Run,712,37:38.8,3.1
+Run Lola Run,713,37:41.9,1.8
+Run Lola Run,714,37:43.7,1.2
+Run Lola Run,715,37:44.9,0.9
+Run Lola Run,716,37:45.8,1.5
+Run Lola Run,717,37:47.3,3.0
+Run Lola Run,718,37:50.3,5.4
+Run Lola Run,719,37:55.7,1.8
+Run Lola Run,720,37:57.5,2.4
+Run Lola Run,721,37:59.9,2.8
+Run Lola Run,722,38:02.7,3.2
+Run Lola Run,723,38:05.9,6.9
+Run Lola Run,724,38:12.8,8.3
+Run Lola Run,725,38:21.1,20.2
+Run Lola Run,726,38:41.3,4.4
+Run Lola Run,727,38:45.7,4.8
+Run Lola Run,728,38:50.5,2.7
+Run Lola Run,729,38:53.2,3.3
+Run Lola Run,730,38:56.5,2.4
+Run Lola Run,731,38:58.9,2.1
+Run Lola Run,732,39:01.0,3.3
+Run Lola Run,733,39:04.3,1.9
+Run Lola Run,734,39:06.2,3.8
+Run Lola Run,735,39:10.0,11.4
+Run Lola Run,736,39:21.4,3.0
+Run Lola Run,737,39:24.4,1.7
+Run Lola Run,738,39:26.1,4.1
+Run Lola Run,739,39:30.2,2.2
+Run Lola Run,740,39:32.4,2.5
+Run Lola Run,741,39:34.9,1.6
+Run Lola Run,742,39:36.5,2.8
+Run Lola Run,743,39:39.3,1.5
+Run Lola Run,744,39:40.8,1.3
+Run Lola Run,745,39:42.1,2.8
+Run Lola Run,746,39:44.9,3.5
+Run Lola Run,747,39:48.4,2.8
+Run Lola Run,748,39:51.2,2.6
+Run Lola Run,749,39:53.8,2.9
+Run Lola Run,750,39:56.7,1.6
+Run Lola Run,751,39:58.3,1.9
+Run Lola Run,752,40:00.2,1.7
+Run Lola Run,753,40:01.9,5.2
+Run Lola Run,754,40:07.1,1.8
+Run Lola Run,755,40:08.9,1.7
+Run Lola Run,756,40:10.6,2.0
+Run Lola Run,757,40:12.6,1.9
+Run Lola Run,758,40:14.5,3.7
+Run Lola Run,759,40:18.2,3.2
+Run Lola Run,760,40:21.4,1.6
+Run Lola Run,761,40:23.0,2.2
+Run Lola Run,762,40:25.2,1.2
+Run Lola Run,763,40:26.4,4.4
+Run Lola Run,764,40:30.8,2.2
+Run Lola Run,765,40:33.0,4.5
+Run Lola Run,766,40:37.5,6.3
+Run Lola Run,767,40:43.8,1.3
+Run Lola Run,768,40:45.1,2.4
+Run Lola Run,769,40:47.5,2.8
+Run Lola Run,770,40:50.3,2.0
+Run Lola Run,771,40:52.3,2.0
+Run Lola Run,772,40:54.3,4.3
+Run Lola Run,773,40:58.6,2.2
+Run Lola Run,774,41:00.8,1.6
+Run Lola Run,775,41:02.4,3.0
+Run Lola Run,776,41:05.4,3.7
+Run Lola Run,777,41:09.1,1.9
+Run Lola Run,778,41:11.0,3.4
+Run Lola Run,779,41:14.4,1.6
+Run Lola Run,780,41:16.0,2.7
+Run Lola Run,781,41:18.7,1.3
+Run Lola Run,782,41:20.0,2.1
+Run Lola Run,783,41:22.1,1.4
+Run Lola Run,784,41:23.5,1.4
+Run Lola Run,785,41:24.9,1.5
+Run Lola Run,786,41:26.4,2.6
+Run Lola Run,787,41:29.0,2.6
+Run Lola Run,788,41:31.6,5.4
+Run Lola Run,789,41:37.0,4.1
+Run Lola Run,790,41:41.1,2.5
+Run Lola Run,791,41:43.6,2.2
+Run Lola Run,792,41:45.8,1.1
+Run Lola Run,793,41:46.9,5.1
+Run Lola Run,794,41:52.0,11.0
+Run Lola Run,795,42:03.0,0.8
+Run Lola Run,796,42:03.8,10.7
+Run Lola Run,797,42:14.5,3.0
+Run Lola Run,798,42:17.5,7.9
+Run Lola Run,799,42:25.4,2.6
+Run Lola Run,800,42:28.0,6.0
+Run Lola Run,801,42:34.0,3.0
+Run Lola Run,802,42:37.0,6.3
+Run Lola Run,803,42:43.3,1.9
+Run Lola Run,804,42:45.2,0.8
+Run Lola Run,805,42:46.0,3.4
+Run Lola Run,806,42:49.4,1.6
+Run Lola Run,807,42:51.0,1.8
+Run Lola Run,808,42:52.8,1.4
+Run Lola Run,809,42:54.2,1.3
+Run Lola Run,810,42:55.5,1.0
+Run Lola Run,811,42:56.5,1.3
+Run Lola Run,812,42:57.8,2.5
+Run Lola Run,813,43:00.3,2.1
+Run Lola Run,814,43:02.4,4.1
+Run Lola Run,815,43:06.5,2.4
+Run Lola Run,816,43:08.9,0.9
+Run Lola Run,817,43:09.8,1.7
+Run Lola Run,818,43:11.5,1.6
+Run Lola Run,819,43:13.1,1.8
+Run Lola Run,820,43:14.9,7.1
+Run Lola Run,821,43:22.0,3.7
+Run Lola Run,822,43:25.7,3.2
+Run Lola Run,823,43:28.9,4.1
+Run Lola Run,824,43:33.0,3.1
+Run Lola Run,825,43:36.1,2.3
+Run Lola Run,826,43:38.4,0.6
+Run Lola Run,827,43:39.0,3.0
+Run Lola Run,828,43:42.0,1.0
+Run Lola Run,829,43:43.0,0.5
+Run Lola Run,830,43:43.5,0.3
+Run Lola Run,831,43:43.8,0.1
+Run Lola Run,832,43:43.9,0.4
+Run Lola Run,833,43:44.3,0.2
+Run Lola Run,834,43:44.5,0.4
+Run Lola Run,835,43:44.9,0.2
+Run Lola Run,836,43:45.1,0.4
+Run Lola Run,837,43:45.5,0.4
+Run Lola Run,838,43:45.9,0.3
+Run Lola Run,839,43:46.2,0.3
+Run Lola Run,840,43:46.5,0.4
+Run Lola Run,841,43:46.9,0.2
+Run Lola Run,842,43:47.1,0.4
+Run Lola Run,843,43:47.5,0.4
+Run Lola Run,844,43:47.9,0.4
+Run Lola Run,845,43:48.3,0.3
+Run Lola Run,846,43:48.6,3.1
+Run Lola Run,847,43:51.7,1.2
+Run Lola Run,848,43:52.9,1.1
+Run Lola Run,849,43:54.0,3.0
+Run Lola Run,850,43:57.0,0.8
+Run Lola Run,851,43:57.8,1.7
+Run Lola Run,852,43:59.5,4.8
+Run Lola Run,853,44:04.3,12.4
+Run Lola Run,854,44:16.7,1.1
+Run Lola Run,855,44:17.8,1.2
+Run Lola Run,856,44:19.0,8.4
+Run Lola Run,857,44:27.4,1.9
+Run Lola Run,858,44:29.3,2.7
+Run Lola Run,859,44:32.0,4.8
+Run Lola Run,860,44:36.8,4.3
+Run Lola Run,861,44:41.1,1.8
+Run Lola Run,862,44:42.9,1.5
+Run Lola Run,863,44:44.4,1.4
+Run Lola Run,864,44:45.8,1.5
+Run Lola Run,865,44:47.3,1.6
+Run Lola Run,866,44:48.9,2.8
+Run Lola Run,867,44:51.7,1.8
+Run Lola Run,868,44:53.5,1.8
+Run Lola Run,869,44:55.3,2.5
+Run Lola Run,870,44:57.8,1.5
+Run Lola Run,871,44:59.3,2.0
+Run Lola Run,872,45:01.3,1.2
+Run Lola Run,873,45:02.5,1.0
+Run Lola Run,874,45:03.5,2.4
+Run Lola Run,875,45:05.9,2.8
+Run Lola Run,876,45:08.7,2.7
+Run Lola Run,877,45:11.4,4.1
+Run Lola Run,878,45:15.5,3.2
+Run Lola Run,879,45:18.7,2.1
+Run Lola Run,880,45:20.8,4.5
+Run Lola Run,881,45:25.3,3.7
+Run Lola Run,882,45:29.0,3.0
+Run Lola Run,883,45:32.0,2.8
+Run Lola Run,884,45:34.8,2.4
+Run Lola Run,885,45:37.2,1.6
+Run Lola Run,886,45:38.8,6.5
+Run Lola Run,887,45:45.3,8.4
+Run Lola Run,888,45:53.7,2.0
+Run Lola Run,889,45:55.7,3.1
+Run Lola Run,890,45:58.8,6.0
+Run Lola Run,891,46:04.8,4.0
+Run Lola Run,892,46:08.8,5.4
+Run Lola Run,893,46:14.2,7.7
+Run Lola Run,894,46:21.9,7.0
+Run Lola Run,895,46:28.9,1.2
+Run Lola Run,896,46:30.1,2.4
+Run Lola Run,897,46:32.5,2.4
+Run Lola Run,898,46:34.9,3.5
+Run Lola Run,899,46:38.4,4.6
+Run Lola Run,900,46:43.0,9.4
+Run Lola Run,901,46:52.4,2.1
+Run Lola Run,902,46:54.5,2.3
+Run Lola Run,903,46:56.8,1.9
+Run Lola Run,904,46:58.7,1.3
+Run Lola Run,905,47:00.0,1.7
+Run Lola Run,906,47:01.7,3.3
+Run Lola Run,907,47:05.0,2.5
+Run Lola Run,908,47:07.5,2.5
+Run Lola Run,909,47:10.0,2.7
+Run Lola Run,910,47:12.7,4.2
+Run Lola Run,911,47:16.9,2.4
+Run Lola Run,912,47:19.3,7.0
+Run Lola Run,913,47:26.3,3.2
+Run Lola Run,914,47:29.5,5.9
+Run Lola Run,915,47:35.4,8.7
+Run Lola Run,916,47:44.1,2.9
+Run Lola Run,917,47:47.0,6.4
+Run Lola Run,918,47:53.4,1.4
+Run Lola Run,919,47:54.8,1.6
+Run Lola Run,920,47:56.4,0.9
+Run Lola Run,921,47:57.3,1.6
+Run Lola Run,922,47:58.9,3.4
+Run Lola Run,923,48:02.3,3.7
+Run Lola Run,924,48:06.0,9.7
+Run Lola Run,925,48:15.7,2.6
+Run Lola Run,926,48:18.3,2.4
+Run Lola Run,927,48:20.7,2.3
+Run Lola Run,928,48:23.0,3.3
+Run Lola Run,929,48:26.3,7.9
+Run Lola Run,930,48:34.2,3.0
+Run Lola Run,931,48:37.2,1.8
+Run Lola Run,932,48:39.0,2.7
+Run Lola Run,933,48:41.7,2.1
+Run Lola Run,934,48:43.8,5.6
+Run Lola Run,935,48:49.4,3.7
+Run Lola Run,936,48:53.1,3.3
+Run Lola Run,937,48:56.4,5.6
+Run Lola Run,938,49:02.0,2.8
+Run Lola Run,939,49:04.8,3.0
+Run Lola Run,940,49:07.8,2.0
+Run Lola Run,941,49:09.8,6.6
+Run Lola Run,942,49:16.4,3.3
+Run Lola Run,943,49:19.7,5.4
+Run Lola Run,944,49:25.1,6.7
+Run Lola Run,945,49:31.8,5.1
+Run Lola Run,946,49:36.9,5.9
+Run Lola Run,947,49:42.8,5.1
+Run Lola Run,948,49:47.9,6.3
+Run Lola Run,949,49:54.2,58.8
+Run Lola Run,950,50:53.0,2.4
+Run Lola Run,951,50:55.4,4.5
+Run Lola Run,952,50:59.9,3.8
+Run Lola Run,953,51:03.7,1.4
+Run Lola Run,954,51:05.1,0.8
+Run Lola Run,955,51:05.9,0.6
+Run Lola Run,956,51:06.5,5.4
+Run Lola Run,957,51:11.9,3.1
+Run Lola Run,958,51:15.0,1.8
+Run Lola Run,959,51:16.8,3.3
+Run Lola Run,960,51:20.1,2.2
+Run Lola Run,961,51:22.3,1.2
+Run Lola Run,962,51:23.5,16.0
+Run Lola Run,963,51:39.5,13.0
+Run Lola Run,964,51:52.5,10.3
+Run Lola Run,965,52:02.8,11.9
+Run Lola Run,966,52:14.7,5.8
+Run Lola Run,967,52:20.5,3.8
+Run Lola Run,968,52:24.3,3.0
+Run Lola Run,969,52:27.3,3.9
+Run Lola Run,970,52:31.2,5.7
+Run Lola Run,971,52:36.9,6.5
+Run Lola Run,972,52:43.4,4.3
+Run Lola Run,973,52:47.7,5.2
+Run Lola Run,974,52:52.9,10.5
+Run Lola Run,975,53:03.4,5.5
+Run Lola Run,976,53:08.9,4.3
+Run Lola Run,977,53:13.2,4.8
+Run Lola Run,978,53:18.0,5.9
+Run Lola Run,979,53:23.9,3.9
+Run Lola Run,980,53:27.8,11.2
+Run Lola Run,981,53:39.0,8.5
+Run Lola Run,982,53:47.5,2.4
+Run Lola Run,983,53:49.9,4.3
+Run Lola Run,984,53:54.2,9.8
+Run Lola Run,985,54:04.0,13.4
+Run Lola Run,986,54:17.4,3.0
+Run Lola Run,987,54:20.4,1.4
+Run Lola Run,988,54:21.8,0.9
+Run Lola Run,989,54:22.7,26.6
+Run Lola Run,990,54:49.3,1.9
+Run Lola Run,991,54:51.2,2.8
+Run Lola Run,992,54:54.0,1.0
+Run Lola Run,993,54:55.0,2.4
+Run Lola Run,994,54:57.4,2.0
+Run Lola Run,995,54:59.4,1.9
+Run Lola Run,996,55:01.3,2.3
+Run Lola Run,997,55:03.6,7.1
+Run Lola Run,998,55:10.7,4.2
+Run Lola Run,999,55:14.9,6.1
