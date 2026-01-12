@@ -1,7 +1,6 @@
 import re
 import pandas as pd
 import os
-import glob
 
 # Map log files to movie titles
 LOG_FILES = {
@@ -10,7 +9,8 @@ LOG_FILES = {
     "Moulin Rouge!": "snapshot-2026-01-12T23-23-29-178Z.log",
     "Run Lola Run": "snapshot-2026-01-12T23-23-56-610Z.log",
     "Dune (2021)": "snapshot-2026-01-12T23-32-52-382Z.log",
-    "John Wick: Chapter 4": "jw4.log"
+    "John Wick: Chapter 4": "jw4.log",
+    "Quantum of Solace": "snapshot-2026-01-12T23-43-21-396Z.log"
 }
 
 LOG_DIR_BROWSER = "/Users/griffin/.cursor/browser-logs/"
@@ -24,29 +24,20 @@ def parse_log_file(filepath, movie_title):
         content = f.read()
 
     lines = content.split('\n')
-    
-    # A looser regex for just values in generic blocks
     re_generic_val = re.compile(r'- generic.*: "?([^"]+)"?')
-
     captured_values = []
     
     for line in lines:
         line = line.strip()
-        # Check if line has a value
         match = re_generic_val.search(line)
         if match:
             val = match.group(1)
-            # Filter out UI text like "Close", "Back", "NoS", etc.
+            # Filter UI text
             if val in ["Close", "Back", "NoS", "LEN", "ASL", "MSL", "MAX", "MIN", "Range", "StDev", "CV", "Show raw data", "Hide colors", "Show colors"]:
                 continue
-            if "ref=" in val: # It's a key, not value
-                continue
-            
+            if "ref=" in val: continue
             captured_values.append(val)
             
-    # Now scan the captured values for patterns of (Int, Timecode, Float)
-    # Shot Num is int, Timecode is MM:SS.d, Duration is Float
-    
     re_int = re.compile(r'^\d+$')
     re_tc = re.compile(r'^\d{2}:\d{2}\.\d$')
     re_float = re.compile(r'^\d+\.?\d*$')
@@ -58,8 +49,6 @@ def parse_log_file(filepath, movie_title):
         v3 = captured_values[i+2]
         
         if re_int.match(v1) and re_tc.match(v2) and re_float.match(v3):
-            # Verify consistency (shot numbers should increment, but let's just trust for now)
-            # Also check if v1 is likely a shot number (e.g. < 5000)
             if int(v1) < 10000:
                 shots.append({
                     "movie_title": movie_title,
@@ -70,13 +59,12 @@ def parse_log_file(filepath, movie_title):
                 i += 3
                 continue
         i += 1
-        
+    
     print(f"Found {len(shots)} shots for {movie_title}")
     return shots
 
 all_shots = []
 for title, filename in LOG_FILES.items():
-    # Check both directories
     path = os.path.join(LOG_DIR_BROWSER, filename)
     if not os.path.exists(path):
         path = os.path.join(LOG_DIR_LOCAL, filename)
@@ -90,6 +78,4 @@ df = pd.DataFrame(all_shots)
 output_path = "analysis/data/real_shots.csv"
 df.to_csv(output_path, index=False)
 print(f"Saved {len(df)} total shots to {output_path}")
-
-# Quick verify
 print(df.groupby('movie_title')['shot_length_sec'].describe())
