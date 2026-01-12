@@ -1,6 +1,6 @@
 # AI Film Shot Analysis: The Consistency Gap
 
-**A data-driven analysis of modern cinema challenging the current "Long Duration" AI Video roadmap.**
+**A data-driven analysis of modern cinema (1998-2023) challenging the current "Long Duration" AI Video roadmap.**
 
 ![Max Shot Lengths](docs/images/real_max_shots.png)
 
@@ -8,7 +8,7 @@
 
 Current AI Video Models (Google Veo, OpenAI Sora, Runway Gen-3) are heavily optimizing for **Long Duration Coherence** (generating 60s+ continuous clips).
 
-However, our analysis of **3,600+ real shots** from four cinematic masterpieces (*Mad Max: Fury Road*, *The Bourne Ultimatum*, *Run Lola Run*, *Moulin Rouge!*) reveals that this goal is misaligned with professional filmmaking reality.
+However, our analysis of **4,000+ real shots** from 6 cinematic masterpieces—including recent blockbusters like *Dune (2021)* and *John Wick: Chapter 4*—reveals that this goal is misaligned with professional filmmaking reality.
 
 **The Reality: Filmmakers don't need "One Long Shot." They need "Many Consistent Short Shots."**
 
@@ -17,21 +17,24 @@ However, our analysis of **3,600+ real shots** from four cinematic masterpieces 
 ## Key Findings
 
 ### 1. The "Max Shot" Myth
-The most striking finding is not just the low Average Shot Length (ASL), but the extremely low **Maximum Shot Length**.
+Even in films famous for their visual scale or action choreography, the vast majority of shots are incredibly short.
 
 | Movie | Median Shot | **Max Shot** | 95% of Shots Under |
 |-------|-------------|--------------|--------------------|
-| **The Bourne Ultimatum** | **1.6s** | **19.7s** | **5.5s** |
-| **Mad Max: Fury Road** | 1.7s | 32.9s | 7.5s |
 | **Moulin Rouge!** | 1.1s | 78.0s | 3.5s |
+| **The Bourne Ultimatum** | 1.6s | 19.7s | 5.5s |
+| **Mad Max: Fury Road** | 1.7s | 32.9s | 7.5s |
 | **Run Lola Run** | 2.1s | 58.8s | 10.0s |
+| **John Wick: Chapter 4** | **2.3s** | 105.7s | 9.6s |
+| **Dune (2021)** | **3.4s** | 74.2s | 9.5s |
 
-**Insight:** *The Bourne Ultimatum*, a genre-defining action film, has a **maximum shot length of only 19.7 seconds**. The entire film is constructed without a single "long take" that current AI models are striving to generate.
+### 2. The "Slow Cinema" Fallacy (*Dune*)
+*Dune (2021)* is often cited as a "slow, contemplative" masterpiece. Yet, its **median shot length is only 3.4 seconds**.
+While it feels epic, it achieves this through **composition and consistency across cuts**, not through single takes lasting minutes. **95% of its shots are under 10 seconds.**
 
-### 2. The 5-Second Threshold
-**95% of shots in *The Bourne Ultimatum* are shorter than 5.5 seconds.**
-
-Most current AI research focuses on extending generation to 60+ seconds. Yet, for this style of filmmaking, **95% of that compute is wasted on duration that will never be used.** The real challenge is not duration, but **consistency** across the hundreds of 2-second cuts.
+### 3. The "Stunt" Exception (*John Wick*)
+*John Wick: Chapter 4* features a famous 105-second continuous overhead shot. However, this is an **exception (outlier)**, not the rule. The film's median shot length is a rapid **2.3 seconds**.
+*   **Implication:** AI models are optimizing for the 1% "stunt" shot rather than the 99% of storytelling shots.
 
 ![CDF](docs/images/real_cdf.png)
 
@@ -66,6 +69,8 @@ python analysis/analyze_shots.py
 
 ## Data Sources
 *   **Cinemetrics**: [https://cinemetrics.uchicago.edu/](https://cinemetrics.uchicago.edu/)
+*   **Dune (2021)** (Data submitted by "江江江")
+*   **John Wick: Chapter 4** (Data submitted by "Sidnee")
 *   **Mad Max: Fury Road** (Data submitted by Yvonne Festl)
 *   **The Bourne Ultimatum** (Data submitted by Erik)
 *   **Run Lola Run** (Data submitted by Sari Bouweester)

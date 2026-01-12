@@ -8,10 +8,13 @@ LOG_FILES = {
     "Mad Max: Fury Road": "snapshot-2026-01-12T23-22-42-580Z.log",
     "The Bourne Ultimatum": "snapshot-2026-01-12T23-23-06-152Z.log",
     "Moulin Rouge!": "snapshot-2026-01-12T23-23-29-178Z.log",
-    "Run Lola Run": "snapshot-2026-01-12T23-23-56-610Z.log"
+    "Run Lola Run": "snapshot-2026-01-12T23-23-56-610Z.log",
+    "Dune (2021)": "snapshot-2026-01-12T23-32-52-382Z.log",
+    "John Wick: Chapter 4": "jw4.log"
 }
 
-LOG_DIR = "/Users/griffin/.cursor/browser-logs/"
+LOG_DIR_BROWSER = "/Users/griffin/.cursor/browser-logs/"
+LOG_DIR_LOCAL = "analysis/logs/"
 
 def parse_log_file(filepath, movie_title):
     shots = []
@@ -20,46 +23,11 @@ def parse_log_file(filepath, movie_title):
     with open(filepath, 'r') as f:
         content = f.read()
 
-    # The pattern seems to be groups of 3 generics with values: "Shot #", "Time", "Duration"
-    # Example:
-    # - generic [ref=e3228]:
-    #   - generic [ref=e3229]: "2"
-    #   - generic [ref=e3230]: 00:15.7
-    #   - generic [ref=e3231]: "19.4"
-    
-    # We can regex for lines that look like values.
-    # Pattern:  - generic.*: "(\d+)"  (Shot Num)
-    #           - generic.*: ([\d:.]+) (Time)
-    #           - generic.*: "([\d.]+)" (Duration)
-    
-    # Since the lines are sequential, we can iterate line by line and state machine it.
-    
     lines = content.split('\n')
-    current_shot = {}
-    
-    # Regex for values
-    # Matches: - generic [ref=e3225]: "1"
-    re_shot_num = re.compile(r'- generic.*: "(\d+)"')
-    # Matches: - generic [ref=e3226]: 00:00.0   OR  - generic [ref=...]: "00:00.0"
-    re_time = re.compile(r'- generic.*: "?(\d{2}:\d{2}\.\d)"?')
-    # Matches: - generic [ref=e3227]: "15.7"
-    re_duration = re.compile(r'- generic.*: "(\d+\.?\d*)"')
     
     # A looser regex for just values in generic blocks
     re_generic_val = re.compile(r'- generic.*: "?([^"]+)"?')
 
-    # Let's try to capture blocks of 3 values
-    # The structure is nested under a parent generic, but indentation might vary.
-    # Let's collect all "generic" values and see if they form triplets.
-    
-    # Actually, looking at the grep output:
-    #       - generic [ref=e3224]:
-    #         - generic [ref=e3225]: "1"
-    #         - generic [ref=e3226]: 00:00.0
-    #         - generic [ref=e3227]: "15.7"
-    
-    # So we are looking for a sequence of 3 lines defining values.
-    
     captured_values = []
     
     for line in lines:
@@ -108,11 +76,15 @@ def parse_log_file(filepath, movie_title):
 
 all_shots = []
 for title, filename in LOG_FILES.items():
-    path = os.path.join(LOG_DIR, filename)
+    # Check both directories
+    path = os.path.join(LOG_DIR_BROWSER, filename)
+    if not os.path.exists(path):
+        path = os.path.join(LOG_DIR_LOCAL, filename)
+        
     if os.path.exists(path):
         all_shots.extend(parse_log_file(path, title))
     else:
-        print(f"File not found: {path}")
+        print(f"File not found: {filename}")
 
 df = pd.DataFrame(all_shots)
 output_path = "analysis/data/real_shots.csv"
@@ -121,4 +93,3 @@ print(f"Saved {len(df)} total shots to {output_path}")
 
 # Quick verify
 print(df.groupby('movie_title')['shot_length_sec'].describe())
-

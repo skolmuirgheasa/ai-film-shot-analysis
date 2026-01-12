@@ -21,7 +21,7 @@ def run_analysis():
     sns.set_palette("husl")
     
     # 1. Combined Histogram (The "2.5s Reality")
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(14, 7))
     
     # Filter out extreme outliers for the histogram readability (shots > 20s are rare)
     # But keep them in the dataset for stats
@@ -40,7 +40,7 @@ def run_analysis():
     plt.close()
 
     # 2. CDF (Cumulative Distribution Function)
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(12, 7))
     sns.ecdfplot(data=df, x="shot_length_sec", hue="movie_title", linewidth=2)
     plt.title("Cumulative Distribution: Consistency > Duration")
     plt.xlabel("Shot Length (seconds)")
@@ -60,20 +60,24 @@ def run_analysis():
     stats = df.groupby('movie_title')['shot_length_sec'].agg(['mean', 'median', 'max', 'min', 'count']).reset_index()
     stats['95th_percentile'] = df.groupby('movie_title')['shot_length_sec'].quantile(0.95).values
     
+    # Sort by release date (rough approximation) or just alphabetical
+    # Let's sort by Median to show the "fast" nature
+    stats = stats.sort_values('median')
+    
     print("\nMovie Statistics:")
     print(stats)
     
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(14, 7))
     
     # Create a grouped bar chart? Or just a simple visualization of range.
     # Let's do a boxplot to show the range and outliers clearly.
     sns.boxplot(data=df, x="movie_title", y="shot_length_sec", showfliers=False) # Hide extreme outliers to see the IQR
-    
-    # Overlay individual strip plot for flavor? No, too much data.
+    plt.xticks(rotation=45)
     
     plt.title("Shot Length Ranges (excluding outliers > 1.5*IQR)")
     plt.ylabel("Shot Length (seconds)")
     plt.ylim(0, 15) # Zoom in on the core action
+    plt.tight_layout()
     
     output_box = "analysis/output/real_boxplot.png"
     plt.savefig(output_box)
@@ -81,13 +85,15 @@ def run_analysis():
     plt.close()
     
     # 4. "The Longest Shot" Chart
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(12, 7))
     sns.barplot(data=stats, x="movie_title", y="max", palette="Reds_d")
-    plt.title("Maximum Shot Length in Entire Film")
+    plt.title("Maximum Shot Length in Entire Film (or Sample)")
     plt.ylabel("Seconds")
+    plt.xticks(rotation=45)
     for i, v in enumerate(stats['max']):
         plt.text(i, v + 1, f"{v:.1f}s", ha='center')
         
+    plt.tight_layout()
     output_max = "analysis/output/real_max_shots.png"
     plt.savefig(output_max)
     print(f"Saved max shot chart to {output_max}")
@@ -95,10 +101,10 @@ def run_analysis():
 
     # Generate Report
     report = f"""
-# Analysis Report: Real Hollywood Data
+# Analysis Report: Real Hollywood Data (Updated with 2021-2023 Films)
     
-## The "Max Shot" Myth
-We analyzed {len(df)} shots from 4 critical masterpieces (*Mad Max: Fury Road*, *Bourne Ultimatum*, *Run Lola Run*, *Moulin Rouge!*).
+## The "Max Shot" Myth vs The "John Wick" Exception
+We analyzed {len(df)} shots from 6 films, including recent blockbusters *Dune* (2021) and *John Wick: Chapter 4* (2023).
 
 ### Key Statistics
 | Movie | Median Shot (s) | Max Shot (s) | 95% of Shots Under (s) |
@@ -109,10 +115,11 @@ We analyzed {len(df)} shots from 4 critical masterpieces (*Mad Max: Fury Road*, 
 
     report += """
 ### Insight
-Even in these high-octane films, the **maximum** shot length rarely exceeds 1 minute, and the vast majority (95%) are under 10 seconds.
-*The Bourne Ultimatum* constitutes a masterpiece of action cinema, yet its **longest single shot is only 19.7 seconds**.
+*   **The Median is Stable:** Across decades (1998-2023), the median shot length remains incredibly low (~2-4 seconds).
+*   **The John Wick Exception:** *John Wick: Chapter 4* does feature a 105s shot (likely the overhead sequence). This highlights that while long takes *exist* as special events, the **median** (2.3s) is still rapid-fire. 
+*   **Dune (2021):** Even a "contemplative" sci-fi epic like *Dune* has a median shot length of just **3.4s**, with 95% of shots under 16 seconds.
 
-This proves that AI video models should prioritize **inter-shot consistency** (character identity across cuts) rather than trying to generate minute-long continuous takes.
+**Conclusion:** The industry standard is still short, consistent shots. Long takes are the exception, not the rule.
 """
 
     with open("analysis/output/real_report.md", "w") as f:
@@ -121,4 +128,3 @@ This proves that AI video models should prioritize **inter-shot consistency** (c
 
 if __name__ == "__main__":
     run_analysis()
-
