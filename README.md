@@ -17,7 +17,16 @@ However, an analysis of **1,972,248 shots** (simulated based on [MovieNet](https
 1.  **The 2.5s Reality**
     The median shot length in modern Action/Thriller movies is **2.76 seconds**. The "Long Take" is an aesthetic choice, not the norm.
 
-2.  **The 5s Threshold**
+2.  **Case Studies: Masterpieces of Short Shots**
+    High-quality cinema does not require long shots. In fact, many critical darlings rely entirely on rapid cutting:
+    *   **Mad Max: Fury Road (2015)**: Average Shot Length (ASL) of ~2.4 seconds. Won 6 Oscars.
+    *   **The Bourne Supremacy (2004)**: ASL of ~2.4 seconds. Defined the modern action aesthetic.
+    *   **Moulin Rouge! (2001)**: ASL of ~2.0 seconds. Best Picture Nominee.
+    *   **City of God (2002)**: ASL of ~3.0 seconds. 4 Oscar Nominations.
+
+    *These films are acclaimed not for "60s continuous takes," but for the consistency of their world across thousands of 2-second cuts.*
+
+3.  **The 5s Threshold**
     **65.3%** of all shots in the dataset are shorter than 5 seconds.
 
 3.  **The Gap**
