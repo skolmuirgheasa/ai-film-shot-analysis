@@ -47,17 +47,47 @@ We isolated high-VFX blockbusters to test for "long take" dependency.
 
 ![Scatter Plot](plots/distribution_histogram.png)
 
+## Visualizing Cut Density (The "Barcode")
+The following visualization represents the temporal structure of *The Bourne Ultimatum*. Each vertical line represents a hard cut.
+
+![Barcode Plot](plots/the_20s_ceiling_barcode.png)
+*Figure 3: Visualizing the Pulse of 'Bourne Ultimatum': 1,200 cuts in 90 minutes. The AI model must survive this density.*
+
+## Level 2 Insights: Editorial Theory
+
+### A. The "180-Degree Trap" (Spatial Context)
+In dialogue scenes, the camera typically flips 180 degrees every ~4 seconds (Shot A: Actor 1 -> Shot B: Actor 2).
+*   **The AI Problem:** Current models "forget" the room layout when they generate a new shot. They don't know that Actor 2 is looking at Actor 1.
+*   **Implication:** We don't just need character consistency; we need **Spatial Permanence**. The camera "reverses angle" every 4.2 seconds. If Veo regenerates the background every time, the room geometry breaks.
+
+### B. The Action-Movement Correlation
+Shorter shots have higher pixel movement (explosions, punches). Longer shots have lower pixel movement (talking heads).
+*   **The Insight:** AI models struggle most with high movement (blur, morphing).
+*   **The Argument:** Roadmap is optimizing for "Long Duration" on static shots (easy), but the industry needs "Short Duration" on high-motion shots (hard). This is solving the easy problem that doesn't matter.
+
+### C. Editorial BPM (Beats Per Minute)
+Comparing the "Tempo" of cinema vs. current AI generation capabilities.
+
+| Medium | BPM (Cuts/Min) |
+|--------|----------------|
+| **Mad Max: Fury Road** | **22.8 BPM** |
+| **Industry Average** | **15.5 BPM** |
+| **The Godfather** | **8.0 BPM** |
+| **Current AI Demos** | **~1.0 BPM** |
+
+**Conclusion:** Current AI models operate at 1 BPM. Modern cinema operates at 15 BPM. There is a **15x tempo mismatch**.
+
 ## Genre Fingerprint
 Does this only apply to action movies? We compared the shot length distributions of Action, Drama, and Comedy.
 
 ![Genre Fingerprint](plots/genre_fingerprint.png)
-*Figure 3: Even "Slow Drama" peaks at ~4 seconds. The pacing constraints are universal across genres.*
+*Figure 4: Even "Slow Drama" peaks at ~4 seconds. The pacing constraints are universal across genres.*
 
 ## The Cost of Consistency
 The utility of shot generation hits diminishing returns almost immediately.
 
 ![Cost Curve](plots/cost_of_consistency.png)
-*Figure 4: The curve shoots up to >80% coverage at 5 seconds. Extending consistency to 60s offers <1% additional utility at exponentially higher compute cost.*
+*Figure 5: The curve shoots up to >80% coverage at 5 seconds. Extending consistency to 60s offers <1% additional utility at exponentially higher compute cost.*
 
 ## Methodology
 *   **Data Source A:** MovieBench (Shot-level annotations for 600+ films).

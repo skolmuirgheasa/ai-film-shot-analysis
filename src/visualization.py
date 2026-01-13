@@ -18,24 +18,34 @@ plt.rcParams['ytick.color'] = '#333333'
 plt.rcParams['text.color'] = '#333333'
 
 def plot_barcode_timeline(bourne_df, output_path="plots/the_20s_ceiling_barcode.png"):
-    """Visual 1: The 'Barcode' Timeline"""
+    """
+    Visual 1: The 'Barcode' Timeline
+    Horizontal strip where every vertical black line is a cut.
+    Refined to look like a literal film strip/barcode.
+    """
     bourne_df = bourne_df.sort_values('shot_number')
     bourne_df['end_time'] = bourne_df['shot_length_sec'].cumsum()
-    subset = bourne_df[bourne_df['end_time'] <= 600]
     
-    plt.figure(figsize=(12, 3))
+    # Use first 15 mins for density
+    subset = bourne_df[bourne_df['end_time'] <= 900]
+    
+    plt.figure(figsize=(15, 2)) # Wide and short
     ax = plt.gca()
     
+    # Draw vertical line for each cut
     for cut_point in subset['end_time']:
-        ax.axvline(x=cut_point, color='black', linewidth=0.8, alpha=0.9)
+        ax.axvline(x=cut_point, color='black', linewidth=0.6, alpha=1)
         
+    # Remove all standard axes stuff to make it just the barcode
     ax.set_yticks([])
-    ax.set_xlim(0, 600)
-    ax.set_xlabel("Time (Seconds) - First 10 Minutes")
-    ax.set_title("Visualizing Cut Density: 'The Bourne Ultimatum'", fontsize=14, pad=15, loc='left')
-    plt.figtext(0.13, -0.1, "Each line represents a hard cut. 98% of cuts occur < 4s apart.", fontsize=10, style='italic')
+    ax.spines['left'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.spines['top'].set_visible(False)
     
-    sns.despine(left=True)
+    ax.set_xlim(0, 900)
+    ax.set_xlabel("Time (Seconds) - First 15 Minutes", fontsize=10)
+    ax.set_title("Visualizing Cut Density: 'The Bourne Ultimatum'", fontsize=12, loc='left')
+    
     plt.tight_layout()
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
@@ -84,53 +94,34 @@ def plot_ceiling_scatter(blockbuster_df, output_path="plots/distribution_histogr
     plt.close()
 
 def plot_heatmap_of_pace(df, output_path="plots/heatmap_pace.png"):
-    """
-    New Visual 1: Heatmap of Pace
-    X: Runtime (min), Y: Duration (log scale)
-    """
-    # Prepare data: filter reasonable bounds
-    # Remove outliers > 120 mins runtime (some bad data might exist) or shot > 60s (we want to show empty space)
-    # Actually keep shot > 60s to show if they exist.
-    
+    """New Visual 1: Heatmap of Pace"""
     clean_df = df[(df['start_time_min'] <= 150) & (df['duration'] > 0)].copy()
     
     plt.figure(figsize=(12, 7))
-    
-    # Using log scale for Y (Duration) to emphasize the short shots
     plt.yscale('log')
     
-    # 2D Histogram
     h = plt.hist2d(
         clean_df['start_time_min'], 
         clean_df['duration'], 
         bins=[60, 50], 
-        range=[[0, 120], [0.5, 100]], # Y from 0.5s to 100s
-        norm=mcolors.LogNorm(), # Log color scale for density
+        range=[[0, 120], [0.5, 100]], 
+        norm=mcolors.LogNorm(), 
         cmap='inferno'
     )
     
     plt.colorbar(h[3], label='Shot Density')
-    
     plt.xlabel("Movie Runtime (Minutes)", fontsize=11, weight='bold')
     plt.ylabel("Shot Duration (Seconds) - Log Scale", fontsize=11, weight='bold')
     plt.title("The 'Void' of Long Shots: Heatmap of Pace", fontsize=14, loc='left', pad=20)
-    
-    # Annotate the void
     plt.text(60, 40, "THE VOID\n(Zero Data Density)", color='white', ha='center', fontsize=12, weight='bold')
     
     plt.tight_layout()
     plt.savefig(output_path, dpi=300)
-    print(f"Saved Heatmap to {output_path}")
     plt.close()
 
 def plot_genre_fingerprint(genre_df, output_path="plots/genre_fingerprint.png"):
-    """
-    New Visual 2: Genre Fingerprint (Ridgeline-ish KDE)
-    Comparing Action vs Drama vs Comedy
-    """
+    """New Visual 2: Genre Fingerprint"""
     plt.figure(figsize=(10, 6))
-    
-    # Custom palette
     palette = {"Action": "#d62728", "Drama": "#1f77b4", "Comedy": "#ff7f0e"}
     
     sns.kdeplot(
@@ -151,24 +142,17 @@ def plot_genre_fingerprint(genre_df, output_path="plots/genre_fingerprint.png"):
     
     plt.tight_layout()
     plt.savefig(output_path, dpi=300)
-    print(f"Saved Genre Fingerprint to {output_path}")
     plt.close()
 
 def plot_cost_of_consistency(cost_df, output_path="plots/cost_of_consistency.png"):
-    """
-    New Visual 3: Cost of Consistency Curve
-    X: Duration, Y: % Covered
-    """
+    """New Visual 3: Cost of Consistency Curve"""
     plt.figure(figsize=(10, 6))
-    
     plt.plot(cost_df['duration'], cost_df['percent_covered'], color='#2ca02c', linewidth=3)
     
-    # Annotation at 5s
     val_5s = cost_df[cost_df['duration'] >= 5].iloc[0]['percent_covered']
     plt.plot(5, val_5s, 'o', color='black')
     plt.text(6, val_5s - 5, f"5s = {val_5s:.1f}% of Cinema", fontsize=11)
     
-    # Annotation at 60s
     plt.text(45, 95, "100x Compute Cost\nfor +1% Utility ->", fontsize=10, color='#d62728', ha='right')
     
     plt.xlim(0, 60)
@@ -176,10 +160,8 @@ def plot_cost_of_consistency(cost_df, output_path="plots/cost_of_consistency.png
     plt.xlabel("Generated Clip Length (Seconds)", fontsize=11, weight='bold')
     plt.ylabel("% of Real-World Shots Covered", fontsize=11, weight='bold')
     plt.title("The Cost of Consistency: Diminishing Returns", fontsize=14, loc='left', pad=20)
-    
     plt.grid(True, which='major', linestyle='--', alpha=0.7)
     
     plt.tight_layout()
     plt.savefig(output_path, dpi=300)
-    print(f"Saved Cost Curve to {output_path}")
     plt.close()

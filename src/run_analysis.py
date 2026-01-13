@@ -25,6 +25,11 @@ def main():
     wasteland_pct = stats.get_wasteland_stat(mb_df)
     print(f"10-30s Wasteland %: {wasteland_pct:.2f}%")
     
+    bpm_stats = stats.get_editorial_bpm(mb_df, hero_df)
+    print("\n--- Editorial BPM ---")
+    for k, v in bpm_stats.items():
+        print(f"{k}: {v:.1f} BPM")
+    
     # 3. Generate Blockbuster Specifics
     blockbuster_data = stats.get_blockbuster_stats(mb_df, hero_df)
     
