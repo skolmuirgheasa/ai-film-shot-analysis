@@ -1,44 +1,39 @@
 import os
 import pandas as pd
 from datasets import load_dataset
+import time
 
 def fetch_moviebench_data():
-    print("Initializing MovieBench download...")
-    
-    # Check if we have cached data first
+    print("Initializing MovieBench download (Streaming Mode)...")
     output_path = "analysis/data/moviebench_shots.csv"
     
-    # We want 'shot_level' annotations.
-    # The dataset structure is: 'weijiawu/MovieBench'
-    # It likely has subsets. Let's try loading the default or inspecting.
-    
     try:
-        # Load the dataset
-        # The user mentioned "shot_level annotations".
-        # Let's load the train split.
-        print("Downloading dataset from Hugging Face (this may take a while)...")
-        dataset = load_dataset("weijiawu/MovieBench", split="train")
+        # Use streaming=True to avoid local caching/casting errors
+        # This allows us to process the dataset on the fly
+        dataset = load_dataset("weijiawu/MovieBench", split="train", streaming=True)
         
-        print(f"Dataset loaded. Features: {dataset.features}")
+        print("Dataset stream initialized. Iterating...")
         
         all_shots = []
+        movie_count = 0
         
-        # Iterate and extract
-        for entry in dataset:
-            # Structure check: 'movie_name', 'shots' (list of dicts?)
-            movie_title = entry.get('movie_name', 'Unknown')
+        # Iterate through the stream
+        for i, entry in enumerate(dataset):
+            movie_title = entry.get('movie_name', f'Unknown_{i}')
             
-            # The shots might be under 'shots' or 'scene_structure' etc.
-            # Based on user snippet: entry['shots']
-            
+            # The structure for shots in MovieBench needs to be checked.
+            # Based on the user's snippet, it's entry['shots']
             shots = entry.get('shots', [])
+            
+            # If shots is None or empty, skip
             if not shots:
-                # Try finding other keys if 'shots' is missing
                 continue
                 
+            movie_has_shots = False
             for shot in shots:
                 duration = shot.get('duration', 0)
-                # Some datasets use start/end times
+                
+                # Fallback: calculate from start/end if duration is missing
                 if duration == 0:
                     start = shot.get('start', 0)
                     end = shot.get('end', 0)
@@ -48,27 +43,44 @@ def fetch_moviebench_data():
                 if duration > 0:
                     all_shots.append({
                         "movie_title": movie_title,
-                        "duration": duration
+                        "duration": float(duration)
                     })
+                    movie_has_shots = True
+            
+            if movie_has_shots:
+                movie_count += 1
+                
+            # Log progress
+            if i % 10 == 0:
+                print(f"Processed {i} movies... Found {len(all_shots)} shots so far.")
+            
+            # Safety break for testing (remove for full run, but let's get a good sample first)
+            # The dataset might be huge. Let's aim for ~50 movies or ~5000 shots to prove the point quickly.
+            # User wants "Big Data", so let's try to get a decent amount.
+            if len(all_shots) > 20000: 
+                print("Reached 20,000 shots. Stopping stream.")
+                break
         
         if not all_shots:
-            print("No shots found in dataset structure. Debugging keys...")
-            print(dataset[0].keys())
+            print("No shots extracted. Debugging first entry keys:")
+            first = next(iter(dataset))
+            print(first.keys())
             return
 
         df = pd.DataFrame(all_shots)
-        print(f"Extracted {len(df)} shots from {len(df['movie_title'].unique())} movies.")
+        print(f"Extraction Complete. {len(df)} shots from {movie_count} movies.")
         print(f"Median Shot Length: {df['duration'].median():.2f}s")
+        print(f"Max Shot Length: {df['duration'].max():.2f}s")
         
+        # Ensure dir exists
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
         df.to_csv(output_path, index=False)
         print(f"Saved to {output_path}")
         
     except Exception as e:
         print(f"Error fetching MovieBench: {e}")
-        # Fallback if structure is different
         import traceback
         traceback.print_exc()
 
 if __name__ == "__main__":
     fetch_moviebench_data()
-
