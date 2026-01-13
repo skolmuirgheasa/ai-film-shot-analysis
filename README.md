@@ -15,10 +15,28 @@ Aggregating shot-level data from the MovieBench dataset, we established the base
 *   **95th Percentile:** 9.64 seconds
 *   **Std Dev:** 3.31 seconds
 
-**Implication:** A model capable of perfect consistency for 5 seconds covers >65% of all editorial needs. A model capable of 15 seconds covers >99%.
+### 2. The "Re-ID Frequency" (The Compute Argument)
+If the average shot is 3 seconds, a standard 90-minute movie requires the audience to re-identify the character/context **1,800 times**.
 
-### 2. The "20-Second Ceiling" in Blockbusters
-We isolated high-VFX blockbusters—the target aesthetic for high-end video models—to test for "long take" dependency. The data shows a rigorous adherence to a <20s ceiling, even in sequences often perceived as continuous.
+*   **Average Cuts Per Minute:** ~15.5
+*   **Implication:** Current models optimize for maintaining pixels for 60 seconds. But the audience optimizes for re-recognizing the character every 3-4 seconds. The bottleneck isn't keeping the face stable for a minute; it's re-generating the face 1,800 times with zero drift.
+
+### 3. The "10-Second Wasteland" (The ROI Argument)
+We calculated the percentage of shots that fall into the "Uncanny Valley of Duration" (10s - 30s).
+
+*   **Shots between 10s - 30s:** Only **4.38%** of the dataset.
+
+**The Hypothesis:** Filmmakers either use short shots (<5s) for pacing or extremely long shots (>30s) for "oners." almost no one cuts a 14-second shot. Building a model that handles 20 seconds is a waste of optimization. It’s too long for pacing, and too short for a "oner."
+
+## Visualizing "The Void"
+
+We plotted 57,000 shots on a heatmap (Runtime vs. Duration). The black area at the top represents the "Void"—the duration range that Veo/Sora are optimizing for, which effectively does not exist in modern cinema.
+
+![Heatmap of Pace](plots/heatmap_pace.png)
+*Figure 2: Heatmap of Pace. Note the dense "hot zone" at 2-5s and the complete lack of data density above 20s.*
+
+## The "20-Second Ceiling" in Blockbusters
+We isolated high-VFX blockbusters to test for "long take" dependency.
 
 | Film | Median Shot | Max Shot | % Under 20s |
 |------|-------------|----------|-------------|
@@ -29,11 +47,17 @@ We isolated high-VFX blockbusters—the target aesthetic for high-end video mode
 
 ![Scatter Plot](plots/distribution_histogram.png)
 
-### 3. Visualizing Cut Density
-The following visualization represents the temporal structure of *The Bourne Ultimatum*. Each vertical line represents a hard cut.
+## Genre Fingerprint
+Does this only apply to action movies? We compared the shot length distributions of Action, Drama, and Comedy.
 
-![Barcode Plot](plots/the_20s_ceiling_barcode.png)
-*Figure 2: Cut frequency visualization. The density of editorial events necessitates high-frequency re-contextualization (consistency across cuts) rather than long-context generation.*
+![Genre Fingerprint](plots/genre_fingerprint.png)
+*Figure 3: Even "Slow Drama" peaks at ~4 seconds. The pacing constraints are universal across genres.*
+
+## The Cost of Consistency
+The utility of shot generation hits diminishing returns almost immediately.
+
+![Cost Curve](plots/cost_of_consistency.png)
+*Figure 4: The curve shoots up to >80% coverage at 5 seconds. Extending consistency to 60s offers <1% additional utility at exponentially higher compute cost.*
 
 ## Methodology
 *   **Data Source A:** MovieBench (Shot-level annotations for 600+ films).

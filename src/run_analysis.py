@@ -18,6 +18,13 @@ def main():
     print("\n--- GLOBAL STATS (MovieBench) ---")
     print(global_stats)
     
+    # New Insight Stats
+    reid_freq = stats.get_reid_frequency(mb_df)
+    print(f"Re-ID Frequency (Cuts per min): {reid_freq:.2f}")
+    
+    wasteland_pct = stats.get_wasteland_stat(mb_df)
+    print(f"10-30s Wasteland %: {wasteland_pct:.2f}%")
+    
     # 3. Generate Blockbuster Specifics
     blockbuster_data = stats.get_blockbuster_stats(mb_df, hero_df)
     
@@ -38,8 +45,24 @@ def main():
     # Visual 3: Scatter (Blockbusters)
     visualization.plot_ceiling_scatter(blockbuster_data)
     
+    # NEW Visuals
+    
+    # Heatmap Data
+    heatmap_df = stats.get_heatmap_data(mb_df)
+    visualization.plot_heatmap_of_pace(heatmap_df)
+    
+    # Genre Fingerprint
+    genre_df = stats.get_genre_data(mb_df)
+    if not genre_df.empty:
+        visualization.plot_genre_fingerprint(genre_df)
+    else:
+        print("Warning: Could not extract genre data for fingerprint plot.")
+        
+    # Cost of Consistency
+    cost_df = stats.get_cost_consistency_data(mb_df)
+    visualization.plot_cost_of_consistency(cost_df)
+    
     print("\nAnalysis Complete. Check plots/ and README.md.")
 
 if __name__ == "__main__":
     main()
-
